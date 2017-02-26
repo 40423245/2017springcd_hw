@@ -27,27 +27,60 @@
 <v t="yen.20170215103332.1"><vh>@edit base.html</vh></v>
 </v>
 </v>
-<v t="yen.20170120110024.1"><vh>@clean index.html</vh>
+<v t="yen.20170120110024.1" a="E"><vh>@clean index.html</vh>
 <v t="yen.20170120110024.2" a="E"><vh>html</vh>
 <v t="yen.20170120110024.3"><vh>head</vh></v>
 <v t="yen.20170120110024.4" a="E"><vh>body</vh>
 <v t="yen.20170120110024.5" a="E"><vh>reveal div</vh>
 <v t="yen.20170120110024.6" a="E"><vh>slides div</vh>
-<v t="yen.20170120110024.7" a="E"><vh>封面投影片</vh>
+<v t="yen.20170120110024.7"><vh>封面投影片</vh>
 <v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
 </v>
-<v t="yen.20170120110024.9" a="E"><vh>快捷鍵</vh>
+<v t="yen.20170120110024.9"><vh>快捷鍵</vh>
 <v t="yen.20170120110024.10"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="yen.20170120110024.11"><vh>各式內容引用範例</vh>
-<v t="yen.20170120110024.12" a="E"><vh>導入數學符號與方程式</vh>
-<v t="yen.20170120110024.13"><vh>LaTeX 格式方程式</vh></v>
+<v t="yen.20170120110024.11" a="E"><vh>20170222第一週上課筆記</vh>
+<v t="yen.20170120110024.12"><vh>上課內容</vh>
+<v t="yen.20170120110024.13"><vh>上課大綱</vh></v>
 </v>
-<v t="yen.20170120110024.14" a="E"><vh>導入縮排程式碼</vh>
-<v t="yen.20170120110024.15"><vh>引用程式碼</vh></v>
+<v t="yen.20170120110024.14"><vh>一</vh>
+<v t="yen.20170120110024.15"><vh>課程大綱</vh></v>
 </v>
-<v t="yen.20170120110024.16" a="E"><vh>導入影片</vh>
-<v t="yen.20170120110024.17"><vh>iframe 導入影片</vh></v>
+<v t="leo.20170226171701.1"><vh>二-1</vh>
+<v t="leo.20170226171701.2"><vh>了解如何使用stunnel</vh></v>
+</v>
+<v t="leo.20170226172936.1"><vh>(1)圖片</vh>
+<v t="leo.20170226172936.2"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170226173320.1"><vh>二-2</vh>
+<v t="leo.20170226173320.2"><vh>了解如何使用stunnel</vh></v>
+</v>
+<v t="leo.20170226172938.1"><vh>(2)圖片</vh>
+<v t="leo.20170226172938.2"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170226173331.1"><vh>二-3</vh>
+<v t="leo.20170226173331.2"><vh>了解如何使用stunnel</vh></v>
+</v>
+<v t="leo.20170226172940.1"><vh>(3)圖片</vh>
+<v t="leo.20170226172940.2"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170226171703.1" a="E"><vh>三-1</vh>
+<v t="leo.20170226171703.2"><vh>python程式碼控制Vrep</vh></v>
+</v>
+<v t="leo.20170226173018.1"><vh>(4)圖片</vh>
+<v t="leo.20170226173018.2"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170226173019.1"><vh>(5)圖片</vh>
+<v t="leo.20170226173019.2"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170226173834.1"><vh>三-2</vh>
+<v t="leo.20170226173834.2"><vh>python程式碼控制Vrep</vh></v>
+</v>
+<v t="leo.20170226173023.1"><vh>(6)圖片</vh>
+<v t="leo.20170226173023.2"><vh>圖片</vh></v>
+</v>
+<v t="yen.20170120110024.16"><vh>影片</vh>
+<v t="yen.20170120110024.17"><vh>第一週心得影片</vh></v>
 </v>
 </v>
 </v>
@@ -204,6 +237,160 @@ Author: yen
 <t tx="leo.20170226155149.1">
 example
 </t>
+<t tx="leo.20170226171701.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170226171701.2">###二.了解如何使用stunnel，並且嘗試以anonymous（無名氏/遊客）的身份進入https://192.168.1.24/2017springvcp_hw/index。
+
+####在按下start之後，會出現錯誤的圖案
+
+</t>
+<t tx="leo.20170226171703.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170226171703.2">###三.利用python程式碼控制Vrep裡的單連桿作動。
+
+####可至課程倉儲的data裡下載fourbar_eightbar_solvespace_vrep.7z以及onelink_vrep_remoteapi_pos_vel.7z兩個檔案，解壓縮後會有三個檔案，分別是單連桿、四連桿及八連桿，可試著在solvespace及Vrep裡開啟。
+
+</t>
+<t tx="leo.20170226172936.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170226172936.2">&lt;/span&gt;&lt;img src="data/W1/stunnel Error.png" width="640" /&gt;
+
+</t>
+<t tx="leo.20170226172938.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170226172938.2">&lt;/span&gt;&lt;img src="data/W1/stunnel ip位置.png" width="640" /&gt;
+
+</t>
+<t tx="leo.20170226172940.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170226172940.2">###&lt;img src="data/W1/2017springvcp_hw-index.png" width="640" /&gt;
+</t>
+<t tx="leo.20170226173018.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170226173018.2">&lt;img src="data/jansen_solvespace_2.png" width="640" /&gt;
+
+</t>
+<t tx="leo.20170226173019.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170226173019.2">&lt;img src="data/W1/fourbar345.png" width="640" /&gt;
+
+</t>
+<t tx="leo.20170226173023.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170226173023.2">&lt;img src="data/W1/one_link_robot_remoteAPI.png" width="640" /&gt;
+</t>
+<t tx="leo.20170226173320.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170226173320.2">###這是因為stunnel資料夾裡的config/styunnel.conf裡的ip與電腦的ip不同(styunnel.conf裡的分號代表註解)，可至cmd打ipconfig/all的指令，找到電腦的ip位置並將其複製、貼到styunnel.conf裡，(443為https的Port號不須修改)
+
+</t>
+<t tx="leo.20170226173331.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170226173331.2">###如果有設置proxy就必須要到設定proxy的地方按進階，將電腦ip設為額外ip，這樣就可至google打網址，並且嘗試以anonymous（無名氏/遊客）的身份進入https://192.168.1.24/2017springvcp_hw/index。
+
+</t>
+<t tx="leo.20170226173834.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170226173834.2">###在Vrep裡開啟one_link_robot_remoteAPI.ttt的檔案(ttt是Vrep檔案的副檔名)，在SciTE裡開啟one_link_robot_remoteAPI_joint_target_vel.py的檔案，按下Tool裡的Go即可開始控制單連桿，按Enter會旋轉，按P會暫停。</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -381,13 +568,13 @@ make.start()</t>
 
 						
 </t>
-<t tx="yen.20170120110024.13"># 數學符號與方程式
+<t tx="yen.20170120110024.13">#第一週上課筆記
 
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
+##一.這學期的課程大綱
 
-$$I = \int \rho R^{2} dV$$
-</t>
+##二.了解如何使用stunnel
+
+##三.利用python程式碼控制Vrep裡的單連桿作動。</t>
 <t tx="yen.20170120110024.14">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -399,34 +586,7 @@ $$I = \int \rho R^{2} dV$$
 
 						
 </t>
-<t tx="yen.20170120110024.15">## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-@language python
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
-
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
-</t>
+<t tx="yen.20170120110024.15">##一.可至2017 Spring 協同產品設計實習觀看這學期的課程大綱，老師介紹了Blender 3dstudio maya的相關性，簡略說明c語言與python的優劣與使用時機。</t>
 <t tx="yen.20170120110024.16">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -436,11 +596,11 @@ make.start()
 
 						
 </t>
-<t tx="yen.20170120110024.17">## 使用 iframe 導入影片
+<t tx="yen.20170120110024.17">##第一週心得影片
 
-### 導入影片 template
+&lt;iframe src="https://player.vimeo.com/video/205656178" width="640" height="425" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/205656178"&gt;40423245機械設計工程系-協同產品設計實習課程-W1&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="yen.20170120110024.2">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
@@ -533,11 +693,15 @@ make.start()
 
 ### 虎科大機械設計工程系
 
+####學員 40423245 課程簡報
+
 &lt;small&gt;
-Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
+Created by [40423245](https://40423245.github.io/2017springcd_hw/blog/)
 &lt;/small&gt;
 
 [協同產品設計實習課程網誌](blog/index.html)
+
+[Vimeo 上課心得影片](https://vimeo.com/user47996237)
 
 
 </t>
