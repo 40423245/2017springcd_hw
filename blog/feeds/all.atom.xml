@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-02-22T11:00:00+08:00</updated><entry><title>2017/2/22 W1</title><link href="./W1.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423245</name></author><id>tag:,2017-02-22:./W1.html</id><summary type="html">&lt;h2&gt;2017Spring 協同產品設計實習課程  第一週&lt;/h2&gt;
+
+
+&lt;p&gt;&lt;span style="background-color: #ffff00"&gt;一.&lt;/span&gt;可至&lt;a href="http://mde.tw/2017springcd/blog/2017spring-cd.html"&gt;2017 Spring 協同產品設計實習&lt;/a&gt;觀看這學期的課程大綱，老師介紹了Blender 3dstudio maya的相關性，簡略說明c語言與python的優劣與使用時機。&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00"&gt;二.&lt;/span&gt;了解如何使用stunnel
+，並且嘗試以anonymous（無名氏/遊客）的身份進入https://192.168.1.24/2017springvcp_hw/index。&lt;/p&gt;
+&lt;p&gt;在按下start之後，會出現錯誤的圖案&lt;span style="background-color: #55ff55"&gt;(1)&lt;/span&gt;，這是因為stunnel資料夾裡的config/styunnel.conf裡的ip與電腦的ip不同(styunnel.conf裡的分號代表註解)，可至cmd打ipconfig/all的指令，找到電腦的ip位置並將其複製、貼到styunnel.conf裡&lt;span style="background-color: #55ff55"&gt;(2)&lt;/span&gt;，(443為https的Port號不須修改)，如果有設置proxy就必須要到設定proxy的地方按進階，將電腦ip設為額外ip，這樣就可至google打網址，並且嘗試以anonymous（無名氏/遊客）的身份進入https://192.168.1.24/2017springvcp_hw/index。&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #55ff55"&gt;(1)&lt;/span&gt;&lt;img src="./../data/W1/stunnel Error.png" width="240" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #55ff55"&gt;(2)&lt;/span&gt;&lt;img src="./../data/W1/stunnel ip位置.png" width="240" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/W1/2017springvcp_hw-index.png" width="560" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00"&gt;三.&lt;/span&gt;利用python程式碼控制Vrep裡的單連桿作動。&lt;/p&gt;
+&lt;p&gt;可至&lt;a href="http://github.com/mdecourse/2017springcd"&gt;課程倉儲&lt;/a&gt;的data裡下載fourbar_eightbar_solvespace_vrep.7z以及onelink_vrep_remoteapi_pos_vel.7z兩個檔案，解壓縮後會有三個檔案，分別是單連桿、四連桿及八連桿，可試著在solvespace及Vrep裡開啟。&lt;/p&gt;
+&lt;p&gt;在Vrep裡開啟one_link_robot_remoteAPI.ttt的檔案(ttt是Vrep檔案的副檔名)，在SciTE裡開啟one_link_robot_remoteAPI_joint_target_vel.py的檔案，按下Tool裡的Go即可開始控制單連桿，按Enter會旋轉，按P會暫停。&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/jansen_solvespace_2.png" width="560" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/W1/fourbar345.png" width="560" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/W1/one_link_robot_remoteAPI.png" width="560" /&gt;&lt;/p&gt;
+&lt;h2&gt;第一週心得影片&lt;/h2&gt;
+&lt;iframe src="https://player.vimeo.com/video/205656178" width="560" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/205656178"&gt;40423245機械設計工程系-協同產品設計實習課程-W1&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="Reviews"></category><category term="w1"></category></entry></feed>
