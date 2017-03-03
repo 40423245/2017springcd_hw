@@ -1,0 +1,270 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+<title>
+2017 Spring 機械設計工程系協同產品設計實習
+</title>
+    <meta name="description" content="A framework for easily creating beautiful presentations using HTML">
+    <meta name="author" content="Hakim El Hattab">
+    
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    
+    <link rel="stylesheet" href="https://cad-lab.github.io/cadlab_data/reveal/css/reveal.css">
+    <link rel="stylesheet" href="https://cad-lab.github.io/cadlab_data/reveal/css/theme/black.css" id="theme">
+    
+    <!-- Theme used for syntax highlighting of code -->
+    <link rel="stylesheet" href="https://cad-lab.github.io/cadlab_data/reveal/lib/css/zenburn.css">
+
+    <!-- Printing and PDF exports -->
+    <script>
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = window.location.search.match( /print-pdf/gi ) ? 'https://cad-lab.github.io/cadlab_data/reveal/css/print/pdf.css' : 'https://cad-lab.github.io/cadlab_data/reveal/css/print/paper.css';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+    </script>
+
+    <!--[if lt IE 9]>
+    <script src="https://cad-lab.github.io/cadlab_data/reveal/lib/js/html5shiv.js"></script>
+    <![endif]-->
+</head>
+
+<body>
+<div class="reveal">
+<!-- Any section element inside of this container is displayed as a slide -->
+<div class="slides">
+<section data-markdown>
+    <script type="text/template">
+## 2017Spring 協同產品設計實習
+
+### 虎科大機械設計工程系
+
+####學員 40423245 課程簡報
+
+<small>
+Created by [40423245](https://40423245.github.io/2017springcd_hw/blog/)
+</small>
+
+[協同產品設計實習課程網誌](blog/index.html)
+
+[Vimeo 上課心得影片](https://vimeo.com/user47996237)
+
+
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+# 投影片快捷鍵
+
+* 利用箭頭上下前後換頁
+* 按 f 鍵進入全螢幕模式 (full screen)
+* 按 s 鍵可以顯示投影片筆記 (show)
+* 按 o 鍵可以切換單張或全域檢視 (overview)
+* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
+* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+
+    </script>
+</section>
+
+
+						
+<section>
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+#第一週上課筆記
+
+##一.這學期的課程大綱
+
+##二.了解如何使用stunnel
+
+##三.利用python程式碼控制Vrep裡的單連桿作動。
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+##一.可至2017 Spring 協同產品設計實習觀看這學期的課程大綱，老師介紹了Blender 3dstudio maya的相關性，簡略說明c語言與python的優劣與使用時機。
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+###二.了解如何使用stunnel，並且嘗試以anonymous（無名氏/遊客）的身份進入https://192.168.1.24/2017springvcp_hw/index。
+
+####在按下start之後，會出現錯誤的圖案
+
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+</span><img src="data/W1/stunnel Error.png" width="640" />
+
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+###這是因為stunnel資料夾裡的config/styunnel.conf裡的ip與電腦的ip不同(styunnel.conf裡的分號代表註解)，可至cmd打ipconfig/all的指令，找到電腦的ip位置並將其複製、貼到styunnel.conf裡，(443為https的Port號不須修改)
+
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+</span><img src="data/W1/stunnel ip位置.png" width="640" />
+
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+###如果有設置proxy就必須要到設定proxy的地方按進階，將電腦ip設為額外ip，這樣就可至google打網址，並且嘗試以anonymous（無名氏/遊客）的身份進入https://192.168.1.24/2017springvcp_hw/index。
+
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+###<img src="data/W1/2017springvcp_hw-index.png" width="640" />
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+###三.利用python程式碼控制Vrep裡的單連桿作動。
+
+####可至課程倉儲的data裡下載fourbar_eightbar_solvespace_vrep.7z以及onelink_vrep_remoteapi_pos_vel.7z兩個檔案，解壓縮後會有三個檔案，分別是單連桿、四連桿及八連桿，可試著在solvespace及Vrep裡開啟。
+
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+<img src="data/jansen_solvespace_2.png" width="640" />
+
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+<img src="data/W1/fourbar345.png" width="640" />
+
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+###在Vrep裡開啟one_link_robot_remoteAPI.ttt的檔案(ttt是Vrep檔案的副檔名)，在SciTE裡開啟one_link_robot_remoteAPI_joint_target_vel.py的檔案，按下Tool裡的Go即可開始控制單連桿，按Enter會旋轉，按P會暫停。
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+<img src="data/W1/one_link_robot_remoteAPI.png" width="640" />
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##第一週心得影片
+
+<iframe src="https://player.vimeo.com/video/205656178" width="640" height="425" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/205656178">40423245機械設計工程系-協同產品設計實習課程-W1</a> from <a href="https://vimeo.com/user47996237">40423245</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+    </script>
+</section>
+
+
+						
+</section>
+</div>
+
+</div>
+
+<script src="https://cad-lab.github.io/cadlab_data/reveal/lib/js/head.min.js"></script>
+<script src="https://cad-lab.github.io/cadlab_data/reveal/js/reveal.js"></script>
+<script>
+        // More info https://github.com/hakimel/reveal.js#configuration
+        Reveal.initialize({
+            controls: true,
+            progress: true,
+            history: true,
+            center: true,
+
+            transition: 'slide', // none/fade/slide/convex/concave/zoom
+
+            // More info https://github.com/hakimel/reveal.js#dependencies
+            dependencies: [
+                { src: 'https://cad-lab.github.io/cadlab_data/reveal/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+                { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+                { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+                { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+                { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/zoom-js/zoom.js', async: true },
+                { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/notes/notes.js', async: true },
+                { src: 'https://cad-lab.github.io/cadlab_data/reveal/plugin/math/math.js', async: true }
+            ]
+        });
+</script>
+</body>
+</html>
+
