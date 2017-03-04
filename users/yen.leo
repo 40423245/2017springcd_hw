@@ -39,7 +39,7 @@
 <v t="leo.20170303213004.4"><vh>快捷鍵</vh>
 <v t="leo.20170303213004.5"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20170303213004.6"><vh>20170222第一週上課筆記</vh>
+<v t="leo.20170303213004.6" a="E"><vh>20170222第一週上課筆記</vh>
 <v t="leo.20170303213004.7"><vh>上課內容</vh>
 <v t="leo.20170303213004.8"><vh>上課大綱</vh></v>
 </v>
@@ -64,7 +64,7 @@
 <v t="leo.20170303213004.21"><vh>(3)圖片</vh>
 <v t="leo.20170303213004.22"><vh>圖片</vh></v>
 </v>
-<v t="leo.20170303213004.23" a="E"><vh>三-1</vh>
+<v t="leo.20170303213004.23"><vh>三-1</vh>
 <v t="leo.20170303213004.24"><vh>python程式碼控制Vrep</vh></v>
 </v>
 <v t="leo.20170303213004.25"><vh>(4)圖片</vh>
@@ -76,7 +76,7 @@
 <v t="leo.20170303213004.29"><vh>三-2</vh>
 <v t="leo.20170303213004.30"><vh>python程式碼控制Vrep</vh></v>
 </v>
-<v t="leo.20170303213004.31"><vh>(6)圖片</vh>
+<v t="leo.20170303213004.31" a="E"><vh>(6)圖片</vh>
 <v t="leo.20170303213004.32"><vh>圖片</vh></v>
 </v>
 <v t="leo.20170303213004.33"><vh>影片</vh>
@@ -88,7 +88,7 @@
 </v>
 </v>
 </v>
-<v t="yen.20170108171733.71"><vh>@path content</vh>
+<v t="yen.20170108171733.71" a="E"><vh>@path content</vh>
 <v t="yen.20170123225841.1"><vh>@edit 20170108.md</vh></v>
 <v t="leo.20170303212553.1"><vh>@@edit 20170108.md</vh></v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
@@ -263,7 +263,7 @@ Author: yen
 
 						
 </t>
-<t tx="leo.20170303213004.14">&lt;/span&gt;&lt;img src="data/W1/stunnel Error.png" width="640" /&gt;
+<t tx="leo.20170303213004.14">&lt;/span&gt;&lt;img src="data/image W1/stunnel Error.png" width="640" /&gt;
 
 </t>
 <t tx="leo.20170303213004.15">&lt;section data-markdown&gt;
@@ -291,7 +291,7 @@ Author: yen
 
 						
 </t>
-<t tx="leo.20170303213004.18">&lt;/span&gt;&lt;img src="data/W1/stunnel ip位置.png" width="640" /&gt;
+<t tx="leo.20170303213004.18">&lt;/span&gt;&lt;img src="data/image W1/stunnel ip位置.png" width="640" /&gt;
 
 </t>
 <t tx="leo.20170303213004.19">&lt;section data-markdown&gt;
@@ -328,7 +328,7 @@ Author: yen
 
 						
 </t>
-<t tx="leo.20170303213004.22">###&lt;img src="data/W1/2017springvcp_hw-index.png" width="640" /&gt;
+<t tx="leo.20170303213004.22">###&lt;img src="data/image W1/2017springvcp_hw-index.png" width="640" /&gt;
 </t>
 <t tx="leo.20170303213004.23">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -371,7 +371,7 @@ Author: yen
 
 						
 </t>
-<t tx="leo.20170303213004.28">&lt;img src="data/W1/fourbar345.png" width="640" /&gt;
+<t tx="leo.20170303213004.28">&lt;img src="data/image W1/fourbar345.png" width="640" /&gt;
 
 </t>
 <t tx="leo.20170303213004.29">&lt;section data-markdown&gt;
@@ -395,7 +395,7 @@ Author: yen
 Created by [40423245](https://40423245.github.io/2017springcd_hw/blog/)
 &lt;/small&gt;
 
-[協同產品設計實習課程網誌](blog/index.html)
+[協同產品設計實習課程個人網誌](blog/index.html)
 
 [Vimeo 上課心得影片](https://vimeo.com/user47996237)
 
@@ -413,7 +413,7 @@ Created by [40423245](https://40423245.github.io/2017springcd_hw/blog/)
 
 						
 </t>
-<t tx="leo.20170303213004.32">&lt;img src="data/W1/one_link_robot_remoteAPI.png" width="640" /&gt;
+<t tx="leo.20170303213004.32">&lt;img src="data/image W1/one_link_robot_remoteAPI.png" width="640" /&gt;
 </t>
 <t tx="leo.20170303213004.33">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
