@@ -236,6 +236,230 @@ Created by [40423245](https://40423245.github.io/2017springcd_hw/blog/)
 
 
 						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+###第一週心得  : 在經過上學期得學習，發現這學期的課程變得有點難，在每個禮拜最後一堂課還要上台分享，期望能迅速地進入狀況。
+    </script>
+</section>
+
+
+
+						
+</section>
+<section>
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+#第二週上課筆記
+
+##一.利用python找出缺課人員
+
+##二.在solvespace組立四連桿，並放置到Vrep裡。
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+##一.利用python找出缺課人員
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+##可至班級倉儲data下載W2資料夾裡的cd_w2.py(有填寫座位表的人)和w2b_registered.txt(有修課的人)，接著利用利用程式碼列印出分組名單、座位列表、缺席學生和學生總數
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+## 分組座位程式碼
+以下利用 Python格式列印出班級座位表
+```
+#import os
+#讀取w2b_cadlab.txt的檔案將其儲存為adata，並設定encoding為utf-8
+adata = open("w2b_cadlab.txt", encoding="utf-8").read()
+#讀取w2b_registered.txt的檔案將其儲存為rdata，並一行一行隔開，並設定encoding為utf-8
+rdata = open("w2b_registered.txt", encoding="utf-8").read().splitlines()
+#print(adata)
+#利用splitlines將adata一行一行隔開並其儲存為alist
+alist = adata.splitlines()
+#print(alist[2])
+#將變數n儲存為0
+n = 0
+#將列從0開始算起
+row = 0
+#將final_list儲存為一個空的數列
+final_list = []
+#將w2_list儲存為一個空的數列
+w2_list = []
+#執行一個for迴圈從第二列開始
+for stud_num in alist[2:]:
+    #每執行完一次迴圈列數+1
+    row = row + 1
+    #執行完迴圈後用\將其隔開並儲存為blist
+    blist = stud_num.split("\t")
+    #print(blist)
+    #將行從0開始算起
+    column = 0
+    #執行一個for迴圈去取得blist裡的數列
+    for i in range(len(blist)):
+         #每執行完一次迴圈行數+1
+        column = column + 1
+        #假如blist數列裡不是空白
+        if blist[i] != "":
+            #print(blist[i])
+            #將組序有用_隔開的儲存為clist 
+            clist = blist[i].split("_")
+            #將組序+_+學號+_+列+行的資料儲存為stud_data
+            stud_data = clist[0]+"_"+clist[1]+"_"+str(row)+"_"+str(column)
+             #將stud_data結果附加在final_list的資料裡
+            final_list.append(stud_data)
+            #將clist[1]結果附加在w2_list的資料裡
+            w2_list.append(clist[1])
+            #每執行完一次迴圈n+1
+            n = n +1
+# 根據數列前導字串排序, 目的在建立分組數列
+group_list = sorted(final_list)
+#列印出分組名單
+print("分組名單:")
+#執行一個for迴圈去取得group_list裡的數列
+for i in range(len(group_list)):
+    #列印出 group_list[i]的資料
+    print(group_list[i])
+#列印出座位列表
+print("座位列表:")
+#執行一個for迴圈去取得final_list裡的數列
+for i in range(len(final_list)):
+    #列印出 final_list[i]的資料
+    print(final_list[i])
+#執行一個for迴圈去取得rdata裡的數列
+for i in range(len(rdata)):
+    #假如有在rdata裡但沒有在w2_list裡，目的在找出缺席學生
+    if rdata[i] not in w2_list:
+        #列印出 rdata[i]的資料，缺席學生
+        print("缺席學生:", rdata[i])
+#列印出學生總數n個
+print("學生總數:", n)
+#print(os.environ)
+
+```
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+##二.在solvespace組立四連桿，並放置到Vrep裡。
+
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+##先在solvespace裡繪製出四連桿結構
+
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+<img src="data/image W2/fourbar Architecture.png" width="640" />
+
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+##再將桿子組立起來(利用點與點的重合、線的共線及點與面的重合，限制桿子的作動。)
+
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+<img src="data/image W2/fourbar combination.png" width="640" />
+
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+##最後將四連桿儲存成stl檔`並用Vrep裡的import裡的Mash開啟(開啟時四連桿會重疊到地面，可用object/item shift調整Z軸高度)
+
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+<img src="data/image W2/Vrep fourbar combination.png" width="640" />
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##第二週心得  
+  這禮拜理解到了程式碼的方便之處，體驗到了利用程式碼去處理繁雜的資料，r接著開始了解如何使用Vrep，以利之後要設計的八隻腳。
+
+
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##第二週心得影片
+
+<iframe src="https://player.vimeo.com/video/206845385" width="640" height="457" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/206845385">40423245機械設計工程系 - 協同產品設計實習課程-W2</a> from <a href="https://vimeo.com/user47996237">40423245</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+    </script>
+</section>
+
+
+						
 </section>
 </div>
 

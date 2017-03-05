@@ -1,5 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-02-22T11:00:00+08:00</updated><entry><title>2017/2/22 W1</title><link href="./2017spring-cd-W1.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423245</name></author><id>tag:,2017-02-22:./2017spring-cd-W1.html</id><summary type="html">&lt;h2&gt;2017Spring 協同產品設計實習課程  第一週&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-03-01T11:00:00+08:00</updated><entry><title>2017/03/01 W2</title><link href="./2017spring-cd-W2.html" rel="alternate"></link><published>2017-03-01T11:00:00+08:00</published><updated>2017-03-01T11:00:00+08:00</updated><author><name>40423245</name></author><id>tag:,2017-03-01:./2017spring-cd-W2.html</id><summary type="html">&lt;h2&gt;2017Spring 協同產品設計實習課程  第二週&lt;/h2&gt;
+
+
+&lt;p&gt;&lt;span style="background-color: #ffff00"&gt;一.&lt;/span&gt;利用python找出缺課人員&lt;/p&gt;
+&lt;p&gt;可至班級倉儲data下載W2資料夾裡的cd_w2.py(有填寫座位表的人)和w2b_registered.txt(有修課的人)，接著利用利用程式碼列印出分組名單、座位列表、缺席學生和學生總數。&lt;/p&gt;
+&lt;h3&gt;分組座位程式碼&lt;/h3&gt;
+
+&lt;pre class="brush: python"&gt;
+#import os
+#讀取w2b_cadlab.txt的檔案將其儲存為adata，並設定encoding為utf-8
+adata = open("w2b_cadlab.txt", encoding="utf-8").read()
+#讀取w2b_registered.txt的檔案將其儲存為rdata，並一行一行隔開，並設定encoding為utf-8
+rdata = open("w2b_registered.txt", encoding="utf-8").read().splitlines()
+#列印出adata，以便檢查結果
+#print(adata)
+#利用splitlines將adata一行一行隔開並其儲存為alist
+alist = adata.splitlines()
+#列印出alist[2]，以便檢查結果
+#print(alist[2])
+#將變數n儲存為0
+n = 0
+#將列從0開始算起
+row = 0
+#將final_list儲存為一個空的數列
+final_list = []
+#將w2_list儲存為一個空的數列
+w2_list = []
+#執行一個for迴圈從第二列開始
+for stud_num in alist[2:]:
+    #每執行完一次迴圈列數+1
+    row = row + 1
+    #執行完迴圈後用\將其隔開並儲存為blist
+    blist = stud_num.split("\t")
+    #列印出blist，以便檢查結果
+    #print(blist)
+    #將行從0開始算起
+    column = 0
+    #執行一個for迴圈去取得blist裡的數列
+    for i in range(len(blist)):
+         #每執行完一次迴圈行數+1
+        column = column + 1
+        #假如blist數列裡不是空白
+        if blist[i] != "":
+            #列印出blist[i]，以便檢查結果
+            #print(blist[i])
+            #將組序有用_隔開的儲存為clist 
+            clist = blist[i].split("_")
+            #將組序+_+學號+_+列+行的資料儲存為stud_data
+            stud_data = clist[0]+"_"+clist[1]+"_"+str(row)+"_"+str(column)
+             #將stud_data結果附加在final_list的資料裡
+            final_list.append(stud_data)
+            #將clist[1]結果附加在w2_list的資料裡
+            w2_list.append(clist[1])
+            #每執行完一次迴圈n+1
+            n = n +1
+# 根據數列前導字串排序, 目的在建立分組數列
+group_list = sorted(final_list)
+#列印出分組名單
+print("分組名單:")
+#執行一個for迴圈去取得group_list裡的數列
+for i in range(len(group_list)):
+    #列印出 group_list[i]的資料
+    print(group_list[i])
+#列印出座位列表
+print("座位列表:")
+#執行一個for迴圈去取得final_list裡的數列
+for i in range(len(final_list)):
+    #列印出 final_list[i]的資料
+    print(final_list[i])
+#執行一個for迴圈去取得rdata裡的數列
+for i in range(len(rdata)):
+    #假如有在rdata裡但沒有在w2_list裡，目的在找出缺席學生
+    if rdata[i] not in w2_list:
+        #列印出 rdata[i]的資料，缺席學生
+        print("缺席學生:", rdata[i])
+#列印出學生總數n個
+print("學生總數:", n)
+#print(os.environ)
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;span style="background-color: #ffff00"&gt;二.&lt;/span&gt;在solvespace組立四連桿，並放置到Vrep裡。&lt;/p&gt;
+&lt;p&gt;先在solvespace裡繪製出四連桿結構&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/image W2/fourbar Architecture.png" width="560" /&gt;&lt;/p&gt;
+&lt;p&gt;再將桿子組立起來(利用點與點的重合、線的共線及點與面的重合，限制桿子的作動。)&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/image W2/fourbar combination.png" width="560" /&gt;&lt;/p&gt;
+&lt;p&gt;最後將四連桿儲存成stl檔`並用Vrep裡的import裡的Mash開啟(開啟時四連桿會重疊到地面，可用object/item shift調整Z軸高度)&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/image W2/Vrep fourbar combination.png" width="560" /&gt;&lt;/p&gt;
+&lt;h2&gt;第二週心得&lt;/h2&gt;
+&lt;p&gt;這禮拜理解到了程式碼的方便之處，體驗到了利用程式碼去處理繁雜的資料，r接著開始了解如何使用Vrep，以利之後要設計的八隻腳。&lt;/p&gt;
+&lt;h2&gt;第二週心得影片&lt;/h2&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/206845385" width="640" height="457" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/206845385"&gt;40423245機械設計工程系 - 協同產品設計實習課程-W2&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="notes"></category><category term="w2"></category></entry><entry><title>2017/02/22 W1</title><link href="./2017spring-cd-W1.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423245</name></author><id>tag:,2017-02-22:./2017spring-cd-W1.html</id><summary type="html">&lt;h2&gt;2017Spring 協同產品設計實習課程  第一週&lt;/h2&gt;
 
 
 &lt;p&gt;&lt;span style="background-color: #ffff00"&gt;一.&lt;/span&gt;可至&lt;a href="http://mde.tw/2017springcd/blog/2017spring-cd.html"&gt;2017 Spring 協同產品設計實習&lt;/a&gt;觀看這學期的課程大綱，老師介紹了Blender 3dstudio maya的相關性，簡略說明c語言與python的優劣與使用時機。&lt;/p&gt;
@@ -15,6 +106,8 @@
 &lt;p&gt;&lt;img src="./../data/jansen_solvespace_2.png" width="560" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="./../data/image W1/fourbar345.png" width="560" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="./../data/image W1/one_link_robot_remoteAPI.png" width="560" /&gt;&lt;/p&gt;
+&lt;h2&gt;第一週心得&lt;/h2&gt;
+&lt;p&gt;在經過上學期得學習，發現這學期的課程變得有點難，在每個禮拜最後一堂課還要上台分享，期望能迅速地進入狀況。&lt;/p&gt;
 &lt;h2&gt;第一週心得影片&lt;/h2&gt;
 &lt;iframe src="https://player.vimeo.com/video/205656178" width="560" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 

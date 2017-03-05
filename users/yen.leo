@@ -39,7 +39,7 @@
 <v t="leo.20170303213004.4"><vh>快捷鍵</vh>
 <v t="leo.20170303213004.5"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20170303213004.6" a="E"><vh>20170222第一週上課筆記</vh>
+<v t="leo.20170303213004.6"><vh>20170222第一週上課筆記</vh>
 <v t="leo.20170303213004.7"><vh>上課內容</vh>
 <v t="leo.20170303213004.8"><vh>上課大綱</vh></v>
 </v>
@@ -76,11 +76,55 @@
 <v t="leo.20170303213004.29"><vh>三-2</vh>
 <v t="leo.20170303213004.30"><vh>python程式碼控制Vrep</vh></v>
 </v>
-<v t="leo.20170303213004.31" a="E"><vh>(6)圖片</vh>
+<v t="leo.20170303213004.31"><vh>(6)圖片</vh>
 <v t="leo.20170303213004.32"><vh>圖片</vh></v>
 </v>
 <v t="leo.20170303213004.33"><vh>影片</vh>
 <v t="leo.20170303213004.34"><vh>第一週心得影片</vh></v>
+</v>
+<v t="leo.20170304213241.1"><vh>心得</vh>
+<v t="leo.20170304213241.2"><vh>心得</vh></v>
+</v>
+</v>
+<v t="leo.20170304202812.1" a="E"><vh>20170301第二週上課筆記</vh>
+<v t="leo.20170304202812.2" a="E"><vh>上課內容</vh>
+<v t="leo.20170304202812.3"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170304202812.4"><vh>一-1</vh>
+<v t="leo.20170304202812.5"><vh>課程標題</vh></v>
+</v>
+<v t="leo.20170305173446.1"><vh>一-2</vh>
+<v t="leo.20170305173446.2"><vh>課程內容</vh></v>
+</v>
+<v t="leo.20170305173211.1"><vh>一-3</vh>
+<v t="leo.20170305173211.2"><vh>程式碼</vh></v>
+</v>
+<v t="leo.20170304202812.6"><vh>二-1</vh>
+<v t="leo.20170304202812.7"><vh>標題</vh></v>
+</v>
+<v t="leo.20170305173806.1"><vh>二-2</vh>
+<v t="leo.20170305173806.2"><vh>內容1</vh></v>
+</v>
+<v t="leo.20170304202812.8"><vh>(1)圖片</vh>
+<v t="leo.20170304202812.9"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170304202812.10"><vh>二-3</vh>
+<v t="leo.20170304202812.11"><vh>內容2</vh></v>
+</v>
+<v t="leo.20170304202812.12"><vh>(2)圖片</vh>
+<v t="leo.20170304202812.13"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170304202812.14"><vh>二-4</vh>
+<v t="leo.20170304202812.15"><vh>內容3</vh></v>
+</v>
+<v t="leo.20170304202812.16"><vh>(3)圖片</vh>
+<v t="leo.20170304202812.17"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170305174109.1"><vh>心得</vh>
+<v t="leo.20170305174109.2"><vh>心得</vh></v>
+</v>
+<v t="leo.20170304202812.28" a="E"><vh>影片</vh>
+<v t="leo.20170304202812.29"><vh>第二週心得影片</vh></v>
 </v>
 </v>
 </v>
@@ -89,7 +133,8 @@
 </v>
 </v>
 <v t="yen.20170108171733.71" a="E"><vh>@path content</vh>
-<v t="yen.20170123225841.1"><vh>@edit 20170108.md</vh></v>
+<v t="yen.20170123225841.1"><vh>@edit 20170222.md</vh></v>
+<v t="leo.20170304202845.1"><vh>@edit 20170301.md</vh></v>
 <v t="leo.20170303212553.1"><vh>@@edit 20170108.md</vh></v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
@@ -480,6 +525,268 @@ Created by [40423245](https://40423245.github.io/2017springcd_hw/blog/)
 
 
 						
+</t>
+<t tx="leo.20170304202812.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170304202812.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170304202812.11">##再將桿子組立起來(利用點與點的重合、線的共線及點與面的重合，限制桿子的作動。)
+
+</t>
+<t tx="leo.20170304202812.12">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170304202812.13">&lt;img src="data/image W2/fourbar combination.png" width="640" /&gt;
+
+</t>
+<t tx="leo.20170304202812.14">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170304202812.15">##最後將四連桿儲存成stl檔`並用Vrep裡的import裡的Mash開啟(開啟時四連桿會重疊到地面，可用object/item shift調整Z軸高度)
+
+</t>
+<t tx="leo.20170304202812.16">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170304202812.17">&lt;img src="data/image W2/Vrep fourbar combination.png" width="640" /&gt;</t>
+<t tx="leo.20170304202812.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170304202812.28">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170304202812.29">##第二週心得影片
+
+&lt;iframe src="https://player.vimeo.com/video/206845385" width="640" height="457" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/206845385"&gt;40423245機械設計工程系 - 協同產品設計實習課程-W2&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
+<t tx="leo.20170304202812.3">#第二週上課筆記
+
+##一.利用python找出缺課人員
+
+##二.在solvespace組立四連桿，並放置到Vrep裡。</t>
+<t tx="leo.20170304202812.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170304202812.5">##一.利用python找出缺課人員</t>
+<t tx="leo.20170304202812.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170304202812.7">##二.在solvespace組立四連桿，並放置到Vrep裡。
+
+</t>
+<t tx="leo.20170304202812.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170304202812.9">&lt;img src="data/image W2/fourbar Architecture.png" width="640" /&gt;
+
+</t>
+<t tx="leo.20170304213241.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170304213241.2">###第一週心得  : 在經過上學期得學習，發現這學期的課程變得有點難，在每個禮拜最後一堂課還要上台分享，期望能迅速地進入狀況。</t>
+<t tx="leo.20170305173211.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170305173211.2">## 分組座位程式碼
+以下利用 Python格式列印出班級座位表
+```
+@language python
+#import os
+#讀取w2b_cadlab.txt的檔案將其儲存為adata，並設定encoding為utf-8
+adata = open("w2b_cadlab.txt", encoding="utf-8").read()
+#讀取w2b_registered.txt的檔案將其儲存為rdata，並一行一行隔開，並設定encoding為utf-8
+rdata = open("w2b_registered.txt", encoding="utf-8").read().splitlines()
+#print(adata)
+#利用splitlines將adata一行一行隔開並其儲存為alist
+alist = adata.splitlines()
+#print(alist[2])
+#將變數n儲存為0
+n = 0
+#將列從0開始算起
+row = 0
+#將final_list儲存為一個空的數列
+final_list = []
+#將w2_list儲存為一個空的數列
+w2_list = []
+#執行一個for迴圈從第二列開始
+for stud_num in alist[2:]:
+    #每執行完一次迴圈列數+1
+    row = row + 1
+    #執行完迴圈後用\將其隔開並儲存為blist
+    blist = stud_num.split("\t")
+    #print(blist)
+    #將行從0開始算起
+    column = 0
+    #執行一個for迴圈去取得blist裡的數列
+    for i in range(len(blist)):
+         #每執行完一次迴圈行數+1
+        column = column + 1
+        #假如blist數列裡不是空白
+        if blist[i] != "":
+            #print(blist[i])
+            #將組序有用_隔開的儲存為clist 
+            clist = blist[i].split("_")
+            #將組序+_+學號+_+列+行的資料儲存為stud_data
+            stud_data = clist[0]+"_"+clist[1]+"_"+str(row)+"_"+str(column)
+             #將stud_data結果附加在final_list的資料裡
+            final_list.append(stud_data)
+            #將clist[1]結果附加在w2_list的資料裡
+            w2_list.append(clist[1])
+            #每執行完一次迴圈n+1
+            n = n +1
+# 根據數列前導字串排序, 目的在建立分組數列
+group_list = sorted(final_list)
+#列印出分組名單
+print("分組名單:")
+#執行一個for迴圈去取得group_list裡的數列
+for i in range(len(group_list)):
+    #列印出 group_list[i]的資料
+    print(group_list[i])
+#列印出座位列表
+print("座位列表:")
+#執行一個for迴圈去取得final_list裡的數列
+for i in range(len(final_list)):
+    #列印出 final_list[i]的資料
+    print(final_list[i])
+#執行一個for迴圈去取得rdata裡的數列
+for i in range(len(rdata)):
+    #假如有在rdata裡但沒有在w2_list裡，目的在找出缺席學生
+    if rdata[i] not in w2_list:
+        #列印出 rdata[i]的資料，缺席學生
+        print("缺席學生:", rdata[i])
+#列印出學生總數n個
+print("學生總數:", n)
+#print(os.environ)
+
+```</t>
+<t tx="leo.20170305173446.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170305173446.2">##可至班級倉儲data下載W2資料夾裡的cd_w2.py(有填寫座位表的人)和w2b_registered.txt(有修課的人)，接著利用利用程式碼列印出分組名單、座位列表、缺席學生和學生總數</t>
+<t tx="leo.20170305173806.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170305173806.2">##先在solvespace裡繪製出四連桿結構
+
+</t>
+<t tx="leo.20170305174109.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170305174109.2">##第二週心得  
+  這禮拜理解到了程式碼的方便之處，體驗到了利用程式碼去處理繁雜的資料，r接著開始了解如何使用Vrep，以利之後要設計的八隻腳。
+
+
 </t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
