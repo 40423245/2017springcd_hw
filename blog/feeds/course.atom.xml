@@ -1,5 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-03-01T11:00:00+08:00</updated><entry><title>2017/03/01 W2</title><link href="./2017spring-cd-W2.html" rel="alternate"></link><published>2017-03-01T11:00:00+08:00</published><updated>2017-03-01T11:00:00+08:00</updated><author><name>40423245</name></author><id>tag:,2017-03-01:./2017spring-cd-W2.html</id><summary type="html">&lt;h2&gt;2017Spring 協同產品設計實習課程  第二週&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-03-08T11:00:00+08:00</updated><entry><title>2017/03/08 W3</title><link href="./2017spring-cd-W3.html" rel="alternate"></link><published>2017-03-08T11:00:00+08:00</published><updated>2017-03-08T11:00:00+08:00</updated><author><name>40423245</name></author><id>tag:,2017-03-08:./2017spring-cd-W3.html</id><summary type="html">&lt;h2&gt;2017Spring 協同產品設計實習課程  第三週&lt;/h2&gt;
+
+
+&lt;p&gt;&lt;span style="background-color: #ffff00"&gt;一.&lt;/span&gt;利用python找出缺課人員&lt;/p&gt;
+&lt;h2&gt;第三週上課內容&lt;/h2&gt;
+&lt;h2&gt;第三週任務&lt;/h2&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00"&gt;2.&lt;/span&gt; 請完成 Solvespace 30-50-60 cm 比例的四連桿組立, 並轉出 stl 檔案, 以 import 方式轉入 V-rep&lt;/p&gt;
+&lt;p&gt;先在solvespace裡繪製出四連桿結構&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/image W2/fourbar Architecture.png" width="560" /&gt;&lt;/p&gt;
+&lt;p&gt;再將桿子組立起來(利用點與點的重合、線的共線及點與面的重合，限制桿子的作動。)&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/image W2/fourbar combination.png" width="560" /&gt;&lt;/p&gt;
+&lt;p&gt;最後將四連桿儲存成stl檔`並用Vrep裡的import裡的Mash開啟(開啟時四連桿會重疊到地面，可用object/item shift調整Z軸高度)&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/image W2/Vrep fourbar combination.png" width="560" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00"&gt;3.&lt;/span&gt; 請利用 Onshape 完成上述相同尺寸之四連桿機構, 以 stl 轉出 (或其他格式) 後, 再轉入 V-rep&lt;/p&gt;
+&lt;p&gt;先在Onshape中繪製出四連桿&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/image W3/fourbar in onshape.png" width="560" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://cad.onshape.com/documents/8a40a446a6e3a930313e8ca4/w/b9aa548914cf88a0a506e817/e/6f45645181ba9446e1398078"&gt;Onshape四連桿機構&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;接著將四連桿匯出，分別有PARASOLID，ACIS
+，STEP，IGES，COLLADA，STL的檔案格式&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/image W3/onshape format.png" width="560" /&gt;&lt;/p&gt;
+&lt;p&gt;接著在Vrep裡用import裡的Mesh將檔案匯入，發現只能匯入stl檔案&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/image W3/Vrep stl.png"width="560" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/image W3/Vrep fourbar.png"width="560" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00"&gt;4.&lt;/span&gt;請在 50 連桿上加上 50-50-50 正三角形, 以 Solvespace 輸入該三角形頂點運動軌跡&lt;/p&gt;
+&lt;p&gt;先利用solvespace在 50 連桿上加上 50-50-50 正三角形，並利用Analyze裡的Trace point繪製出頂點的運動軌跡。&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/image W3/fourbar trace point.png" width="560" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00"&gt;5.&lt;/span&gt; 請設法驗證上述四連桿運動軌跡, 是否正確, 並設法在分組網頁中執行該四連桿機構的運動模擬&lt;/p&gt;
+&lt;p&gt;接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/image W3/Excel trace point.png" width="560" /&gt;&lt;/p&gt;
+&lt;p&gt;最後利用課程網誌裡&lt;a href="http://mde.tw/2017springcd/blog/brython-2d-drawing.html"&gt;協同產品設計實習第1週任務&lt;/a&gt;的程式碼去驗證solvespace裡所繪製的運動軌跡。&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/image W3/python trace point.png" width="560" /&gt;&lt;/p&gt;
+&lt;p&gt;結果 :&lt;/p&gt;
+&lt;p&gt;cx= -65.20944533000791 cy= 29.544232590366242&lt;/p&gt;
+&lt;p&gt;dx= -22.53868820588739 dy= 55.60582284219696&lt;/p&gt;
+&lt;p&gt;ex= -66.44406598905394 ey= 79.52898738448577&lt;/p&gt;
+&lt;h2&gt;任務二影片&lt;/h2&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/207629426" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/207629426"&gt;40423245機械設計工程系 - 協同產品設計實習課程-W3任務二完成 Solvespace 30-50-60 cm 比例的四連桿組立&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;h2&gt;任務三影片&lt;/h2&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/207626453" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/207626453"&gt;40423245機械設計工程系 - 協同產品設計實習課程-W3任務三利用 Onshape 完成四連桿機構, 以 stl 轉出後, 再轉入 V-rep&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;h2&gt;任務四、五影片&lt;/h2&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/207920094" width="640" height="454" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/207920094"&gt;40423245機械設計工程系 - 協同產品設計實習課程-W3任務四、任務五&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="notes"></category><category term="w3"></category></entry><entry><title>2017/03/01 W2</title><link href="./2017spring-cd-W2.html" rel="alternate"></link><published>2017-03-01T11:00:00+08:00</published><updated>2017-03-01T11:00:00+08:00</updated><author><name>40423245</name></author><id>tag:,2017-03-01:./2017spring-cd-W2.html</id><summary type="html">&lt;h2&gt;2017Spring 協同產品設計實習課程  第二週&lt;/h2&gt;
 
 
 &lt;p&gt;&lt;span style="background-color: #ffff00"&gt;一.&lt;/span&gt;利用python找出缺課人員&lt;/p&gt;
