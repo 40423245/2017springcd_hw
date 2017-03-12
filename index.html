@@ -461,6 +461,309 @@ print("學生總數:", n)
 
 						
 </section>
+<section>
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+#第二週上課筆記
+
+##一.了解hyperworks
+
+##二.更改start的fossil路徑
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##從 https://mde2al.kmol.info 進入wiki檢視每周進度，並介紹了hyperworks這套軟體，包括檢測受力.受熱.流力.最小化資源利用‧‧‧，還給我們十則影片翻譯，以便了解hyperworks以及增進英文能力。
+
+
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##更改start的fossil路徑，讓程式自行尋找電腦ip，並由組長建立組別的https，讓組員在wiki上分配工作以及上傳作業。
+
+
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##第三週任務
+
+
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##1. 請至課程網頁中 w3 Hyperworks 處瀏覽 10 個影片, 請每組選兩個影片, 設法寫出該影片的英文逐字稿, 目的是希望能夠最佳化行走機構的零件
+
+
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##2.請完成 Solvespace 30-50-60 cm 比例的四連桿組立, 並轉出 stl 檔案, 以 import 方式轉入 V-rep
+
+
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+####先在solvespace裡繪製出四連桿結構
+
+<img src="data/image W2/fourbar Architecture.png" width="560" />
+
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+####再將桿子組立起來(利用點與點的重合、線的共線及點與面的重合，限制桿子的作動。)
+
+<img src="data/image W2/fourbar combination.png" width="560" />
+
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+####最後將四連桿儲存成stl檔`並用Vrep裡的import裡的Mash開啟(開啟時四連桿會重疊到地面，可用object/item shift調整Z軸高度)
+
+<img src="data/image W2/Vrep fourbar combination.png" width="560" />
+
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##3. 請利用 Onshape 完成上述相同尺寸之四連桿機構, 以 stl 轉出 (或其他格式) 後, 再轉入 V-rep
+
+
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+####先在Onshape中繪製出四連桿
+
+<img src="data/image W3/fourbar in onshape.png" width="560" />
+
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+####<a href="https://cad.onshape.com/documents/8a40a446a6e3a930313e8ca4/w/b9aa548914cf88a0a506e817/e/6f45645181ba9446e1398078">Onshape四連桿機構</a>
+
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+####接著將四連桿匯出，分別有PARASOLID，ACIS
+，STEP，IGES，COLLADA，STL的檔案格式
+
+<img src="data/image W3/onshape format.png" width="560" />
+
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+####接著在Vrep裡用import裡的Mesh將檔案匯入，發現只能匯入stl檔案
+
+<img src="data/image W3/Vrep stl.png"width="560" />
+
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+####<img src="data/image W3/Vrep fourbar.png"width="640" />
+
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##4.請在 50 連桿上加上 50-50-50 正三角形, 以 Solvespace 輸入該三角形頂點運動軌跡
+
+
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+####先利用solvespace在 50 連桿上加上 50-50-50 正三角形，並利用Analyze裡的Trace point繪製出頂點的運動軌跡。
+
+<img src="data/image W3/fourbar trace point.png" width="560" />
+
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##5.請設法驗證上述四連桿運動軌跡, 是否正確, 並設法在分組網頁中執行該四連桿機構的運動模擬
+
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+
+<img src="data/image W3/Excel trace point.png" width="560" />
+
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##最後利用課程網誌裡<a href="http://mde.tw/2017springcd/blog/brython-2d-drawing.html">協同產品設計實習第1週任務</a>的程式碼去驗證solvespace裡所繪製的運動軌跡。
+
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+####<img src="data/image W3/python trace point.png" width="640" />
+
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##結果 :
+
+cx= -65.20944533000791 cy= 29.544232590366242
+
+dx= -22.53868820588739 dy= 55.60582284219696
+
+ex= -66.44406598905394 ey= 79.52898738448577
+
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##心得
+這學期的倉儲的wiki要在不同的地方編輯，還需要時間來適應，還有在做任務一時，明顯的發現到自己英文能力的不足，希望能盡快的補足這方面的能力
+
+
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##任務二影片
+<iframe src="https://player.vimeo.com/video/207629426" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/207629426">40423245機械設計工程系 - 協同產品設計實習課程-W3任務二完成 Solvespace 30-50-60 cm 比例的四連桿組立</a> from <a href="https://vimeo.com/user47996237">40423245</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##任務三影片
+<iframe src="https://player.vimeo.com/video/207626453" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/207626453">40423245機械設計工程系 - 協同產品設計實習課程-W3任務三利用 Onshape 完成四連桿機構, 以 stl 轉出後, 再轉入 V-rep</a> from <a href="https://vimeo.com/user47996237">40423245</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+##任務四、五影片
+<iframe src="https://player.vimeo.com/video/207920094" width="640" height="454" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/207920094">40423245機械設計工程系 - 協同產品設計實習課程-W3任務四、任務五</a> from <a href="https://vimeo.com/user47996237">40423245</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+
+    </script>
+</section>
+
+
+						
+</section>
 </div>
 
 </div>

@@ -86,8 +86,8 @@
 <v t="leo.20170304213241.2"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170304202812.1" a="E"><vh>20170301第二週上課筆記</vh>
-<v t="leo.20170304202812.2" a="E"><vh>上課內容</vh>
+<v t="leo.20170304202812.1"><vh>20170301第二週上課筆記</vh>
+<v t="leo.20170304202812.2"><vh>上課內容</vh>
 <v t="leo.20170304202812.3"><vh>上課大綱</vh></v>
 </v>
 <v t="leo.20170304202812.4"><vh>一-1</vh>
@@ -123,8 +123,88 @@
 <v t="leo.20170305174109.1"><vh>心得</vh>
 <v t="leo.20170305174109.2"><vh>心得</vh></v>
 </v>
-<v t="leo.20170304202812.28" a="E"><vh>影片</vh>
+<v t="leo.20170304202812.28"><vh>影片</vh>
 <v t="leo.20170304202812.29"><vh>第二週心得影片</vh></v>
+</v>
+</v>
+<v t="leo.20170312205719.1"><vh>20170301第三週上課筆記</vh>
+<v t="leo.20170312205719.2"><vh>上課內容</vh>
+<v t="leo.20170312205719.3"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170312210710.1"><vh>一-1</vh>
+<v t="leo.20170312210710.2"><vh>心得</vh></v>
+</v>
+<v t="leo.20170312210721.1"><vh>一-2</vh>
+<v t="leo.20170312210721.2"><vh>心得</vh></v>
+</v>
+<v t="leo.20170312210814.1"><vh>上課任務</vh>
+<v t="leo.20170312210814.2"><vh>上課任務</vh></v>
+</v>
+<v t="leo.20170312210842.1"><vh>上課任務一</vh>
+<v t="leo.20170312210842.2"><vh>上課任務</vh></v>
+</v>
+<v t="leo.20170312210848.1"><vh>上課任務二</vh>
+<v t="leo.20170312210848.2"><vh>上課任務</vh></v>
+</v>
+<v t="leo.20170312211023.1"><vh>任務二圖片-1</vh>
+<v t="leo.20170312211023.2"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170312211133.1"><vh>任務二圖片-2</vh>
+<v t="leo.20170312211133.2"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170312211220.1"><vh>任務二圖片-3</vh>
+<v t="leo.20170312211220.2"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170312210854.1"><vh>上課任務三</vh>
+<v t="leo.20170312210854.2"><vh>上課任務</vh></v>
+</v>
+<v t="leo.20170312211322.1"><vh>任務三圖片-1</vh>
+<v t="leo.20170312211322.2"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170312211354.1"><vh>作品1</vh>
+<v t="leo.20170312211354.2"><vh>作品</vh></v>
+</v>
+<v t="leo.20170312211457.1"><vh>任務三圖片-2</vh>
+<v t="leo.20170312211457.2"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170312211643.1"><vh>任務三圖片-3</vh>
+<v t="leo.20170312211643.2"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170312211645.1"><vh>任務三圖片-4</vh>
+<v t="leo.20170312211645.2"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170312210903.1"><vh>上課任務四</vh>
+<v t="leo.20170312210903.2"><vh>上課任務</vh></v>
+</v>
+<v t="leo.20170312211830.1"><vh>任務四圖片-1</vh>
+<v t="leo.20170312211830.2"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170312210910.1"><vh>上課任務五</vh>
+<v t="leo.20170312210910.2"><vh>上課任務</vh></v>
+</v>
+<v t="leo.20170312212027.1"><vh>任務五圖片-1</vh>
+<v t="leo.20170312212027.2"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170312212106.1"><vh>上課任務五-1</vh>
+<v t="leo.20170312212106.2"><vh>上課任務</vh></v>
+</v>
+<v t="leo.20170312212209.1"><vh>任務五圖片-2</vh>
+<v t="leo.20170312212209.2"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170312212235.1"><vh>上課任務五-2</vh>
+<v t="leo.20170312212235.2"><vh>上課任務</vh></v>
+</v>
+<v t="leo.20170312205719.24"><vh>心得</vh>
+<v t="leo.20170312205719.25"><vh>心得</vh></v>
+</v>
+<v t="leo.20170312205719.26"><vh>影片任務二</vh>
+<v t="leo.20170312205719.27"><vh>第三週心得影片</vh></v>
+</v>
+<v t="leo.20170312210047.1"><vh>影片任務三</vh>
+<v t="leo.20170312210047.2"><vh>第三週心得影片</vh></v>
+</v>
+<v t="leo.20170312210107.1"><vh>影片任務四五</vh>
+<v t="leo.20170312210107.2"><vh>第三週心得影片</vh></v>
 </v>
 </v>
 </v>
@@ -163,6 +243,12 @@
 </v>
 </v>
 <v t="yen.20170209024032.1"><vh>reference</vh></v>
+<v t="leo.20170312212156.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20170312212156.3"><vh>Recovered node "圖片" from @clean index.html</vh>
+<v t="leo.20170312212156.4"><vh>old:圖片</vh></v>
+<v t="leo.20170312212156.5"><vh>new:圖片</vh></v>
+</v>
+</v>
 </vnodes>
 <tnodes>
 <t tx="leo.20170303212553.1">@language md
@@ -281,7 +367,8 @@ Author: yen
 &lt;/div&gt;
 
 </t>
-<t tx="leo.20170303213004.10">##一.可至2017 Spring 協同產品設計實習觀看這學期的課程大綱，老師介紹了Blender 3dstudio maya的相關性，簡略說明c語言與python的優劣與使用時機。</t>
+<t tx="leo.20170303213004.10">##一.可至2017 Spring 協同產品設計實習觀看這學期的課程大綱，老師介紹了Blender 3dstudio maya的相關性，簡略說明c語言與python的優劣與使用時機。
+</t>
 <t tx="leo.20170303213004.11">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -447,7 +534,8 @@ Created by [40423245](https://40423245.github.io/2017springcd_hw/blog/)
 
 
 </t>
-<t tx="leo.20170303213004.30">###在Vrep裡開啟one_link_robot_remoteAPI.ttt的檔案(ttt是Vrep檔案的副檔名)，在SciTE裡開啟one_link_robot_remoteAPI_joint_target_vel.py的檔案，按下Tool裡的Go即可開始控制單連桿，按Enter會旋轉，按P會暫停。</t>
+<t tx="leo.20170303213004.30">###在Vrep裡開啟one_link_robot_remoteAPI.ttt的檔案(ttt是Vrep檔案的副檔名)，在SciTE裡開啟one_link_robot_remoteAPI_joint_target_vel.py的檔案，按下Tool裡的Go即可開始控制單連桿，按Enter會旋轉，按P會暫停。
+</t>
 <t tx="leo.20170303213004.31">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -497,7 +585,8 @@ Created by [40423245](https://40423245.github.io/2017springcd_hw/blog/)
 </t>
 <t tx="leo.20170303213004.6">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20170303213004.7">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -515,7 +604,8 @@ Created by [40423245](https://40423245.github.io/2017springcd_hw/blog/)
 
 ##二.了解如何使用stunnel
 
-##三.利用python程式碼控制Vrep裡的單連桿作動。</t>
+##三.利用python程式碼控制Vrep裡的單連桿作動。
+</t>
 <t tx="leo.20170303213004.9">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -529,7 +619,8 @@ Created by [40423245](https://40423245.github.io/2017springcd_hw/blog/)
 </t>
 <t tx="leo.20170304202812.1">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20170304202812.10">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -583,7 +674,8 @@ Created by [40423245](https://40423245.github.io/2017springcd_hw/blog/)
 
 						
 </t>
-<t tx="leo.20170304202812.17">&lt;img src="data/image W2/Vrep fourbar combination.png" width="640" /&gt;</t>
+<t tx="leo.20170304202812.17">&lt;img src="data/image W2/Vrep fourbar combination.png" width="640" /&gt;
+</t>
 <t tx="leo.20170304202812.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -613,7 +705,8 @@ Created by [40423245](https://40423245.github.io/2017springcd_hw/blog/)
 
 ##一.利用python找出缺課人員
 
-##二.在solvespace組立四連桿，並放置到Vrep裡。</t>
+##二.在solvespace組立四連桿，並放置到Vrep裡。
+</t>
 <t tx="leo.20170304202812.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -625,7 +718,8 @@ Created by [40423245](https://40423245.github.io/2017springcd_hw/blog/)
 
 						
 </t>
-<t tx="leo.20170304202812.5">##一.利用python找出缺課人員</t>
+<t tx="leo.20170304202812.5">##一.利用python找出缺課人員
+</t>
 <t tx="leo.20170304202812.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -665,7 +759,8 @@ Created by [40423245](https://40423245.github.io/2017springcd_hw/blog/)
 
 						
 </t>
-<t tx="leo.20170304213241.2">###第一週心得  : 在經過上學期得學習，發現這學期的課程變得有點難，在每個禮拜最後一堂課還要上台分享，期望能迅速地進入狀況。</t>
+<t tx="leo.20170304213241.2">###第一週心得  : 在經過上學期得學習，發現這學期的課程變得有點難，在每個禮拜最後一堂課還要上台分享，期望能迅速地進入狀況。
+</t>
 <t tx="leo.20170305173211.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -748,7 +843,8 @@ for i in range(len(rdata)):
 print("學生總數:", n)
 #print(os.environ)
 
-```</t>
+```
+</t>
 <t tx="leo.20170305173446.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -760,7 +856,8 @@ print("學生總數:", n)
 
 						
 </t>
-<t tx="leo.20170305173446.2">##可至班級倉儲data下載W2資料夾裡的cd_w2.py(有填寫座位表的人)和w2b_registered.txt(有修課的人)，接著利用利用程式碼列印出分組名單、座位列表、缺席學生和學生總數</t>
+<t tx="leo.20170305173446.2">##可至班級倉儲data下載W2資料夾裡的cd_w2.py(有填寫座位表的人)和w2b_registered.txt(有修課的人)，接著利用利用程式碼列印出分組名單、座位列表、缺席學生和學生總數
+</t>
 <t tx="leo.20170305173806.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -787,6 +884,410 @@ print("學生總數:", n)
 <t tx="leo.20170305174109.2">##第二週心得  
   這禮拜理解到了程式碼的方便之處，體驗到了利用程式碼去處理繁雜的資料，r接著開始了解如何使用Vrep，以利之後要設計的八隻腳。
 
+
+</t>
+<t tx="leo.20170312205719.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170312205719.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170312205719.24">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170312205719.25">##心得
+這學期的倉儲的wiki要在不同的地方編輯，還需要時間來適應，還有在做任務一時，明顯的發現到自己英文能力的不足，希望能盡快的補足這方面的能力
+
+
+</t>
+<t tx="leo.20170312205719.26">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170312205719.27">##任務二影片
+&lt;iframe src="https://player.vimeo.com/video/207629426" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/207629426"&gt;40423245機械設計工程系 - 協同產品設計實習課程-W3任務二完成 Solvespace 30-50-60 cm 比例的四連桿組立&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+</t>
+<t tx="leo.20170312205719.3">#第二週上課筆記
+
+##一.了解hyperworks
+
+##二.更改start的fossil路徑
+</t>
+<t tx="leo.20170312210047.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170312210047.2">##任務三影片
+&lt;iframe src="https://player.vimeo.com/video/207626453" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/207626453"&gt;40423245機械設計工程系 - 協同產品設計實習課程-W3任務三利用 Onshape 完成四連桿機構, 以 stl 轉出後, 再轉入 V-rep&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+
+</t>
+<t tx="leo.20170312210107.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170312210107.2">##任務四、五影片
+&lt;iframe src="https://player.vimeo.com/video/207920094" width="640" height="454" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/207920094"&gt;40423245機械設計工程系 - 協同產品設計實習課程-W3任務四、任務五&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+
+</t>
+<t tx="leo.20170312210710.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170312210710.2">##從 https://mde2al.kmol.info 進入wiki檢視每周進度，並介紹了hyperworks這套軟體，包括檢測受力.受熱.流力.最小化資源利用‧‧‧，還給我們十則影片翻譯，以便了解hyperworks以及增進英文能力。
+
+
+</t>
+<t tx="leo.20170312210721.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170312210721.2">##更改start的fossil路徑，讓程式自行尋找電腦ip，並由組長建立組別的https，讓組員在wiki上分配工作以及上傳作業。
+
+
+</t>
+<t tx="leo.20170312210814.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170312210814.2">##第三週任務
+
+
+</t>
+<t tx="leo.20170312210842.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170312210842.2">##1. 請至課程網頁中 w3 Hyperworks 處瀏覽 10 個影片, 請每組選兩個影片, 設法寫出該影片的英文逐字稿, 目的是希望能夠最佳化行走機構的零件
+
+
+</t>
+<t tx="leo.20170312210848.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170312210848.2">##2.請完成 Solvespace 30-50-60 cm 比例的四連桿組立, 並轉出 stl 檔案, 以 import 方式轉入 V-rep
+
+
+</t>
+<t tx="leo.20170312210854.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170312210854.2">##3. 請利用 Onshape 完成上述相同尺寸之四連桿機構, 以 stl 轉出 (或其他格式) 後, 再轉入 V-rep
+
+
+</t>
+<t tx="leo.20170312210903.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170312210903.2">##4.請在 50 連桿上加上 50-50-50 正三角形, 以 Solvespace 輸入該三角形頂點運動軌跡
+
+
+</t>
+<t tx="leo.20170312210910.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170312210910.2">##5.請設法驗證上述四連桿運動軌跡, 是否正確, 並設法在分組網頁中執行該四連桿機構的運動模擬
+
+</t>
+<t tx="leo.20170312211023.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170312211023.2">####先在solvespace裡繪製出四連桿結構
+
+&lt;img src="data/image W2/fourbar Architecture.png" width="560" /&gt;
+
+</t>
+<t tx="leo.20170312211133.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170312211133.2">####再將桿子組立起來(利用點與點的重合、線的共線及點與面的重合，限制桿子的作動。)
+
+&lt;img src="data/image W2/fourbar combination.png" width="560" /&gt;
+
+</t>
+<t tx="leo.20170312211220.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170312211220.2">####最後將四連桿儲存成stl檔`並用Vrep裡的import裡的Mash開啟(開啟時四連桿會重疊到地面，可用object/item shift調整Z軸高度)
+
+&lt;img src="data/image W2/Vrep fourbar combination.png" width="560" /&gt;
+
+</t>
+<t tx="leo.20170312211322.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170312211322.2">####先在Onshape中繪製出四連桿
+
+&lt;img src="data/image W3/fourbar in onshape.png" width="560" /&gt;
+
+</t>
+<t tx="leo.20170312211354.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170312211354.2">####&lt;a href="https://cad.onshape.com/documents/8a40a446a6e3a930313e8ca4/w/b9aa548914cf88a0a506e817/e/6f45645181ba9446e1398078"&gt;Onshape四連桿機構&lt;/a&gt;
+
+</t>
+<t tx="leo.20170312211457.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170312211457.2">####接著將四連桿匯出，分別有PARASOLID，ACIS
+，STEP，IGES，COLLADA，STL的檔案格式
+
+&lt;img src="data/image W3/onshape format.png" width="560" /&gt;
+
+</t>
+<t tx="leo.20170312211643.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170312211643.2">####接著在Vrep裡用import裡的Mesh將檔案匯入，發現只能匯入stl檔案
+
+&lt;img src="data/image W3/Vrep stl.png"width="560" /&gt;
+
+</t>
+<t tx="leo.20170312211645.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170312211645.2">####&lt;img src="data/image W3/Vrep fourbar.png"width="640" /&gt;
+
+</t>
+<t tx="leo.20170312211830.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170312211830.2">####先利用solvespace在 50 連桿上加上 50-50-50 正三角形，並利用Analyze裡的Trace point繪製出頂點的運動軌跡。
+
+&lt;img src="data/image W3/fourbar trace point.png" width="560" /&gt;
+
+</t>
+<t tx="leo.20170312212027.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170312212027.2">####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+
+&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
+
+</t>
+<t tx="leo.20170312212106.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170312212106.2">##最後利用課程網誌裡&lt;a href="http://mde.tw/2017springcd/blog/brython-2d-drawing.html"&gt;協同產品設計實習第1週任務&lt;/a&gt;的程式碼去驗證solvespace裡所繪製的運動軌跡。
+
+</t>
+<t tx="leo.20170312212156.2"></t>
+<t tx="leo.20170312212156.3">(uncached) leo.20170312212027.2
+Diff...
+- ####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+?                               ^
++ ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+?                               ^
+  
+  &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
+  
+</t>
+<t tx="leo.20170312212156.4">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+
+&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
+
+</t>
+<t tx="leo.20170312212156.5">####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+
+&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
+
+</t>
+<t tx="leo.20170312212209.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170312212209.2">####&lt;img src="data/image W3/python trace point.png" width="640" /&gt;
+
+</t>
+<t tx="leo.20170312212235.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170312212235.2">##結果 :
+
+cx= -65.20944533000791 cy= 29.544232590366242
+
+dx= -22.53868820588739 dy= 55.60582284219696
+
+ex= -66.44406598905394 ey= 79.52898738448577
 
 </t>
 <t tx="yen.20170108171605.1"></t>
