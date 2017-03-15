@@ -4,7 +4,13 @@
 
 &lt;h2&gt;第三週上課內容&lt;/h2&gt;
 &lt;p&gt;從 https://mde2al.kmol.info 進入wiki檢視每周進度，並介紹了hyperworks這套軟體，包括檢測受力.受熱.流力.最小化資源利用‧‧‧，還給我們十則影片翻譯，以便了解hyperworks以及增進英文能力。&lt;/p&gt;
-&lt;p&gt;更改start的fossil路徑，讓程式自行尋找電腦ip，並由組長建立組別的https，讓組員在wiki上分配工作以及上傳作業。&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00"&gt;1.&lt;/span&gt;
+建置fossil，在cmd裡進入Y\tmp\fossil_repo的資料夾，輸入fossil init &lt;span style="background-color: #46A3FF"&gt;foo&lt;/span&gt;.fossil的指令(&lt;span style="background-color: #46A3FF"&gt;foo&lt;/span&gt;的位置可輸入組別名稱)，第三行有帳戶名稱與密碼需特別注意。&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/image W3/fossil init.png" width="560" /&gt;&lt;/p&gt;
+&lt;p&gt;可至admin/user裡更改帳戶名稱及密碼&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/image W3/fossl password.png" width="560" /&gt;&lt;/p&gt;
+&lt;p&gt;可至admin/configuration裡更改標題&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/image W3/fossil configuration.png" width="560" /&gt;&lt;/p&gt;
 &lt;h2&gt;第三週任務&lt;/h2&gt;
 &lt;p&gt;&lt;span style="background-color: #ffff00"&gt;1.&lt;/span&gt;請至課程網頁中 w3 Hyperworks 處瀏覽 10 個影片, 請每組選兩個影片, 設法寫出該影片的英文逐字稿, 目的是希望能夠最佳化行走機構的零件&lt;/p&gt;
 &lt;p&gt;&lt;button onClick="lity('https://player.vimeo.com/video/207229473')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; Hyperworks1&lt;/button&gt; &lt;button onClick="lity('https://player.vimeo.com/video/207229488')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; Hyperworks2&lt;/button&gt; &lt;button onClick="lity('https://player.vimeo.com/video/207229503')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; Hyperworks3&lt;/button&gt; &lt;button onClick="lity('https://player.vimeo.com/video/207229515')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; Hyperworks4&lt;/button&gt;&lt;button onClick="lity('https://player.vimeo.com/video/207239262')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; Hyperworks 14-1&lt;/button&gt; &lt;button onClick="lity('https://player.vimeo.com/video/207239448')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; Hyperworks 14-2&lt;/button&gt; &lt;button onClick="lity('https://player.vimeo.com/video/207239288')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; Hyperworks 14-3&lt;/button&gt; &lt;button onClick="lity('https://player.vimeo.com/video/207239276')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; Hyperworks 14-4&lt;/button&gt; &lt;button onClick="lity('https://player.vimeo.com/video/207239300')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; Hyperworks 14-5&lt;/button&gt; &lt;button onClick="lity('https://player.vimeo.com/video/207240382')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; Hyperworks 14-6&lt;/button&gt;&lt;/p&gt;
@@ -37,6 +43,8 @@
 &lt;p&gt;cx= -65.20944533000791 cy= 29.544232590366242&lt;/p&gt;
 &lt;p&gt;dx= -22.53868820588739 dy= 55.60582284219696&lt;/p&gt;
 &lt;p&gt;ex= -66.44406598905394 ey= 79.52898738448577&lt;/p&gt;
+&lt;h2&gt;心得&lt;/h2&gt;
+&lt;p&gt;這學期的倉儲的wiki要在不同的地方編輯，還需要時間來適應，還有在做任務一時，明顯的發現到自己英文能力的不足，希望能盡快的補足這方面的能力&lt;/p&gt;
 &lt;h2&gt;任務二影片&lt;/h2&gt;
 &lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/207629426" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/207629426"&gt;40423245機械設計工程系 - 協同產品設計實習課程-W3任務二完成 Solvespace 30-50-60 cm 比例的四連桿組立&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
