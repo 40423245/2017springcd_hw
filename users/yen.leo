@@ -207,6 +207,11 @@
 <v t="leo.20170312210107.2"><vh>第三週心得影片</vh></v>
 </v>
 </v>
+<v t="leo.20170325211224.1"><vh>20170301第四週上課筆記</vh>
+<v t="leo.20170325211224.2"><vh>上課內容</vh>
+<v t="leo.20170325211224.3"><vh>上課大綱</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -216,8 +221,9 @@
 <v t="yen.20170123225841.1"><vh>@edit 20170222.md</vh></v>
 <v t="leo.20170304202845.1"><vh>@edit 20170301.md</vh></v>
 <v t="leo.20170309204306.1"><vh>@edit 20170308.md</vh></v>
+<v t="leo.20170325210841.1"><vh>@edit 20170315.md</vh></v>
 <v t="leo.20170303212553.1"><vh>@@edit 20170108.md</vh></v>
-<v t="yen.20170108171733.81" a="E"><vh>@path pages</vh>
+<v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
 </v>
@@ -534,7 +540,7 @@ Author: yen
 
 ### 虎科大機械設計工程系
 
-####學員 40423245 課程簡報
+####學員 40423245 課程投影片
 
 &lt;small&gt;
 Created by [40423245](https://40423245.github.io/2017springcd_hw/blog/)
@@ -1342,6 +1348,25 @@ Diff...
 <t tx="leo.20170325205529.4">####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
 
 &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
+
+</t>
+<t tx="leo.20170325211224.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170325211224.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170325211224.3">#第四週上課筆記
+
 
 </t>
 <t tx="yen.20170108171605.1"></t>
