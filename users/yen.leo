@@ -1477,10 +1477,30 @@ Author: 40423245
 
 ##回家練習
 
+跟單連桿一樣先將檔案轉入V-rep，接著將零件分開，之後加入一個旋轉軸，將旋轉軸的位置跟繪製的軸合併再一起
 
+&lt;img src="./../data/image W5/V-rep Item position.png" width="480" /&gt;
 
+四個旋轉軸都設定好了之後，設定好各零件的從屬關係
 
+&lt;img src="./../data/image W5/V-rep ass.png" width="480" /&gt;
 
+加入兩個Dummy，一個放置在最後一個旋轉軸，另一個放置在第一桿子下
+
+&lt;img src="./../data/image W5/V-rep Dummy.png" width="480" /&gt;
+
+設定好兩者的關係
+
+&lt;img src="./../data/image W5/V-rep Scene Object.png" width="480" /&gt;
+
+##回家練習心得
+
+四連桿相較於單連趕多了個Dummy，在它的使用上花費了不少時間。
+
+##回家練習影片
+
+&lt;iframe src="https://player.vimeo.com/video/210037771" width="640" height="454" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/210037771"&gt;40423245機械設計工程系 - 協同產品設計實習課程-W5回家練習&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
 
 
