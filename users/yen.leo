@@ -226,9 +226,10 @@
 <v t="yen.20170123225841.1"><vh>@edit 20170222.md</vh></v>
 <v t="leo.20170304202845.1"><vh>@edit 20170301.md</vh></v>
 <v t="leo.20170309204306.1"><vh>@edit 20170308.md</vh></v>
+<v t="leo.20170326170341.1"><vh>@@edit 20170315.md</vh></v>
 <v t="leo.20170325210841.1"><vh>@edit 20170315.md</vh></v>
-<v t="leo.20170326163450.1"><vh>@edit 20170322.md</vh></v>
-<v t="leo.20170325211833.1"><vh>@@edit 20170322.md</vh></v>
+<v t="leo.20170326163450.1"><vh>@@edit 20170322.md</vh></v>
+<v t="leo.20170325211833.1"><vh>@edit 20170322.md</vh></v>
 <v t="leo.20170303212553.1"><vh>@@edit 20170108.md</vh></v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
@@ -1407,110 +1408,6 @@ Diff...
 
 
 </t>
-<t tx="leo.20170325211833.1">@language md
-Title: 2017/03/22 W5
-Date: 2017-03-22 11:00
-Category: Course
-Tags: notes, w5
-Slug: 2017spring-cd-W5
-Author: 40423245
-
-##2017Spring 協同產品設計實習課程  第五週
-
-&lt;!-- PELICAN_END_SUMMARY --&gt;
-
-##上課筆記
-
-&lt;span style="background-color: #ffff00"&gt;1.&lt;/span&gt;如何在fossil筆記倉儲主頁顯示作業
-
-&lt;span style="background-color: #46A3FF"&gt;2.&lt;/span&gt;將單連桿轉入V-rep並使其作動
-
-##練習
-
-&lt;span style="background-color: #ffff00"&gt;1.&lt;/span&gt;如何在fossil筆記倉儲主頁顯示作業
-
-只要在wiki裡新增一個與倉儲筆記同名稱的檔案，即可在fossil筆記倉儲主頁顯示作業
-
-&lt;img src="./../data/image W5/fossil_home.png" width="480" /&gt;
-
-在建立wiki有三種格式可選擇，wiki、Markdown及html，安全性以wiki最高，Markdown其次，html最低
-
-&lt;img src="./../data/image W5/fossil_wiki.png" width="480" /&gt;
-
-&lt;span style="background-color: #46A3FF"&gt;2.&lt;/span&gt;將單連桿轉入V-rep並使其作動
-先將在繪圖軟體繪製好的單連桿利用Import/Mesh匯入V-rep
-
-&lt;img src="./../data/image W5/V-rep import.png" width="480" /&gt;
-
-接著利用Divide selected shapes將單連桿的零件分開
-
-&lt;img src="./../data/image W5/V-rep Divide shapes.png" width="480" /&gt;
-
-利用Add/Joint/Revolute新增一個旋轉軸
-
-&lt;img src="./../data/image W5/V-rep onelink Revolute.png" width="480" /&gt;
-
-將旋轉軸的位置跟繪製的軸合併再一起
-
-&lt;img src="./../data/image W5/V-rep onelink Item position.png" width="480" /&gt;
-
-設置好各零件的從屬關係
-
-&lt;img src="./../data/image W5/V-rep onelink ass.png" width="480" /&gt;
-
-接著設定旋轉軸的角速度，並固定單連桿
-
-&lt;img src="./../data/image W5/V-rep onelink Joint Dynamic.png" width="480" /&gt;
-
-接著將桿子設為動態物件
-
-&lt;img src="./../data/image W5/V-rep onelink body Dynamic.png" width="480" /&gt;
-
-##練習心得
-
-發現V-rep是個非常強大的軟體，可以模擬真實的情況，單連桿是較為簡單的練習，因此很快就了解了狀況。
-
-##練習影片
-
-&lt;iframe src="https://player.vimeo.com/video/210093581" width="640" height="454" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/210093581"&gt;40423245機械設計工程系 - 協同產品設計實習課程-W5上課練習&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-##回家練習
-
-跟單連桿一樣先將檔案轉入V-rep，接著將零件分開，之後加入一個旋轉軸，將旋轉軸的位置跟繪製的軸合併再一起
-
-&lt;img src="./../data/image W5/V-rep Item position.png" width="480" /&gt;
-
-四個旋轉軸都設定好了之後，設定好各零件的從屬關係
-
-&lt;img src="./../data/image W5/V-rep ass.png" width="480" /&gt;
-
-加入兩個Dummy，一個放置在最後一個旋轉軸，另一個放置在第一桿子下
-
-&lt;img src="./../data/image W5/V-rep Dummy.png" width="480" /&gt;
-
-設定好兩者的關係
-
-&lt;img src="./../data/image W5/V-rep Scene Object.png" width="480" /&gt;
-
-##回家練習心得
-
-四連桿相較於單連趕多了個Dummy，在它的使用上花費了不少時間。
-
-##回家練習影片
-
-&lt;iframe src="https://player.vimeo.com/video/210037771" width="640" height="454" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/210037771"&gt;40423245機械設計工程系 - 協同產品設計實習課程-W5回家練習&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-</t>
 <t tx="leo.20170326112904.2"></t>
 <t tx="leo.20170326112904.3">(uncached) leo.20170312212027.2
 Diff...
@@ -1551,6 +1448,48 @@ Diff...
 <t tx="leo.20170326144207.5">####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
 
 &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
+
+</t>
+<t tx="leo.20170326163450.1">@language md
+Title: 2017/03/22 W5
+Date: 2017-03-22 11:00
+Category: Course
+Tags: notes, w5
+Slug: 2017spring-cd-W5
+Author: 40423245
+
+##2017Spring 協同產品設計實習課程  第五週
+
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</t>
+<t tx="leo.20170326170341.1">@language md
+Title: 2017/03/15 W4
+Date: 2017-03-15 11:00
+Category: Course
+Tags: notes, w4
+Slug: 2017spring-cd-W4
+Author: 40423245
+
+##2017Spring 協同產品設計實習課程  第四週
+
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+
+
 
 </t>
 <t tx="yen.20170108171605.1"></t>
