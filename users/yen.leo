@@ -275,16 +275,22 @@
 <v t="leo.20170325205529.4"><vh>new:圖片</vh></v>
 </v>
 </v>
-<v t="leo.20170326112904.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20170326112904.2"><vh>Recovered Nodes</vh>
 <v t="leo.20170326112904.3"><vh>Recovered node "圖片" from @clean index.html</vh>
 <v t="leo.20170326112904.4"><vh>old:圖片</vh></v>
 <v t="leo.20170326112904.5"><vh>new:圖片</vh></v>
 </v>
 </v>
-<v t="leo.20170326144207.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20170326144207.2"><vh>Recovered Nodes</vh>
 <v t="leo.20170326144207.3"><vh>Recovered node "圖片" from @clean index.html</vh>
 <v t="leo.20170326144207.4"><vh>old:圖片</vh></v>
 <v t="leo.20170326144207.5"><vh>new:圖片</vh></v>
+</v>
+</v>
+<v t="leo.20170328203316.1"><vh>Recovered Nodes</vh>
+<v t="leo.20170328203316.2"><vh>Recovered node "圖片" from @clean index.html</vh>
+<v t="leo.20170328203316.3"><vh>old:圖片</vh></v>
+<v t="leo.20170328203316.4"><vh>new:圖片</vh></v>
 </v>
 </v>
 </vnodes>
@@ -1394,19 +1400,19 @@ Author: 40423245
 
 &lt;span style="background-color: #ffff00"&gt;1.&lt;/span&gt;Fossil新增組員以及組員權限設定
 
-fossil開啟後，到admin/user/add裡可新增筆記倉儲裡的成員
+fossil開啟後 ，到admin/user/add裡可新增筆記倉儲裡的成員
 
 &lt;img src="./../data/image W4/fossil add user.png" width="480" /&gt;
 
 &lt;span style="background-color: #ffff00"&gt;2.&lt;/span&gt;協同產品設計實習課程-W4在Onshape繪製單連桿機構並轉出stl檔案
 
-繪製出所需零件，底座、軸及單連桿，並將其組立起來
+繪製出所需零件 ，底座、軸及單連桿，並將其組立起來
 
 &lt;a href="https://cad.onshape.com/documents/414f3a744b87a17b4d845380/w/576a159abfb695fa37f8e121/e/e6da162a4b20484587e269d6"&gt;Onshape單連桿機構&lt;/a&gt;
 
 &lt;span style="background-color: #ffff00"&gt;3.&lt;/span&gt;協同產品設計實習課程-W4在solvespace繪製單連桿機構並轉出stl檔案
 
-繪製出所需零件，底座、軸及單連桿，並將其組立起來
+繪製出所需零件 ，底座、軸及單連桿，並將其組立起來
 
 &lt;iframe src="./../data/shapes W4/ass.html" width="640" height="420"&gt;&lt;/iframe&gt;
 
@@ -1599,7 +1605,7 @@ Diff...
 <t tx="leo.20170326144207.2"></t>
 <t tx="leo.20170326144207.3">(uncached) leo.20170312212027.2
 Diff...
-- ####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+- ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
 ?                               ^
 + ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
 ?                               ^
@@ -1612,7 +1618,28 @@ Diff...
 &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
 
 </t>
-<t tx="leo.20170326144207.5">####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+<t tx="leo.20170326144207.5">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+
+&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
+
+</t>
+<t tx="leo.20170328203316.1"></t>
+<t tx="leo.20170328203316.2">(uncached) leo.20170312212027.2
+Diff...
+- ####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+?                               ^
++ ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+?                               ^
+  
+  &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
+  
+</t>
+<t tx="leo.20170328203316.3">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+
+&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
+
+</t>
+<t tx="leo.20170328203316.4">####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
 
 &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
 
