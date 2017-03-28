@@ -18,7 +18,7 @@
 <v t="yen.20170108171733.2"><vh>@button pelican-blog</vh></v>
 <v t="yen.20170108171733.3"><vh>@edit README.md</vh></v>
 <v t="yen.20170108171733.4"><vh>@edit .gitignore</vh></v>
-<v t="yen.20170108171733.5" a="E"><vh>Pelican 設定</vh>
+<v t="yen.20170108171733.5"><vh>Pelican 設定</vh>
 <v t="yen.20170108171733.6"><vh>@edit local_publishconf.py</vh></v>
 <v t="yen.20170108171733.7"><vh>@edit pelicanconf.py</vh></v>
 </v>
@@ -27,7 +27,7 @@
 <v t="yen.20170215103332.1"><vh>@edit base.html</vh></v>
 </v>
 </v>
-<v t="yen.20170120110024.1"><vh>@clean index.html</vh>
+<v t="yen.20170120110024.1" a="E"><vh>@clean index.html</vh>
 <v t="yen.20170120110024.2" a="E"><vh>html</vh>
 <v t="yen.20170120110024.3"><vh>head</vh></v>
 <v t="yen.20170120110024.4" a="E"><vh>body</vh>
@@ -212,9 +212,75 @@
 <v t="leo.20170325211224.3"><vh>上課大綱</vh></v>
 </v>
 </v>
-<v t="leo.20170325211755.1"><vh>20170322第五週上課筆記</vh>
-<v t="leo.20170325211755.2"><vh>上課內容</vh>
-<v t="leo.20170325211755.3"><vh>上課大綱</vh></v>
+<v t="leo.20170325211755.1" a="E"><vh>20170322第五週上課筆記</vh>
+<v t="leo.20170325211755.2"><vh>上課筆記</vh>
+<v t="leo.20170325211755.3"><vh>上課筆記</vh></v>
+</v>
+<v t="leo.20170328210949.1"><vh>上課練習</vh>
+<v t="leo.20170328210949.2"><vh>上課練習</vh></v>
+</v>
+<v t="leo.20170328211120.1"><vh>步驟一</vh>
+<v t="leo.20170328211120.2"><vh>步驟一</vh></v>
+</v>
+<v t="leo.20170328211217.1"><vh>步驟一圖片</vh>
+<v t="leo.20170328211217.2"><vh>步驟一圖片</vh></v>
+</v>
+<v t="leo.20170328211355.1"><vh>步驟二</vh>
+<v t="leo.20170328211355.2"><vh>步驟二</vh></v>
+</v>
+<v t="leo.20170328211445.1"><vh>步驟二圖片</vh>
+<v t="leo.20170328211445.2"><vh>步驟二圖片</vh></v>
+</v>
+<v t="leo.20170328211935.1"><vh>練習二</vh>
+<v t="leo.20170328211935.2"><vh>練習二</vh></v>
+</v>
+<v t="leo.20170328212059.1"><vh>步驟一圖片</vh>
+<v t="leo.20170328212059.2"><vh>步驟一圖片</vh></v>
+</v>
+<v t="leo.20170328212138.1"><vh>步驟二圖片</vh>
+<v t="leo.20170328212138.2"><vh>步驟二圖片</vh></v>
+</v>
+<v t="leo.20170328212313.1"><vh>步驟三圖片</vh>
+<v t="leo.20170328212313.2"><vh>步驟三圖片</vh></v>
+</v>
+<v t="leo.20170328212409.1"><vh>步驟四圖片</vh>
+<v t="leo.20170328212409.2"><vh>步驟四圖片</vh></v>
+</v>
+<v t="leo.20170328212520.1"><vh>步驟五圖片</vh>
+<v t="leo.20170328212520.2"><vh>步驟五圖片</vh></v>
+</v>
+<v t="leo.20170328212710.1"><vh>步驟六圖片</vh>
+<v t="leo.20170328212710.2"><vh>步驟六圖片</vh></v>
+</v>
+<v t="leo.20170328212804.1"><vh>步驟七圖片</vh>
+<v t="leo.20170328212804.2"><vh>步驟七圖片</vh></v>
+</v>
+<v t="leo.20170328212931.1"><vh>心得</vh>
+<v t="leo.20170328212931.2"><vh>心得</vh></v>
+</v>
+<v t="leo.20170328213013.1"><vh>練習影片</vh>
+<v t="leo.20170328213013.2"><vh>練習影片</vh></v>
+</v>
+<v t="leo.20170328213249.1" a="E"><vh>回家練習</vh>
+<v t="leo.20170328213249.2"><vh>回家練習</vh></v>
+</v>
+<v t="leo.20170328213352.1"><vh>步驟一圖片</vh>
+<v t="leo.20170328213352.2"><vh>步驟一圖片</vh></v>
+</v>
+<v t="leo.20170328213356.1"><vh>步驟二圖片</vh>
+<v t="leo.20170328213356.2"><vh>步驟二圖片</vh></v>
+</v>
+<v t="leo.20170328213400.1"><vh>步驟三圖片</vh>
+<v t="leo.20170328213400.2"><vh>步驟三圖片</vh></v>
+</v>
+<v t="leo.20170328213624.1"><vh>步驟四圖片</vh>
+<v t="leo.20170328213624.2"><vh>步驟四圖片</vh></v>
+</v>
+<v t="leo.20170328213345.1"><vh>回家心得</vh>
+<v t="leo.20170328213345.2"><vh>回家心得</vh></v>
+</v>
+<v t="leo.20170328213338.1"><vh>回家練習影片</vh>
+<v t="leo.20170328213338.2"><vh>回家練習影片</vh></v>
 </v>
 </v>
 </v>
@@ -257,40 +323,22 @@
 </v>
 </v>
 <v t="yen.20170209024032.1"><vh>reference</vh></v>
-<v t="leo.20170312212156.2"><vh>Recovered Nodes</vh>
-<v t="leo.20170312212156.3"><vh>Recovered node "圖片" from @clean index.html</vh>
-<v t="leo.20170312212156.4"><vh>old:圖片</vh></v>
-<v t="leo.20170312212156.5"><vh>new:圖片</vh></v>
+<v t="leo.20170328211830.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20170328211830.3"><vh>Recovered node "圖片" from @clean index.html</vh>
+<v t="leo.20170328211830.4"><vh>old:圖片</vh></v>
+<v t="leo.20170328211830.5"><vh>new:圖片</vh></v>
 </v>
 </v>
-<v t="leo.20170315085632.2"><vh>Recovered Nodes</vh>
-<v t="leo.20170315085632.3"><vh>Recovered node "圖片" from @clean index.html</vh>
-<v t="leo.20170315085632.4"><vh>old:圖片</vh></v>
-<v t="leo.20170315085632.5"><vh>new:圖片</vh></v>
+<v t="leo.20170328212635.1" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20170328212635.2"><vh>Recovered node "圖片" from @clean index.html</vh>
+<v t="leo.20170328212635.3"><vh>old:圖片</vh></v>
+<v t="leo.20170328212635.4"><vh>new:圖片</vh></v>
 </v>
 </v>
-<v t="leo.20170325205529.1"><vh>Recovered Nodes</vh>
-<v t="leo.20170325205529.2"><vh>Recovered node "圖片" from @clean index.html</vh>
-<v t="leo.20170325205529.3"><vh>old:圖片</vh></v>
-<v t="leo.20170325205529.4"><vh>new:圖片</vh></v>
-</v>
-</v>
-<v t="leo.20170326112904.2"><vh>Recovered Nodes</vh>
-<v t="leo.20170326112904.3"><vh>Recovered node "圖片" from @clean index.html</vh>
-<v t="leo.20170326112904.4"><vh>old:圖片</vh></v>
-<v t="leo.20170326112904.5"><vh>new:圖片</vh></v>
-</v>
-</v>
-<v t="leo.20170326144207.2"><vh>Recovered Nodes</vh>
-<v t="leo.20170326144207.3"><vh>Recovered node "圖片" from @clean index.html</vh>
-<v t="leo.20170326144207.4"><vh>old:圖片</vh></v>
-<v t="leo.20170326144207.5"><vh>new:圖片</vh></v>
-</v>
-</v>
-<v t="leo.20170328203316.1"><vh>Recovered Nodes</vh>
-<v t="leo.20170328203316.2"><vh>Recovered node "圖片" from @clean index.html</vh>
-<v t="leo.20170328203316.3"><vh>old:圖片</vh></v>
-<v t="leo.20170328203316.4"><vh>new:圖片</vh></v>
+<v t="leo.20170328213240.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20170328213240.3"><vh>Recovered node "圖片" from @clean index.html</vh>
+<v t="leo.20170328213240.4"><vh>old:圖片</vh></v>
+<v t="leo.20170328213240.5"><vh>new:圖片</vh></v>
 </v>
 </v>
 </vnodes>
@@ -1281,27 +1329,6 @@ print("學生總數:", n)
 <t tx="leo.20170312212106.2">##最後利用課程網誌裡&lt;a href="http://mde.tw/2017springcd/blog/brython-2d-drawing.html"&gt;協同產品設計實習第1週任務&lt;/a&gt;的程式碼去驗證solvespace裡所繪製的運動軌跡。
 
 </t>
-<t tx="leo.20170312212156.2"></t>
-<t tx="leo.20170312212156.3">(uncached) leo.20170312212027.2
-Diff...
-- ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-+ ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-  
-  &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-  
-</t>
-<t tx="leo.20170312212156.4">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-
-</t>
-<t tx="leo.20170312212156.5">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-
-</t>
 <t tx="leo.20170312212209.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1332,48 +1359,6 @@ cx= -65.20944533000791 cy= 29.544232590366242
 dx= -22.53868820588739 dy= 55.60582284219696
 
 ex= -66.44406598905394 ey= 79.52898738448577
-
-</t>
-<t tx="leo.20170315085632.2"></t>
-<t tx="leo.20170315085632.3">(uncached) leo.20170312212027.2
-Diff...
-- ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-+ ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-  
-  &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-  
-</t>
-<t tx="leo.20170315085632.4">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-
-</t>
-<t tx="leo.20170315085632.5">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-
-</t>
-<t tx="leo.20170325205529.1"></t>
-<t tx="leo.20170325205529.2">(uncached) leo.20170312212027.2
-Diff...
-- ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-+ ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-  
-  &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-  
-</t>
-<t tx="leo.20170325205529.3">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-
-</t>
-<t tx="leo.20170325205529.4">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
 
 </t>
 <t tx="leo.20170325210841.1">@language md
@@ -1475,7 +1460,9 @@ fossil開啟後 ，到admin/user/add裡可新增筆記倉儲裡的成員
 </t>
 <t tx="leo.20170325211755.3">#第五週上課筆記
 
+##1.如何在fossil筆記倉儲主頁顯示作業
 
+##2.將單連桿轉入V-rep並使其作動
 </t>
 <t tx="leo.20170325211833.1">@language md
 Title: 2017/03/22 W5
@@ -1581,8 +1568,75 @@ Author: 40423245
 
 
 </t>
-<t tx="leo.20170326112904.2"></t>
-<t tx="leo.20170326112904.3">(uncached) leo.20170312212027.2
+<t tx="leo.20170328210949.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170328210949.2">#練習
+
+##1.如何在fossil筆記倉儲主頁顯示作業
+</t>
+<t tx="leo.20170328211120.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170328211120.2">##只要在wiki裡新增一個與倉儲筆記同名稱的檔案，即可在fossil筆記倉儲主頁顯示作業
+</t>
+<t tx="leo.20170328211217.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170328211217.2">&lt;img src="data/image W5/fossil_home.png" width="800" /&gt;
+</t>
+<t tx="leo.20170328211355.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170328211355.2">##在建立wiki有三種格式可選擇，wiki、Markdown及html，安全性以wiki最高，Markdown其次，html最低
+</t>
+<t tx="leo.20170328211445.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170328211445.2">&lt;img src="data/image W5/fossil_wiki.png" width="600" /&gt;
+</t>
+<t tx="leo.20170328211830.2"></t>
+<t tx="leo.20170328211830.3">(uncached) leo.20170312212027.2
 Diff...
 - ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
 ?                               ^
@@ -1592,18 +1646,106 @@ Diff...
   &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
   
 </t>
-<t tx="leo.20170326112904.4">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+<t tx="leo.20170328211830.4">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
 
 &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
 
 </t>
-<t tx="leo.20170326112904.5">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+<t tx="leo.20170328211830.5">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
 
 &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
 
 </t>
-<t tx="leo.20170326144207.2"></t>
-<t tx="leo.20170326144207.3">(uncached) leo.20170312212027.2
+<t tx="leo.20170328211935.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170328211935.2">#2.將單連桿轉入V-rep並使其作動
+
+##先將在繪圖軟體繪製好的單連桿利用Import/Mesh匯入V-rep
+</t>
+<t tx="leo.20170328212059.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170328212059.2">&lt;img src="data/image W5/V-rep import.png" width="600" /&gt;
+</t>
+<t tx="leo.20170328212138.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170328212138.2">###接著利用Divide selected shapes將單連桿的零件分開
+
+&lt;img src="data/image W5/V-rep Divide shapes.png" width="600" /&gt;
+</t>
+<t tx="leo.20170328212313.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170328212313.2">###利用Add/Joint/Revolute新增一個旋轉軸
+
+&lt;img src="data/image W5/V-rep onelink Revolute.png" width="600" /&gt;
+</t>
+<t tx="leo.20170328212409.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170328212409.2">###將旋轉軸的位置跟繪製的軸合併再一起
+
+&lt;img src="data/image W5/V-rep onelink Item position.png" width="600" /&gt;
+</t>
+<t tx="leo.20170328212520.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170328212520.2">###設置好各零件的從屬關係
+
+&lt;img src="data/image W5/V-rep onelink ass.png" width="600" /&gt;
+</t>
+<t tx="leo.20170328212635.1"></t>
+<t tx="leo.20170328212635.2">(uncached) leo.20170312212027.2
 Diff...
 - ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
 ?                               ^
@@ -1613,18 +1755,77 @@ Diff...
   &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
   
 </t>
-<t tx="leo.20170326144207.4">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+<t tx="leo.20170328212635.3">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
 
 &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
 
 </t>
-<t tx="leo.20170326144207.5">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+<t tx="leo.20170328212635.4">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
 
 &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
 
 </t>
-<t tx="leo.20170328203316.1"></t>
-<t tx="leo.20170328203316.2">(uncached) leo.20170312212027.2
+<t tx="leo.20170328212710.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170328212710.2">###接著設定旋轉軸的角速度，並固定單連桿
+
+&lt;img src="data/image W5/V-rep onelink Joint Dynamic.png" width="600" /&gt;
+</t>
+<t tx="leo.20170328212804.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170328212804.2">###接著將桿子設為動態物件
+
+&lt;img src="data/image W5/V-rep onelink body Dynamic.png" width="600" /&gt;
+</t>
+<t tx="leo.20170328212931.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170328212931.2">##練習心得
+
+###發現V-rep是個非常強大的軟體，可以模擬真實的情況，單連桿是較為簡單的練習，因此很快就了解了狀況。
+</t>
+<t tx="leo.20170328213013.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170328213013.2">&lt;iframe src="https://player.vimeo.com/video/210093581" width="640" height="454" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/210093581"&gt;40423245機械設計工程系 - 協同產品設計實習課程-W5上課練習&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
+<t tx="leo.20170328213240.2"></t>
+<t tx="leo.20170328213240.3">(uncached) leo.20170312212027.2
 Diff...
 - ####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
 ?                               ^
@@ -1634,15 +1835,119 @@ Diff...
   &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
   
 </t>
-<t tx="leo.20170328203316.3">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+<t tx="leo.20170328213240.4">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
 
 &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
 
 </t>
-<t tx="leo.20170328203316.4">####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+<t tx="leo.20170328213240.5">####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
 
 &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
 
+</t>
+<t tx="leo.20170328213249.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170328213249.2">##回家練習
+
+###將四連桿導入V-rep
+</t>
+<t tx="leo.20170328213338.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170328213338.2">&lt;iframe src="https://player.vimeo.com/video/210037771" width="640" height="454" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/210037771"&gt;40423245機械設計工程系 - 協同產品設計實習課程-W5回家練習&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
+<t tx="leo.20170328213345.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170328213345.2">##回家練習心得
+
+###四連桿相較於單連趕多了個Dummy，在它的使用上花費了不少時間。
+</t>
+<t tx="leo.20170328213352.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170328213352.2">###跟單連桿一樣先將檔案轉入V-rep，接著將零件分開，之後加入一個旋轉軸，將旋轉軸的位置跟繪製的軸合併再一起
+
+&lt;img src="data/image W5/V-rep Item position.png" width="480" /&gt;
+</t>
+<t tx="leo.20170328213356.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170328213356.2">###四個旋轉軸都設定好了之後，設定好各零件的從屬關係
+
+&lt;img src="data/image W5/V-rep ass.png" width="600" /&gt;
+</t>
+<t tx="leo.20170328213400.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170328213400.2">###加入兩個Dummy，一個放置在最後一個旋轉軸，另一個放置在第一桿子下
+
+&lt;img src="data/image W5/V-rep Dummy.png" width="600" /&gt;
+</t>
+<t tx="leo.20170328213624.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170328213624.2">###設定好兩者的關係
+
+&lt;img src="data/image W5/V-rep Scene Object.png" width="600" /&gt;
 </t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
