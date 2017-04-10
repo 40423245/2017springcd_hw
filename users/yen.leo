@@ -27,7 +27,7 @@
 <v t="yen.20170215103332.1"><vh>@edit base.html</vh></v>
 </v>
 </v>
-<v t="yen.20170120110024.1" a="E"><vh>@clean index.html</vh>
+<v t="yen.20170120110024.1"><vh>@clean index.html</vh>
 <v t="yen.20170120110024.2" a="E"><vh>html</vh>
 <v t="yen.20170120110024.3"><vh>head</vh></v>
 <v t="yen.20170120110024.4" a="E"><vh>body</vh>
@@ -212,7 +212,7 @@
 <v t="leo.20170325211224.3"><vh>上課大綱</vh></v>
 </v>
 </v>
-<v t="leo.20170325211755.1" a="E"><vh>20170322第五週上課筆記</vh>
+<v t="leo.20170325211755.1"><vh>20170322第五週上課筆記</vh>
 <v t="leo.20170325211755.2"><vh>上課筆記</vh>
 <v t="leo.20170325211755.3"><vh>上課筆記</vh></v>
 </v>
@@ -292,10 +292,8 @@
 <v t="yen.20170123225841.1"><vh>@edit 20170222.md</vh></v>
 <v t="leo.20170304202845.1"><vh>@edit 20170301.md</vh></v>
 <v t="leo.20170309204306.1"><vh>@edit 20170308.md</vh></v>
-<v t="leo.20170326170341.1"><vh>@edit 20170315.md</vh></v>
-<v t="leo.20170325210841.1"><vh>@@edit 20170315.md</vh></v>
-<v t="leo.20170326163450.1"><vh>@edit 20170322.md</vh></v>
-<v t="leo.20170325211833.1"><vh>@@edit 20170322.md</vh></v>
+<v t="leo.20170325210841.1"><vh>@edit 20170315.md</vh></v>
+<v t="leo.20170325211833.1"><vh>@edit 20170322.md</vh></v>
 <v t="leo.20170303212553.1"><vh>@@edit 20170108.md</vh></v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
@@ -323,22 +321,28 @@
 </v>
 </v>
 <v t="yen.20170209024032.1"><vh>reference</vh></v>
-<v t="leo.20170328211830.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20170328211830.2"><vh>Recovered Nodes</vh>
 <v t="leo.20170328211830.3"><vh>Recovered node "圖片" from @clean index.html</vh>
 <v t="leo.20170328211830.4"><vh>old:圖片</vh></v>
 <v t="leo.20170328211830.5"><vh>new:圖片</vh></v>
 </v>
 </v>
-<v t="leo.20170328212635.1" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20170328212635.1"><vh>Recovered Nodes</vh>
 <v t="leo.20170328212635.2"><vh>Recovered node "圖片" from @clean index.html</vh>
 <v t="leo.20170328212635.3"><vh>old:圖片</vh></v>
 <v t="leo.20170328212635.4"><vh>new:圖片</vh></v>
 </v>
 </v>
-<v t="leo.20170328213240.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20170328213240.2"><vh>Recovered Nodes</vh>
 <v t="leo.20170328213240.3"><vh>Recovered node "圖片" from @clean index.html</vh>
 <v t="leo.20170328213240.4"><vh>old:圖片</vh></v>
 <v t="leo.20170328213240.5"><vh>new:圖片</vh></v>
+</v>
+</v>
+<v t="leo.20170410180538.2"><vh>Recovered Nodes</vh>
+<v t="leo.20170410180538.3"><vh>Recovered node "圖片" from @clean index.html</vh>
+<v t="leo.20170410180538.4"><vh>old:圖片</vh></v>
+<v t="leo.20170410180538.5"><vh>new:圖片</vh></v>
 </v>
 </v>
 </vnodes>
@@ -1361,69 +1365,6 @@ dx= -22.53868820588739 dy= 55.60582284219696
 ex= -66.44406598905394 ey= 79.52898738448577
 
 </t>
-<t tx="leo.20170325210841.1">@language md
-Title: 2017/03/15 W4
-Date: 2017-03-15 11:00
-Category: Course
-Tags: notes, w4
-Slug: 2017spring-cd-W4
-Author: 40423245
-
-##2017Spring 協同產品設計實習課程  第四週
-
-&lt;!-- PELICAN_END_SUMMARY --&gt;
-
-##上課筆記
-
-&lt;span style="background-color: #ffff00"&gt;1.&lt;/span&gt;Fossil新增組員以及組員權限設定
-
-&lt;span style="background-color: #ffff00"&gt;2.&lt;/span&gt;協同產品設計實習課程-W4在Onshape繪製單連桿機構並轉出stl檔案
-
-&lt;span style="background-color: #ffff00"&gt;3.&lt;/span&gt;協同產品設計實習課程-W4在solvespace繪製單連桿機構並轉出stl檔案
-
-##練習
-
-&lt;span style="background-color: #ffff00"&gt;1.&lt;/span&gt;Fossil新增組員以及組員權限設定
-
-fossil開啟後 ，到admin/user/add裡可新增筆記倉儲裡的成員
-
-&lt;img src="./../data/image W4/fossil add user.png" width="480" /&gt;
-
-&lt;span style="background-color: #ffff00"&gt;2.&lt;/span&gt;協同產品設計實習課程-W4在Onshape繪製單連桿機構並轉出stl檔案
-
-繪製出所需零件 ，底座、軸及單連桿，並將其組立起來
-
-&lt;a href="https://cad.onshape.com/documents/414f3a744b87a17b4d845380/w/576a159abfb695fa37f8e121/e/e6da162a4b20484587e269d6"&gt;Onshape單連桿機構&lt;/a&gt;
-
-&lt;span style="background-color: #ffff00"&gt;3.&lt;/span&gt;協同產品設計實習課程-W4在solvespace繪製單連桿機構並轉出stl檔案
-
-繪製出所需零件 ，底座、軸及單連桿，並將其組立起來
-
-&lt;iframe src="./../data/shapes W4/ass.html" width="640" height="420"&gt;&lt;/iframe&gt;
-
-##練習心得
-
-這禮拜所繪製的單連桿零件還蠻簡單的。
-
-##練習影片
-
-&lt;span style="background-color: #ffff00"&gt;1.&lt;/span&gt;Fossil新增組員以及組員權限設定
-
-&lt;button onClick="lity('https://vimeo.com/208973584')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; Fossil新增組員&lt;/button&gt; 
-
-&lt;span style="background-color: #ffff00"&gt;2.&lt;/span&gt;協同產品設計實習課程-W4在Onshape繪製單連桿機構並轉出stl檔案
-
-&lt;button onClick="lity('https://vimeo.com/208973817')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; Onshape單連桿機構&lt;/button&gt; 
-
-&lt;span style="background-color: #ffff00"&gt;3.&lt;/span&gt;協同產品設計實習課程-W4在solvespace繪製單連桿機構並轉出stl檔案
-
-&lt;button onClick="lity('https://vimeo.com/208973989')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; solvespace單連桿機構&lt;/button&gt; 
-
-&lt;span style="background-color: #ffff00"&gt;4.&lt;/span&gt;回家練習
-
-&lt;button onClick="lity('https://vimeo.com/208974147')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;回家練習
-&lt;/button&gt; 
-</t>
 <t tx="leo.20170325211224.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -1463,110 +1404,6 @@ fossil開啟後 ，到admin/user/add裡可新增筆記倉儲裡的成員
 ##1.如何在fossil筆記倉儲主頁顯示作業
 
 ##2.將單連桿轉入V-rep並使其作動
-</t>
-<t tx="leo.20170325211833.1">@language md
-Title: 2017/03/22 W5
-Date: 2017-03-22 11:00
-Category: Course
-Tags: notes, w5
-Slug: 2017spring-cd-W5
-Author: 40423245
-
-##2017Spring 協同產品設計實習課程  第五週
-
-&lt;!-- PELICAN_END_SUMMARY --&gt;
-
-##上課筆記
-
-&lt;span style="background-color: #ffff00"&gt;1.&lt;/span&gt;如何在fossil筆記倉儲主頁顯示作業
-
-&lt;span style="background-color: #46A3FF"&gt;2.&lt;/span&gt;將單連桿轉入V-rep並使其作動
-
-##練習
-
-&lt;span style="background-color: #ffff00"&gt;1.&lt;/span&gt;如何在fossil筆記倉儲主頁顯示作業
-
-只要在wiki裡新增一個與倉儲筆記同名稱的檔案，即可在fossil筆記倉儲主頁顯示作業
-
-&lt;img src="./../data/image W5/fossil_home.png" width="480" /&gt;
-
-在建立wiki有三種格式可選擇，wiki、Markdown及html，安全性以wiki最高，Markdown其次，html最低
-
-&lt;img src="./../data/image W5/fossil_wiki.png" width="480" /&gt;
-
-&lt;span style="background-color: #46A3FF"&gt;2.&lt;/span&gt;將單連桿轉入V-rep並使其作動
-先將在繪圖軟體繪製好的單連桿利用Import/Mesh匯入V-rep
-
-&lt;img src="./../data/image W5/V-rep import.png" width="480" /&gt;
-
-接著利用Divide selected shapes將單連桿的零件分開
-
-&lt;img src="./../data/image W5/V-rep Divide shapes.png" width="480" /&gt;
-
-利用Add/Joint/Revolute新增一個旋轉軸
-
-&lt;img src="./../data/image W5/V-rep onelink Revolute.png" width="480" /&gt;
-
-將旋轉軸的位置跟繪製的軸合併再一起
-
-&lt;img src="./../data/image W5/V-rep onelink Item position.png" width="480" /&gt;
-
-設置好各零件的從屬關係
-
-&lt;img src="./../data/image W5/V-rep onelink ass.png" width="480" /&gt;
-
-接著設定旋轉軸的角速度，並固定單連桿
-
-&lt;img src="./../data/image W5/V-rep onelink Joint Dynamic.png" width="480" /&gt;
-
-接著將桿子設為動態物件
-
-&lt;img src="./../data/image W5/V-rep onelink body Dynamic.png" width="480" /&gt;
-
-##練習心得
-
-發現V-rep是個非常強大的軟體，可以模擬真實的情況，單連桿是較為簡單的練習，因此很快就了解了狀況。
-
-##練習影片
-
-&lt;iframe src="https://player.vimeo.com/video/210093581" width="640" height="454" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/210093581"&gt;40423245機械設計工程系 - 協同產品設計實習課程-W5上課練習&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-##回家練習
-
-跟單連桿一樣先將檔案轉入V-rep，接著將零件分開，之後加入一個旋轉軸，將旋轉軸的位置跟繪製的軸合併再一起
-
-&lt;img src="./../data/image W5/V-rep Item position.png" width="480" /&gt;
-
-四個旋轉軸都設定好了之後，設定好各零件的從屬關係
-
-&lt;img src="./../data/image W5/V-rep ass.png" width="480" /&gt;
-
-加入兩個Dummy，一個放置在最後一個旋轉軸，另一個放置在第一桿子下
-
-&lt;img src="./../data/image W5/V-rep Dummy.png" width="480" /&gt;
-
-設定好兩者的關係
-
-&lt;img src="./../data/image W5/V-rep Scene Object.png" width="480" /&gt;
-
-##回家練習心得
-
-四連桿相較於單連趕多了個Dummy，在它的使用上花費了不少時間。
-
-##回家練習影片
-
-&lt;iframe src="https://player.vimeo.com/video/210037771" width="640" height="454" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/210037771"&gt;40423245機械設計工程系 - 協同產品設計實習課程-W5回家練習&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-
-
-
-
-
-
-
-
 </t>
 <t tx="leo.20170328210949.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -1827,7 +1664,7 @@ Diff...
 <t tx="leo.20170328213240.2"></t>
 <t tx="leo.20170328213240.3">(uncached) leo.20170312212027.2
 Diff...
-- ####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+- ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
 ?                               ^
 + ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
 ?                               ^
@@ -1840,7 +1677,7 @@ Diff...
 &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
 
 </t>
-<t tx="leo.20170328213240.5">####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+<t tx="leo.20170328213240.5">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
 
 &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
 
@@ -1948,6 +1785,27 @@ Diff...
 <t tx="leo.20170328213624.2">###設定好兩者的關係
 
 &lt;img src="data/image W5/V-rep Scene Object.png" width="600" /&gt;
+</t>
+<t tx="leo.20170410180538.2"></t>
+<t tx="leo.20170410180538.3">(uncached) leo.20170312212027.2
+Diff...
+- ####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+?                               ^
++ ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+?                               ^
+  
+  &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
+  
+</t>
+<t tx="leo.20170410180538.4">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+
+&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
+
+</t>
+<t tx="leo.20170410180538.5">####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+
+&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
+
 </t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
