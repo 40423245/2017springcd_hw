@@ -226,13 +226,13 @@
 <v t="leo.20170410195838.1"><vh>練習3</vh>
 <v t="leo.20170410195838.2"><vh>練習3</vh></v>
 </v>
-<v t="leo.20170410200856.1"><vh>圖片3-1</vh>
+<v t="leo.20170410200856.1" a="E"><vh>圖片3-1</vh>
 <v t="leo.20170410200856.2"><vh>圖片3-1</vh></v>
 </v>
 <v t="leo.20170410201058.1"><vh>心得</vh>
 <v t="leo.20170410201058.2"><vh>心得</vh></v>
 </v>
-<v t="leo.20170410203206.1" a="E"><vh>影片</vh>
+<v t="leo.20170410203206.1"><vh>影片</vh>
 <v t="leo.20170410203206.2"><vh>影片</vh></v>
 </v>
 <v t="leo.20170410201130.1"><vh>影片1</vh>
@@ -2012,7 +2012,7 @@ Diff...
 
 						
 </t>
-<t tx="leo.20170410200856.2">&lt;iframe src="data/shapes W4/ass.html" width="640" height="420"&gt;&lt;/iframe&gt;
+<t tx="leo.20170410200856.2">&lt;img src="data/image W4/ass.png" width="640" /&gt;
 </t>
 <t tx="leo.20170410201058.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
