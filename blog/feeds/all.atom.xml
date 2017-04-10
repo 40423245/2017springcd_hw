@@ -77,16 +77,16 @@
 
 &lt;h2&gt;上課筆記&lt;/h2&gt;
 &lt;p&gt;&lt;span style="background-color: #ffff00"&gt;1.&lt;/span&gt;Fossil新增組員以及組員權限設定&lt;/p&gt;
-&lt;p&gt;&lt;span style="background-color: #ffff00"&gt;2.&lt;/span&gt;協同產品設計實習課程-W4在Onshape繪製單連桿機構並轉出stl檔案&lt;/p&gt;
-&lt;p&gt;&lt;span style="background-color: #ffff00"&gt;3.&lt;/span&gt;協同產品設計實習課程-W4在solvespace繪製單連桿機構並轉出stl檔案&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00"&gt;2.&lt;/span&gt;在Onshape繪製單連桿機構並轉出stl檔案&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00"&gt;3.&lt;/span&gt;在solvespace繪製單連桿機構並轉出stl檔案&lt;/p&gt;
 &lt;h2&gt;練習&lt;/h2&gt;
 &lt;p&gt;&lt;span style="background-color: #ffff00"&gt;1.&lt;/span&gt;Fossil新增組員以及組員權限設定&lt;/p&gt;
 &lt;p&gt;fossil開啟後 ，到admin/user/add裡可新增筆記倉儲裡的成員&lt;/p&gt;
 &lt;p&gt;&lt;img src="./../data/image W4/fossil add user.png" width="480" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background-color: #ffff00"&gt;2.&lt;/span&gt;協同產品設計實習課程-W4在Onshape繪製單連桿機構並轉出stl檔案&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00"&gt;2.&lt;/span&gt;在Onshape繪製單連桿機構並轉出stl檔案&lt;/p&gt;
 &lt;p&gt;繪製出所需零件 ，底座、軸及單連桿，並將其組立起來&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://cad.onshape.com/documents/414f3a744b87a17b4d845380/w/576a159abfb695fa37f8e121/e/e6da162a4b20484587e269d6"&gt;Onshape單連桿機構&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="background-color: #ffff00"&gt;3.&lt;/span&gt;協同產品設計實習課程-W4在solvespace繪製單連桿機構並轉出stl檔案&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00"&gt;3.&lt;/span&gt;在solvespace繪製單連桿機構並轉出stl檔案&lt;/p&gt;
 &lt;p&gt;繪製出所需零件 ，底座、軸及單連桿，並將其組立起來&lt;/p&gt;
 &lt;iframe src="./../data/shapes W4/ass.html" width="640" height="420"&gt;&lt;/iframe&gt;
 
@@ -95,9 +95,9 @@
 &lt;h2&gt;練習影片&lt;/h2&gt;
 &lt;p&gt;&lt;span style="background-color: #ffff00"&gt;1.&lt;/span&gt;Fossil新增組員以及組員權限設定&lt;/p&gt;
 &lt;p&gt;&lt;button onClick="lity('https://vimeo.com/208973584')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; Fossil新增組員&lt;/button&gt; &lt;/p&gt;
-&lt;p&gt;&lt;span style="background-color: #ffff00"&gt;2.&lt;/span&gt;協同產品設計實習課程-W4在Onshape繪製單連桿機構並轉出stl檔案&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00"&gt;2.&lt;/span&gt;在Onshape繪製單連桿機構並轉出stl檔案&lt;/p&gt;
 &lt;p&gt;&lt;button onClick="lity('https://vimeo.com/208973817')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; Onshape單連桿機構&lt;/button&gt; &lt;/p&gt;
-&lt;p&gt;&lt;span style="background-color: #ffff00"&gt;3.&lt;/span&gt;協同產品設計實習課程-W4在solvespace繪製單連桿機構並轉出stl檔案&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00"&gt;3.&lt;/span&gt;在solvespace繪製單連桿機構並轉出stl檔案&lt;/p&gt;
 &lt;p&gt;&lt;button onClick="lity('https://vimeo.com/208973989')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; solvespace單連桿機構&lt;/button&gt; &lt;/p&gt;
 &lt;p&gt;&lt;span style="background-color: #ffff00"&gt;4.&lt;/span&gt;回家練習&lt;/p&gt;
 &lt;p&gt;&lt;button onClick="lity('https://vimeo.com/208974147')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;回家練習
