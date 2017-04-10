@@ -211,14 +211,41 @@
 <v t="leo.20170325211224.2"><vh>上課內容</vh>
 <v t="leo.20170325211224.3"><vh>上課大綱</vh></v>
 </v>
-<v t="leo.20170410195829.1" a="E"><vh>練習1</vh>
+<v t="leo.20170410195829.1"><vh>練習1</vh>
 <v t="leo.20170410195829.2"><vh>練習1</vh></v>
 </v>
-<v t="leo.20170410195831.1" a="E"><vh>練習2</vh>
+<v t="leo.20170410200306.1"><vh>圖片1-1</vh>
+<v t="leo.20170410200306.2"><vh>圖片1-1</vh></v>
+</v>
+<v t="leo.20170410195831.1"><vh>練習2</vh>
 <v t="leo.20170410195831.2"><vh>練習2</vh></v>
 </v>
-<v t="leo.20170410195838.1" a="E"><vh>練習3</vh>
+<v t="leo.20170410200547.1"><vh>零件2-1</vh>
+<v t="leo.20170410200547.2"><vh>零件2-1</vh></v>
+</v>
+<v t="leo.20170410195838.1"><vh>練習3</vh>
 <v t="leo.20170410195838.2"><vh>練習3</vh></v>
+</v>
+<v t="leo.20170410200856.1"><vh>圖片3-1</vh>
+<v t="leo.20170410200856.2"><vh>圖片3-1</vh></v>
+</v>
+<v t="leo.20170410201058.1"><vh>心得</vh>
+<v t="leo.20170410201058.2"><vh>心得</vh></v>
+</v>
+<v t="leo.20170410203206.1" a="E"><vh>影片</vh>
+<v t="leo.20170410203206.2"><vh>影片</vh></v>
+</v>
+<v t="leo.20170410201130.1"><vh>影片1</vh>
+<v t="leo.20170410201130.2"><vh>影片1</vh></v>
+</v>
+<v t="leo.20170410202610.1"><vh>影片2</vh>
+<v t="leo.20170410202610.2"><vh>影片2</vh></v>
+</v>
+<v t="leo.20170410202615.1"><vh>影片3</vh>
+<v t="leo.20170410202615.2"><vh>影片3</vh></v>
+</v>
+<v t="leo.20170410202619.1"><vh>影片4</vh>
+<v t="leo.20170410202619.2"><vh>影片4</vh></v>
 </v>
 </v>
 <v t="leo.20170325211755.1"><vh>20170322第五週上課筆記</vh>
@@ -370,6 +397,12 @@
 <v t="leo.20170410190700.3"><vh>Recovered node "圖片" from @clean index.html</vh>
 <v t="leo.20170410190700.4"><vh>old:圖片</vh></v>
 <v t="leo.20170410190700.5"><vh>new:圖片</vh></v>
+</v>
+</v>
+<v t="leo.20170410202518.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20170410202518.3"><vh>Recovered node "圖片" from @clean index.html</vh>
+<v t="leo.20170410202518.4"><vh>old:圖片</vh></v>
+<v t="leo.20170410202518.5"><vh>new:圖片</vh></v>
 </v>
 </v>
 </vnodes>
@@ -1413,7 +1446,8 @@ ex= -66.44406598905394 ey= 79.52898738448577
 
 ##2.在Onshape繪製單連桿機構並轉出stl檔案
 
-##3.在solvespace繪製單連桿機構並轉出stl檔案</t>
+##3.在solvespace繪製單連桿機構並轉出stl檔案
+</t>
 <t tx="leo.20170325211755.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -1840,7 +1874,7 @@ Diff...
 <t tx="leo.20170410190700.2"></t>
 <t tx="leo.20170410190700.3">(uncached) leo.20170312212027.2
 Diff...
-- ####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+- ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
 ?                               ^
 + ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
 ?                               ^
@@ -1853,7 +1887,7 @@ Diff...
 &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
 
 </t>
-<t tx="leo.20170410190700.5">####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+<t tx="leo.20170410190700.5">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
 
 &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
 
@@ -1907,13 +1941,10 @@ Diff...
 
 						
 </t>
-<t tx="leo.20170410195829.2">#第四週上課筆記
+<t tx="leo.20170410195829.2">##1.Fossil新增組員以及組員權限設定
 
-##1.Fossil新增組員以及組員權限設定
-
-##2.在Onshape繪製單連桿機構並轉出stl檔案
-
-##3.在solvespace繪製單連桿機構並轉出stl檔案</t>
+###fossil開啟後 ，到admin/user/add裡可新增筆記倉儲裡的成員
+</t>
 <t tx="leo.20170410195831.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1925,13 +1956,10 @@ Diff...
 
 						
 </t>
-<t tx="leo.20170410195831.2">#第四週上課筆記
+<t tx="leo.20170410195831.2">##2.在Onshape繪製單連桿機構並轉出stl檔案
 
-##1.Fossil新增組員以及組員權限設定
-
-##2.在Onshape繪製單連桿機構並轉出stl檔案
-
-##3.在solvespace繪製單連桿機構並轉出stl檔案</t>
+###繪製出所需零件 ，底座、軸及單連桿，並將其組立起來
+</t>
 <t tx="leo.20170410195838.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1943,13 +1971,161 @@ Diff...
 
 						
 </t>
-<t tx="leo.20170410195838.2">#第四週上課筆記
+<t tx="leo.20170410195838.2">##3.在solvespace繪製單連桿機構並轉出stl檔案
 
-##1.Fossil新增組員以及組員權限設定
+###繪製出所需零件 ，底座、軸及單連桿，並將其組立起來
+</t>
+<t tx="leo.20170410200306.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
 
-##2.在Onshape繪製單連桿機構並轉出stl檔案
 
-##3.在solvespace繪製單連桿機構並轉出stl檔案</t>
+
+						
+</t>
+<t tx="leo.20170410200306.2">&lt;img src="data/image W4/fossil add user.png" width="640" /&gt;
+</t>
+<t tx="leo.20170410200547.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170410200547.2">&lt;a href="https://cad.onshape.com/documents/414f3a744b87a17b4d845380/w/576a159abfb695fa37f8e121/e/e6da162a4b20484587e269d6"&gt;Onshape單連桿機構&lt;/a&gt;
+</t>
+<t tx="leo.20170410200856.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170410200856.2">&lt;iframe src="data/shapes W4/ass.html" width="640" height="420"&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20170410201058.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170410201058.2">##練習心得
+
+###這禮拜所繪製的單連桿零件還蠻簡單的。
+</t>
+<t tx="leo.20170410201130.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170410201130.2">###1.Fossil新增組員以及組員權限設定
+
+&lt;iframe src="https://player.vimeo.com/video/208973584" width="640" height="454" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/208973584"&gt;40423245機械設計工程系 - 協同產品設計實習課程-W4Fossil新增組員以及組員權限設定&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
+<t tx="leo.20170410202518.2"></t>
+<t tx="leo.20170410202518.3">(uncached) leo.20170312212027.2
+Diff...
+- ####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+?                               ^
++ ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+?                               ^
+  
+  &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
+  
+</t>
+<t tx="leo.20170410202518.4">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+
+&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
+
+</t>
+<t tx="leo.20170410202518.5">####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+
+&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
+
+</t>
+<t tx="leo.20170410202610.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170410202610.2">####2.在Onshape繪製單連桿機構並轉出stl檔案
+
+&lt;iframe src="https://player.vimeo.com/video/208973817" width="640" height="454" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/208973817"&gt;40423245機械設計工程系 - 協同產品設計實習課程-W4在Onshape繪製單連桿機構並轉出stl檔案&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
+<t tx="leo.20170410202615.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170410202615.2">####3.在solvespace繪製單連桿機構並轉出stl檔案
+
+&lt;iframe src="https://player.vimeo.com/video/208973989" width="640" height="454" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/208973989"&gt;40423245機械設計工程系 - 協同產品設計實習課程-W4在solvespace繪製單連桿機構並轉出stl檔案&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
+<t tx="leo.20170410202619.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170410202619.2">###回家練習
+
+&lt;iframe src="https://player.vimeo.com/video/208974147" width="640" height="454" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/208974147"&gt;40423245機械設計工程系 - 協同產品設計實習課程-W4將stl檔轉入Vrep並使單連桿作動&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170410203206.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170410203206.2">##練習影片
+</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
