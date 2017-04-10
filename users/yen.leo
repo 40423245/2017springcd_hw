@@ -27,7 +27,7 @@
 <v t="yen.20170215103332.1"><vh>@edit base.html</vh></v>
 </v>
 </v>
-<v t="yen.20170120110024.1"><vh>@clean index.html</vh>
+<v t="yen.20170120110024.1" a="E"><vh>@clean index.html</vh>
 <v t="yen.20170120110024.2" a="E"><vh>html</vh>
 <v t="yen.20170120110024.3"><vh>head</vh></v>
 <v t="yen.20170120110024.4" a="E"><vh>body</vh>
@@ -207,9 +207,18 @@
 <v t="leo.20170312210107.2"><vh>第三週心得影片</vh></v>
 </v>
 </v>
-<v t="leo.20170325211224.1"><vh>20170315第四週上課筆記</vh>
+<v t="leo.20170325211224.1" a="E"><vh>20170315第四週上課筆記</vh>
 <v t="leo.20170325211224.2"><vh>上課內容</vh>
 <v t="leo.20170325211224.3"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170410195829.1" a="E"><vh>練習1</vh>
+<v t="leo.20170410195829.2"><vh>練習1</vh></v>
+</v>
+<v t="leo.20170410195831.1" a="E"><vh>練習2</vh>
+<v t="leo.20170410195831.2"><vh>練習2</vh></v>
+</v>
+<v t="leo.20170410195838.1" a="E"><vh>練習3</vh>
+<v t="leo.20170410195838.2"><vh>練習3</vh></v>
 </v>
 </v>
 <v t="leo.20170325211755.1"><vh>20170322第五週上課筆記</vh>
@@ -281,6 +290,16 @@
 </v>
 <v t="leo.20170328213338.1"><vh>回家練習影片</vh>
 <v t="leo.20170328213338.2"><vh>回家練習影片</vh></v>
+</v>
+</v>
+<v t="leo.20170410195046.1"><vh>20170329第六週上課筆記</vh>
+<v t="leo.20170410195046.2"><vh>上課內容</vh>
+<v t="leo.20170410195046.3"><vh>上課大綱</vh></v>
+</v>
+</v>
+<v t="leo.20170410195103.1"><vh>20170405第七週上課筆記</vh>
+<v t="leo.20170410195103.2"><vh>上課內容</vh>
+<v t="leo.20170410195103.3"><vh>上課大綱</vh></v>
 </v>
 </v>
 </v>
@@ -1390,8 +1409,11 @@ ex= -66.44406598905394 ey= 79.52898738448577
 </t>
 <t tx="leo.20170325211224.3">#第四週上課筆記
 
+##1.Fossil新增組員以及組員權限設定
 
-</t>
+##2.在Onshape繪製單連桿機構並轉出stl檔案
+
+##3.在solvespace繪製單連桿機構並轉出stl檔案</t>
 <t tx="leo.20170325211755.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -1836,6 +1858,98 @@ Diff...
 &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
 
 </t>
+<t tx="leo.20170410195046.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170410195046.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170410195046.3">#第四週上課筆記
+
+
+</t>
+<t tx="leo.20170410195103.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170410195103.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170410195103.3">#第四週上課筆記
+
+
+</t>
+<t tx="leo.20170410195829.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170410195829.2">#第四週上課筆記
+
+##1.Fossil新增組員以及組員權限設定
+
+##2.在Onshape繪製單連桿機構並轉出stl檔案
+
+##3.在solvespace繪製單連桿機構並轉出stl檔案</t>
+<t tx="leo.20170410195831.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170410195831.2">#第四週上課筆記
+
+##1.Fossil新增組員以及組員權限設定
+
+##2.在Onshape繪製單連桿機構並轉出stl檔案
+
+##3.在solvespace繪製單連桿機構並轉出stl檔案</t>
+<t tx="leo.20170410195838.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170410195838.2">#第四週上課筆記
+
+##1.Fossil新增組員以及組員權限設定
+
+##2.在Onshape繪製單連桿機構並轉出stl檔案
+
+##3.在solvespace繪製單連桿機構並轉出stl檔案</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
