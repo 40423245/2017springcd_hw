@@ -27,11 +27,11 @@
 <v t="yen.20170215103332.1"><vh>@edit base.html</vh></v>
 </v>
 </v>
-<v t="yen.20170120110024.1"><vh>@clean index.html</vh>
-<v t="yen.20170120110024.2"><vh>html</vh>
+<v t="yen.20170120110024.1" a="E"><vh>@clean index.html</vh>
+<v t="yen.20170120110024.2" a="E"><vh>html</vh>
 <v t="yen.20170120110024.3"><vh>head</vh></v>
 <v t="yen.20170120110024.4" a="E"><vh>body</vh>
-<v t="yen.20170120110024.5"><vh>reveal div</vh>
+<v t="yen.20170120110024.5" a="E"><vh>reveal div</vh>
 <v t="leo.20170303213004.1" a="E"><vh>slides div</vh>
 <v t="leo.20170303213004.2"><vh>封面投影片</vh>
 <v t="leo.20170303213004.3"><vh>封面投影片內容</vh></v>
@@ -323,6 +323,36 @@
 <v t="leo.20170410195046.2"><vh>上課內容</vh>
 <v t="leo.20170410195046.3"><vh>上課大綱</vh></v>
 </v>
+<v t="leo.20170411203137.1"><vh>練習1</vh>
+<v t="leo.20170411203137.2"><vh>練習</vh></v>
+</v>
+<v t="leo.20170411203156.1"><vh>練習2</vh>
+<v t="leo.20170411203156.2"><vh>練習</vh></v>
+</v>
+<v t="leo.20170411203157.1"><vh>練習3</vh>
+<v t="leo.20170411203157.2"><vh>練習</vh></v>
+</v>
+<v t="leo.20170411203159.1"><vh>練習4</vh>
+<v t="leo.20170411203159.2"><vh>練習</vh></v>
+</v>
+<v t="leo.20170411203400.1"><vh>零件連結</vh>
+<v t="leo.20170411203400.2"><vh>零件連結</vh></v>
+</v>
+<v t="leo.20170411203438.1"><vh>練習5</vh>
+<v t="leo.20170411203438.2"><vh>練習</vh></v>
+</v>
+<v t="leo.20170411203440.1"><vh>練習6</vh>
+<v t="leo.20170411203440.2"><vh>練習</vh></v>
+</v>
+<v t="leo.20170411203442.1"><vh>練習7</vh>
+<v t="leo.20170411203442.2"><vh>練習</vh></v>
+</v>
+<v t="leo.20170411203609.1"><vh>心得</vh>
+<v t="leo.20170411203609.2"><vh>心得</vh></v>
+</v>
+<v t="leo.20170411203624.1"><vh>影片</vh>
+<v t="leo.20170411203624.2"><vh>影片</vh></v>
+</v>
 </v>
 <v t="leo.20170410195103.1"><vh>20170405第七週上課筆記</vh>
 <v t="leo.20170410195103.2"><vh>上課內容</vh>
@@ -416,6 +446,12 @@
 <v t="leo.20170411183006.3"><vh>Recovered node "圖片" from @clean index.html</vh>
 <v t="leo.20170411183006.4"><vh>old:圖片</vh></v>
 <v t="leo.20170411183006.5"><vh>new:圖片</vh></v>
+</v>
+</v>
+<v t="leo.20170411203046.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20170411203046.3"><vh>Recovered node "圖片" from @clean index.html</vh>
+<v t="leo.20170411203046.4"><vh>old:圖片</vh></v>
+<v t="leo.20170411203046.5"><vh>new:圖片</vh></v>
 </v>
 </v>
 </vnodes>
@@ -1920,9 +1956,9 @@ Diff...
 
 						
 </t>
-<t tx="leo.20170410195046.3">#第四週上課筆記
+<t tx="leo.20170410195046.3">#第六週上課筆記
 
-
+##1.利用Onshape裡的變數指令來繪製四連桿，並匯入V-rep裝上馬達。
 </t>
 <t tx="leo.20170410195103.1">&lt;section&gt;
 @others
@@ -2164,7 +2200,7 @@ Diff...
 <t tx="leo.20170411183006.2"></t>
 <t tx="leo.20170411183006.3">(uncached) leo.20170312212027.2
 Diff...
-- ####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+- ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
 ?                               ^
 + ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
 ?                               ^
@@ -2177,9 +2213,190 @@ Diff...
 &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
 
 </t>
-<t tx="leo.20170411183006.5">####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+<t tx="leo.20170411183006.5">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
 
 &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
+
+</t>
+<t tx="leo.20170411203046.2"></t>
+<t tx="leo.20170411203046.3">(uncached) leo.20170312212027.2
+Diff...
+- ####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+?                               ^
++ ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+?                               ^
+  
+  &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
+  
+</t>
+<t tx="leo.20170411203046.4">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+
+&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
+
+</t>
+<t tx="leo.20170411203046.5">####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+
+&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
+
+</t>
+<t tx="leo.20170411203137.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170411203137.2">##在Onshape裡建立一個新文件，並設定好參數設定
+
+&lt;img src="data/image W6/Onshape Variable.png" width="480" /&gt;
+
+
+</t>
+<t tx="leo.20170411203156.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170411203156.2">##接著繪製草圖，在標註尺寸時利用#+參數名稱加入設定好的參數，並將其擠出為零件
+
+&lt;img src="data/image W6/Onshape link and joint.png" width="480" /&gt;
+
+</t>
+<t tx="leo.20170411203157.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170411203157.2">##接著在組合件裡匯入零件，並利用&lt;img src="data/image W6/Onshape 轉動.png" width="40" /&gt;指令組立桿子，利用&lt;img src="data/image W6/Onshape 緊固.png" width="40" /&gt;指令組立軸
+
+</t>
+<t tx="leo.20170411203159.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170411203159.2">&lt;img src="data/image W6/Onshape ass.png" width="480" /&gt;
+
+
+</t>
+<t tx="leo.20170411203400.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170411203400.2">&lt;a href="https://cad.onshape.com/documents/2a72700429928831c3ee6f49/w/f729c21a318454e00a730da2/e/6abaf474022c06b4d4cb8063"&gt;Onshape四連桿機構&lt;/a&gt;
+
+
+</t>
+<t tx="leo.20170411203438.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170411203438.2">###接著將組立好的四連桿轉出stl，並匯入V-rep，將各個零件分開，加入旋轉軸，加入馬達，將桿子設為動態物件後，設好從屬關係。
+
+&lt;img src="data/image W6/V-rep 從屬關係.png" width="480" /&gt;
+
+
+</t>
+<t tx="leo.20170411203440.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170411203440.2">##接著新增兩個Dummy
+
+&lt;img src="data/image W6/V-rep add dummy.png" width="480" /&gt;
+
+
+</t>
+<t tx="leo.20170411203442.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170411203442.2">##並設定兩個Dummy的關係Dynamics
+
+&lt;img src="data/image W6/V-rep dummy opition.png" width="480" /&gt;
+
+
+</t>
+<t tx="leo.20170411203609.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170411203609.2">##心得
+
+###這禮拜加入了Dummy的工具，還不太熟悉需要好好的研究一下。
+
+
+</t>
+<t tx="leo.20170411203624.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170411203624.2">&lt;iframe src="https://player.vimeo.com/video/211471124" width="640" height="454" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/211471124"&gt;40423245機械設計工程系 - 協同產品設計實習課程-W6上課練習&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
 </t>
 <t tx="yen.20170108171605.1"></t>
