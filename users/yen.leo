@@ -27,7 +27,7 @@
 <v t="yen.20170215103332.1"><vh>@edit base.html</vh></v>
 </v>
 </v>
-<v t="yen.20170120110024.1" a="E"><vh>@clean index.html</vh>
+<v t="yen.20170120110024.1"><vh>@clean index.html</vh>
 <v t="yen.20170120110024.2"><vh>html</vh>
 <v t="yen.20170120110024.3"><vh>head</vh></v>
 <v t="yen.20170120110024.4" a="E"><vh>body</vh>
@@ -342,6 +342,7 @@
 <v t="leo.20170325211833.1"><vh>@edit 20170322.md</vh></v>
 <v t="leo.20170410181227.1"><vh>@edit 20170329.md</vh></v>
 <v t="leo.20170410194113.1"><vh>@edit 20170405.md</vh></v>
+<v t="leo.20170411190357.1"><vh>@edit 20170419.md</vh></v>
 <v t="leo.20170303212553.1"><vh>@@edit 20170108.md</vh></v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
