@@ -88,6 +88,8 @@
 &lt;p&gt;&lt;span style="background-color: #ffff00"&gt;3.&lt;/span&gt;將八連桿匯入V-rep並使其作動&lt;/p&gt;
 &lt;p&gt;與四連桿相同，只不過這次加入了更多的Dummy，因此在其從屬關係上須特別小心。&lt;/p&gt;
 &lt;p&gt;&lt;img src="./../data/image W7/V-rep 8 link relationship .png" width="480" /&gt;&lt;/p&gt;
+&lt;h2&gt;心得&lt;/h2&gt;
+&lt;p&gt;這禮拜加入更多的Dummy，以及在桿子上的從屬關係更加的複雜，讓我在練習上有些手無足措，也花了滿久的時間，這禮拜還加入了fossil的倉儲管理，fossil對我來說還相當新鮮，需要盡快地了解其架構。&lt;/p&gt;
 &lt;h2&gt;影片&lt;/h2&gt;
 &lt;p&gt;&lt;span style="background-color: #ffff00"&gt;1.&lt;/span&gt;利用fossil對倉儲進行管理練習&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/212450094" width="640" height="454" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
