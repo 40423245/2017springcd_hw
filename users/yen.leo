@@ -405,6 +405,12 @@
 <v t="leo.20170410202518.5"><vh>new:圖片</vh></v>
 </v>
 </v>
+<v t="leo.20170411172456.1" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20170411172456.2"><vh>Recovered node "圖片" from @clean index.html</vh>
+<v t="leo.20170411172456.3"><vh>old:圖片</vh></v>
+<v t="leo.20170411172456.4"><vh>new:圖片</vh></v>
+</v>
+</v>
 </vnodes>
 <tnodes>
 <t tx="leo.20170303212553.1">@language md
@@ -2048,7 +2054,7 @@ Diff...
 <t tx="leo.20170410202518.2"></t>
 <t tx="leo.20170410202518.3">(uncached) leo.20170312212027.2
 Diff...
-- ####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+- ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
 ?                               ^
 + ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
 ?                               ^
@@ -2061,7 +2067,7 @@ Diff...
 &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
 
 </t>
-<t tx="leo.20170410202518.5">####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+<t tx="leo.20170410202518.5">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
 
 &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
 
@@ -2112,7 +2118,8 @@ Diff...
 <t tx="leo.20170410202619.2">###回家練習
 
 &lt;iframe src="https://player.vimeo.com/video/208974147" width="640" height="454" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/208974147"&gt;40423245機械設計工程系 - 協同產品設計實習課程-W4將stl檔轉入Vrep並使單連桿作動&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+&lt;p&gt;&lt;a href="https://vimeo.com/208974147"&gt;40423245機械設計工程系 - 協同產品設計實習課程-W4將stl檔轉入Vrep並使單連桿作動&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
 <t tx="leo.20170410203206.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2125,6 +2132,27 @@ Diff...
 						
 </t>
 <t tx="leo.20170410203206.2">##練習影片
+</t>
+<t tx="leo.20170411172456.1"></t>
+<t tx="leo.20170411172456.2">(uncached) leo.20170312212027.2
+Diff...
+- ####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+?                               ^
++ ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+?                               ^
+  
+  &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
+  
+</t>
+<t tx="leo.20170411172456.3">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+
+&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
+
+</t>
+<t tx="leo.20170411172456.4">####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+
+&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
+
 </t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
