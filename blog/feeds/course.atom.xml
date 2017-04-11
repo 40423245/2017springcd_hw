@@ -4,6 +4,25 @@
 
 &lt;h2&gt;上課筆記&lt;/h2&gt;
 &lt;p&gt;&lt;span style="background-color: #ffff00"&gt;1.&lt;/span&gt;利用fossil對倉儲進行管理練習&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00"&gt;2.&lt;/span&gt;利用Onshape繪製八連桿&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00"&gt;3.&lt;/span&gt;將八連桿匯入V-rep並使其作動&lt;/p&gt;
+&lt;h2&gt;練習&lt;/h2&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00"&gt;1.&lt;/span&gt;利用fossil對倉儲進行管理練習&lt;/p&gt;
+&lt;p&gt;利用以下指令對fossil倉儲進行管理&lt;/p&gt;
+&lt;p&gt;fossil clone uri foo.fossil (將遠端的倉儲下載下來)&lt;/p&gt;
+&lt;p&gt;fossil open ./../../foo.fossil (將下載下來的倉儲打開)&lt;/p&gt;
+&lt;p&gt;fossil add . (將改版的倉儲推至暫存區)&lt;/p&gt;
+&lt;p&gt;fossil remote-url off (將自動推送改為手動，這是與git不同之處，fossil會自動推送)&lt;/p&gt;
+&lt;p&gt;fossil push https://user@192.168.X.XX  (將暫存區的檔案推至遠端)&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00"&gt;2.&lt;/span&gt;利用Onshape繪製八連桿&lt;/p&gt;
+&lt;p&gt;與四連桿相同利用參數指令繪製零件，並利用轉動指令及緊固指令將八連桿組立起來&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/image W7/Onshape 8link ass.png" width="480" /&gt;&lt;/p&gt;
+&lt;h2&gt;零件連結 ：&lt;a href="https://cad.onshape.com/documents/8f27e94d797527621c7de57f/w/348f7b820c41f1e00e927d58/e/ac94e18b0e62ac367e76fc53"&gt;Onshape八連桿機構&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00"&gt;3.&lt;/span&gt;將八連桿匯入V-rep並使其作動&lt;/p&gt;
+&lt;p&gt;與四連桿相同，只不過這次加入了更多的Dummy，因此在其從屬關係上須特別小心。&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/image W7/V-rep 8 link relationship .png" width="480" /&gt;&lt;/p&gt;
+&lt;h2&gt;影片&lt;/h2&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00"&gt;1.&lt;/span&gt;利用fossil對倉儲進行管理練習&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/212450094" width="640" height="454" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="https://vimeo.com/212450094"&gt;40423245機械設計工程系 - 協同產品設計實習課程W7-利用fossil對倉儲進行管理練習&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
