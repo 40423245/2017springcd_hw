@@ -206,6 +206,11 @@
 &lt;p&gt;&lt;span style="background-color: #ffff00"&gt;4.&lt;/span&gt;回家練習&lt;/p&gt;
 &lt;p&gt;&lt;button onClick="lity('https://vimeo.com/208974147')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;回家練習
 &lt;/button&gt; &lt;/p&gt;</summary><category term="notes"></category><category term="w4"></category></entry><entry><title>2017/03/08 W3</title><link href="./2017spring-cd-W3.html" rel="alternate"></link><published>2017-03-08T11:00:00+08:00</published><updated>2017-03-08T11:00:00+08:00</updated><author><name>40423245</name></author><id>tag:,2017-03-08:./2017spring-cd-W3.html</id><summary type="html">&lt;h2&gt;2017Spring 協同產品設計實習課程  第三週&lt;/h2&gt;
+&lt;p&gt;一. 建置fossil&lt;/p&gt;
+&lt;p&gt;二. 請完成 Solvespace 30-50-60 cm 比例的四連桿組立, 並轉出 stl 檔案, 以 import 方式轉入 V-rep&lt;/p&gt;
+&lt;p&gt;三. 請利用 Onshape 完成上述相同尺寸之四連桿機構, 以 stl 轉出 (或其他格式) 後, 再轉入 V-rep&lt;/p&gt;
+&lt;p&gt;四.請在 50 連桿上加上 50-50-50 正三角形, 以 Solvespace 輸入該三角形頂點運動軌跡&lt;/p&gt;
+&lt;p&gt;五. 請設法驗證上述四連桿運動軌跡, 是否正確, 並設法在分組網頁中執行該四連桿機構的運動模擬&lt;/p&gt;
 
 
 &lt;h2&gt;第三週上課內容&lt;/h2&gt;
