@@ -508,6 +508,18 @@
 <v t="leo.20170411215217.5"><vh>new:圖片</vh></v>
 </v>
 </v>
+<v t="leo.20170412095012.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20170412095012.3"><vh>Recovered node "圖片" from @clean index.html</vh>
+<v t="leo.20170412095012.4"><vh>old:圖片</vh></v>
+<v t="leo.20170412095012.5"><vh>new:圖片</vh></v>
+</v>
+</v>
+<v t="leo.20170412095759.1" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20170412095759.2"><vh>Recovered node "圖片" from @clean index.html</vh>
+<v t="leo.20170412095759.3"><vh>old:圖片</vh></v>
+<v t="leo.20170412095759.4"><vh>new:圖片</vh></v>
+</v>
+</v>
 </vnodes>
 <tnodes>
 <t tx="leo.20170303212553.1">@language md
@@ -2630,7 +2642,7 @@ Diff...
 <t tx="leo.20170411215217.2"></t>
 <t tx="leo.20170411215217.3">(uncached) leo.20170312212027.2
 Diff...
-- ####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+- ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
 ?                               ^
 + ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
 ?                               ^
@@ -2643,7 +2655,7 @@ Diff...
 &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
 
 </t>
-<t tx="leo.20170411215217.5">####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+<t tx="leo.20170411215217.5">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
 
 &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
 
@@ -2661,7 +2673,8 @@ Diff...
 </t>
 <t tx="leo.20170411215249.2">
 &lt;iframe src="https://player.vimeo.com/video/212450094" width="640" height="454" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/212450094"&gt;40423245機械設計工程系 - 協同產品設計實習課程W7-利用fossil對倉儲進行管理練習&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+&lt;p&gt;&lt;a href="https://vimeo.com/212450094"&gt;40423245機械設計工程系 - 協同產品設計實習課程W7-利用fossil對倉儲進行管理練習&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
 <t tx="leo.20170411215250.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2674,7 +2687,8 @@ Diff...
 						
 </t>
 <t tx="leo.20170411215250.2">&lt;iframe src="https://player.vimeo.com/video/212448923" width="640" height="454" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/212448923"&gt;40423245機械設計工程系 - 協同產品設計實習課程W7-利用Onshape繪製八連桿&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+&lt;p&gt;&lt;a href="https://vimeo.com/212448923"&gt;40423245機械設計工程系 - 協同產品設計實習課程W7-利用Onshape繪製八連桿&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
 <t tx="leo.20170411215251.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2687,7 +2701,8 @@ Diff...
 						
 </t>
 <t tx="leo.20170411215251.2">&lt;iframe src="https://player.vimeo.com/video/212447799" width="640" height="454" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/212447799"&gt;40423245機械設計工程系 - 協同產品設計實習課程-W7-將八連桿匯入V-rep並使其作動&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+&lt;p&gt;&lt;a href="https://vimeo.com/212447799"&gt;40423245機械設計工程系 - 協同產品設計實習課程-W7-將八連桿匯入V-rep並使其作動&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
 <t tx="leo.20170411215419.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2702,6 +2717,48 @@ Diff...
 <t tx="leo.20170411215419.2">#心得
 
 ##這禮拜加入更多的Dummy，以及在桿子上的從屬關係更加的複雜，讓我在練習上有些手無足措，也花了滿久的時間，這禮拜還加入了fossil的倉儲管理，fossil對我來說還相當新鮮，需要盡快地了解其架構。
+</t>
+<t tx="leo.20170412095012.2"></t>
+<t tx="leo.20170412095012.3">(uncached) leo.20170312212027.2
+Diff...
+- ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+?                               ^
++ ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+?                               ^
+  
+  &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
+  
+</t>
+<t tx="leo.20170412095012.4">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+
+&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
+
+</t>
+<t tx="leo.20170412095012.5">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+
+&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
+
+</t>
+<t tx="leo.20170412095759.1"></t>
+<t tx="leo.20170412095759.2">(uncached) leo.20170312212027.2
+Diff...
+- ####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+?                               ^
++ ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+?                               ^
+  
+  &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
+  
+</t>
+<t tx="leo.20170412095759.3">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+
+&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
+
+</t>
+<t tx="leo.20170412095759.4">####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+
+&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
+
 </t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {

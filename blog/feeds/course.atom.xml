@@ -351,8 +351,12 @@ print("學生總數:", n)
 &lt;h2&gt;第二週心得影片&lt;/h2&gt;
 &lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/206845385" width="640" height="457" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/206845385"&gt;40423245機械設計工程系 - 協同產品設計實習課程-W2&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="notes"></category><category term="w2"></category></entry><entry><title>2017/02/22 W1</title><link href="./2017spring-cd-W1.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423245</name></author><id>tag:,2017-02-22:./2017spring-cd-W1.html</id><summary type="html">&lt;h2&gt;2017Spring 協同產品設計實習課程  第一週&lt;/h2&gt;
+&lt;p&gt;一.可至&lt;/span&gt;可至&lt;a href="http://mde.tw/2017springcd/blog/2017spring-cd.html"&gt;2017 Spring 協同產品設計實習&lt;/a&gt;觀看這學期的課程大綱&lt;/p&gt;
+&lt;p&gt;二.了解如何使用stunnel&lt;/p&gt;
+&lt;p&gt;三.利用python程式碼控制Vrep裡的單連桿作動&lt;/p&gt;
 
 
+&lt;h2&gt;上課筆記&lt;/h2&gt;
 &lt;p&gt;&lt;span style="background-color: #ffff00"&gt;一.&lt;/span&gt;可至&lt;a href="http://mde.tw/2017springcd/blog/2017spring-cd.html"&gt;2017 Spring 協同產品設計實習&lt;/a&gt;觀看這學期的課程大綱，老師介紹了Blender 3dstudio maya的相關性，簡略說明c語言與python的優劣與使用時機。&lt;/p&gt;
 &lt;p&gt;&lt;span style="background-color: #ffff00"&gt;二.&lt;/span&gt;了解如何使用stunnel
 ，並且嘗試以anonymous（無名氏/遊客）的身份進入https://192.168.1.24/2017springvcp_hw/index。&lt;/p&gt;
