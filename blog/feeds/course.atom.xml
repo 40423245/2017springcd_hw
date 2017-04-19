@@ -70,6 +70,7 @@
 &lt;/button&gt; &lt;/p&gt;</summary><category term="notes"></category><category term="w9"></category></entry><entry><title>2017/04/19 W9-2</title><link href="./2017spring-cd-W9-2.html" rel="alternate"></link><published>2017-04-11T11:00:00+08:00</published><updated>2017-04-11T11:00:00+08:00</updated><author><name>40423245</name></author><id>tag:,2017-04-11:./2017spring-cd-W9-2.html</id><summary type="html">&lt;h2&gt;期中協同查驗&lt;/h2&gt;
 
 
+&lt;h2&gt;(二) 四連桿機構協同 Trace Point 查驗&lt;/h2&gt;
 &lt;p&gt;(1)利用solvespace進行點路徑的分析&lt;/p&gt;
 &lt;p&gt;&lt;img src="./../data/image W9/fourbar solvespace.png" width="480" /&gt;&lt;/p&gt;
 &lt;p&gt;(2)用Excel進行點的分析&lt;/p&gt;
@@ -139,7 +140,13 @@ ctx.closePath()
 &lt;p&gt;(4)練習影片&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/213775242" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="https://vimeo.com/213775242"&gt;40423245機械設計工程系 - 協同產品設計實習課程W9-fourbar link 40 點分析&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="notes"></category><category term="w9"></category></entry><entry><title>2017/04/05 W7</title><link href="./2017spring-cd-W7.html" rel="alternate"></link><published>2017-04-05T11:00:00+08:00</published><updated>2017-04-05T11:00:00+08:00</updated><author><name>40423245</name></author><id>tag:,2017-04-05:./2017spring-cd-W7.html</id><summary type="html">&lt;h2&gt;2017Spring 協同產品設計實習課程  第七週&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/213775242"&gt;40423245機械設計工程系 - 協同產品設計實習課程W9-fourbar link 40 點分析&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2&gt;(三) Fourbar Walker OnShape 零件協同繪圖與組立查驗&lt;/h2&gt;
+&lt;p&gt;(1)練習影片&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/213780670" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/213780670"&gt;40423245機械設計工程系 - 協同產品設計實習課程W9-(三) Fourbar Walker OnShape 零件協同繪圖與組立查驗&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="notes"></category><category term="w9"></category></entry><entry><title>2017/04/05 W7</title><link href="./2017spring-cd-W7.html" rel="alternate"></link><published>2017-04-05T11:00:00+08:00</published><updated>2017-04-05T11:00:00+08:00</updated><author><name>40423245</name></author><id>tag:,2017-04-05:./2017spring-cd-W7.html</id><summary type="html">&lt;h2&gt;2017Spring 協同產品設計實習課程  第七週&lt;/h2&gt;
 &lt;p&gt;一.利用fossil對倉儲進行管理練習&lt;/p&gt;
 &lt;p&gt;二.利用Onshape繪製八連桿&lt;/p&gt;
 &lt;p&gt;三.將八連桿匯入V-rep並使其作動&lt;/p&gt;
