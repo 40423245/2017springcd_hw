@@ -1,5 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-04-12T11:00:00+08:00</updated><entry><title>2017/04/12 W8</title><link href="./2017spring-cd-W8.html" rel="alternate"></link><published>2017-04-12T11:00:00+08:00</published><updated>2017-04-12T11:00:00+08:00</updated><author><name>40423245</name></author><id>tag:,2017-04-12:./2017spring-cd-W8.html</id><summary type="html">&lt;h2&gt;2017Spring 協同產品設計實習課程  第八週&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-04-18T11:00:00+08:00</updated><entry><title>2017/04/18 W9</title><link href="./2017spring-cd-W9.html" rel="alternate"></link><published>2017-04-18T11:00:00+08:00</published><updated>2017-04-18T11:00:00+08:00</updated><author><name>40423245</name></author><id>tag:,2017-04-18:./2017spring-cd-W9.html</id><summary type="html">&lt;h2&gt;一至八週報告整合&lt;/h2&gt;
+
+
+&lt;h2&gt;&lt;a href="https://40423245.github.io/2017springcd_hw/blog/2017spring-cd-W1.html"&gt;第一週連結&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00"&gt;一.&lt;/span&gt;可至&lt;a href="http://mde.tw/2017springcd/blog/2017spring-cd.html"&gt;2017 Spring 協同產品設計實習&lt;/a&gt;觀看這學期的課程大綱，&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00"&gt;二.&lt;/span&gt;了解如何使用stunnel&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://40423245.github.io/2017springcd_hw/blog/2017spring-cd-W2.html"&gt;第二週連結&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00"&gt;一.&lt;/span&gt;利用python找出缺課人員&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00"&gt;二.&lt;/span&gt;在solvespace組立四連桿，並放置到Vrep裡。&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://40423245.github.io/2017springcd_hw/blog/2017spring-cd-W3.html"&gt;第三週連結&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00"&gt;1.&lt;/span&gt;
+建置fossil&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00"&gt;2.&lt;/span&gt; 請完成 Solvespace 30-50-60 cm 比例的四連桿組立, 並轉出 stl 檔案, 以 import 方式轉入 V-rep&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00"&gt;3.&lt;/span&gt; 請利用 Onshape 完成上述相同尺寸之四連桿機構, 以 stl 轉出 (或其他格式) 後, 再轉入 V-rep&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00"&gt;4.&lt;/span&gt;請在 50 連桿上加上 50-50-50 正三角形, 以 Solvespace 輸入該三角形頂點運動軌跡&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00"&gt;5.&lt;/span&gt; 請設法驗證上述四連桿運動軌跡, 是否正確, 並設法在分組網頁中執行該四連桿機構的運動模擬&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://40423245.github.io/2017springcd_hw/blog/2017spring-cd-W4.html"&gt;第四週連結&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00"&gt;1.&lt;/span&gt;Fossil新增組員以及組員權限設定&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00"&gt;2.&lt;/span&gt;在Onshape繪製單連桿機構並轉出stl檔案&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00"&gt;3.&lt;/span&gt;在solvespace繪製單連桿機構並轉出stl檔案&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://40423245.github.io/2017springcd_hw/blog/2017spring-cd-W5.html"&gt;第五週連結&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00"&gt;1.&lt;/span&gt;如何在fossil筆記倉儲主頁顯示作業&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00"&gt;2.&lt;/span&gt;將單連桿轉入V-rep並使其作動&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://40423245.github.io/2017springcd_hw/blog/2017spring-cd-W6.html"&gt;第六週連結&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00"&gt;1.&lt;/span&gt;利用Onshape裡的變數指令來繪製四連桿，並匯入V-rep裝上馬達。&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://40423245.github.io/2017springcd_hw/blog/2017spring-cd-W7.html"&gt;第七週連結&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00"&gt;1.&lt;/span&gt;利用fossil對倉儲進行管理練習&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00"&gt;2.&lt;/span&gt;利用Onshape繪製八連桿&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00"&gt;3.&lt;/span&gt;將八連桿匯入V-rep並使其作動&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://40423245.github.io/2017springcd_hw/blog/2017spring-cd-W8.html"&gt;第八週連結&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style="background-color: #ffff00"&gt;1.&lt;/span&gt;自評&lt;/p&gt;
+&lt;h2&gt;總結：&lt;/h2&gt;
+&lt;p&gt;這學期導入了fossil來跟git 一起管理倉儲，這樣在以後假如git沒支援了，還可以用fossil；這學期也加入了V-rep，可以結合上學期的Onshape以及solvespace，繪製機構以及模擬，練習的範例有單連桿、四連桿及八連桿。&lt;/p&gt;
+&lt;h2&gt;心得及自評&lt;/h2&gt;
+&lt;p&gt;每一週都有跟上進度，也都有進行練習以及拍影片，但在於組員的協同上還需要改進，自評75分。&lt;/p&gt;
+&lt;h2&gt;影片&lt;/h2&gt;
+&lt;p&gt;第一週&lt;/p&gt;
+&lt;p&gt;&lt;button onClick="lity('https://vimeo.com/205656178')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;W1&lt;/button&gt; &lt;/p&gt;
+&lt;p&gt;第二週&lt;/p&gt;
+&lt;p&gt;&lt;button onClick="lity('https://vimeo.com/206845385')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;python找出缺課人員&lt;/button&gt; 
+&lt;button onClick="lity('https://vimeo.com/207629426')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;Solvespace四連桿組立&lt;/button&gt; 
+&lt;button onClick="lity('https://vimeo.com/207626453')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;Onshape四連桿&lt;/button&gt; 
+&lt;button onClick="lity('https://vimeo.com/207920094')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;任務四、任務五&lt;/button&gt; &lt;/p&gt;
+&lt;p&gt;第三週&lt;/p&gt;
+&lt;p&gt;&lt;button onClick="lity('https://vimeo.com/208311391')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;建置Fossil SCM&lt;/button&gt; 
+&lt;button onClick="lity('https://vimeo.com/208973584')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;Fossil權限設定&lt;/button&gt; 
+&lt;button onClick="lity('https://vimeo.com/208973817')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; Onshape單連桿&lt;/button&gt; 
+&lt;button onClick="lity('https://vimeo.com/208973989')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; solvespace單連桿&lt;/button&gt; 
+&lt;button onClick="lity('https://vimeo.com/208974147')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; Vrep單連桿&lt;/button&gt; &lt;/p&gt;
+&lt;p&gt;第四週&lt;/p&gt;
+&lt;p&gt;&lt;button onClick="lity('https://vimeo.com/208973584')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; Fossil新增組員&lt;/button&gt; 
+&lt;button onClick="lity('https://vimeo.com/208973817')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; Onshape單連桿機構&lt;/button&gt; 
+&lt;button onClick="lity('https://vimeo.com/208973989')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; solvespace單連桿機構&lt;/button&gt; 
+&lt;button onClick="lity('https://vimeo.com/208974147')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;回家練習
+&lt;/button&gt; &lt;/p&gt;
+&lt;p&gt;第五週&lt;/p&gt;
+&lt;p&gt;&lt;button onClick="lity('https://vimeo.com/210093581')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;W5上課練習
+&lt;/button&gt; 
+&lt;button onClick="lity('https://vimeo.com/210037771')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;W5回家練習
+&lt;/button&gt; &lt;/p&gt;
+&lt;p&gt;第六週&lt;/p&gt;
+&lt;p&gt;&lt;button onClick="lity('https://vimeo.com/211471124')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;W6上課練習
+&lt;/button&gt; &lt;/p&gt;
+&lt;p&gt;第七週&lt;/p&gt;
+&lt;p&gt;&lt;button onClick="lity('https://vimeo.com/212450094')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;fossil倉儲管理
+&lt;/button&gt; 
+&lt;button onClick="lity('https://vimeo.com/212448923')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;Onshape八連桿
+&lt;/button&gt; 
+&lt;button onClick="lity('https://vimeo.com/212447799')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;八連桿V-rep
+&lt;/button&gt; &lt;/p&gt;</summary><category term="notes"></category><category term="w9"></category></entry><entry><title>2017/04/12 W8</title><link href="./2017spring-cd-W8.html" rel="alternate"></link><published>2017-04-12T11:00:00+08:00</published><updated>2017-04-12T11:00:00+08:00</updated><author><name>40423245</name></author><id>tag:,2017-04-12:./2017spring-cd-W8.html</id><summary type="html">&lt;h2&gt;2017Spring 協同產品設計實習課程  第八週&lt;/h2&gt;
 &lt;p&gt;自評
 &lt;/p&gt;
 &lt;p&gt;小組互評: &lt;a href="https://pygroup-ag100.rhcloud.com"&gt;https://pygroup-ag100.rhcloud.com&lt;/a&gt;&lt;/p&gt;
