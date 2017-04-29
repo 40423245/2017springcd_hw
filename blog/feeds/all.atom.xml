@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-04-19T11:00:00+08:00</updated><entry><title>2017/04/19 W9</title><link href="./2017spring-cd-W9.html" rel="alternate"></link><published>2017-04-19T11:00:00+08:00</published><updated>2017-04-19T11:00:00+08:00</updated><author><name>40423245</name></author><id>tag:,2017-04-19:./2017spring-cd-W9.html</id><summary type="html">&lt;h2&gt;期中協同查驗與自評&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-04-20T11:00:00+08:00</updated><entry><title>2017/04/20 解決Leo編輯器的問題</title><link href="./solve%20Leo%20editor%20problem.html" rel="alternate"></link><published>2017-04-20T11:00:00+08:00</published><updated>2017-04-20T11:00:00+08:00</updated><author><name>40423245</name></author><id>tag:,2017-04-20:./solve Leo editor problem.html</id><summary type="html">&lt;p&gt;解決在按下 start 之後會出現 cp950 及 Leo editor 無法開啟的問題&lt;/p&gt;
+
+
+&lt;h3&gt;1.事發問題&lt;/h3&gt;
+&lt;p&gt;由於利用 start 無法將 Leo 開啟，因此利用 SciTE 開啟 Leo，但出現 cp950 的畫面。&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/W10/Image W10/SciTE cp950.png" width="600" /&gt;&lt;/p&gt;
+&lt;p&gt;這是因為程式在讀取Leo時，讀取到了中文字，因此出現編碼問題。&lt;/p&gt;
+&lt;h3&gt;2.事發原因&lt;/h3&gt;
+&lt;p&gt;為了複製、保存檔案、對照檔案...時，將clone下來的倉儲複製到具有中文字檔名的資料夾裡，這樣在讀取此資料夾裡的Leo檔案時，即會發生編碼問題。&lt;/p&gt;
+&lt;h3&gt;3.解決辦法&lt;/h3&gt;
+&lt;p&gt;因為是在讀取位於data\home.leo.leoRecentFiles.txt的檔案時發生問題&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/W10/Image W10/leoRecentFiles.png"width="600" /&gt;&lt;/p&gt;
+&lt;p&gt;因此只要編輯此檔案並將具有中文字的那行刪掉即可，跟自己的倉儲資料無關&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/W10/Image W10/del 新增資料夾.png"width="600" /&gt;&lt;/p&gt;
+&lt;h3&gt;4.心得&lt;/h3&gt;
+&lt;p&gt;要在電腦上使用中文字是一件麻煩又困難的事情，而且容易發生問題，因此學好英文是一件必要的事情。&lt;/p&gt;
+&lt;h3&gt;5.操作影片&lt;/h3&gt;
+&lt;iframe src="https://player.vimeo.com/video/214848236" width="640" height="448" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/214848236"&gt;40423245機械設計工程系 - 協同產品設計實習課程W10-解決關於Leo顯示的cp950問題&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="notes"></category></entry><entry><title>2017/04/19 W9</title><link href="./2017spring-cd-W9.html" rel="alternate"></link><published>2017-04-19T11:00:00+08:00</published><updated>2017-04-19T11:00:00+08:00</updated><author><name>40423245</name></author><id>tag:,2017-04-19:./2017spring-cd-W9.html</id><summary type="html">&lt;h2&gt;期中協同查驗與自評&lt;/h2&gt;
 
 
 &lt;h2&gt;(二) 四連桿機構協同 Trace Point 查驗&lt;/h2&gt;
