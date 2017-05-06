@@ -27,7 +27,7 @@
 <v t="yen.20170215103332.1"><vh>@edit base.html</vh></v>
 </v>
 </v>
-<v t="yen.20170120110024.1"><vh>@clean index.html</vh>
+<v t="yen.20170120110024.1" a="E"><vh>@clean index.html</vh>
 <v t="yen.20170120110024.2" a="E"><vh>html</vh>
 <v t="yen.20170120110024.3"><vh>head</vh></v>
 <v t="yen.20170120110024.4" a="E"><vh>body</vh>
@@ -395,6 +395,20 @@
 <v t="leo.20170411215251.2"><vh>影片</vh></v>
 </v>
 </v>
+<v t="leo.20170506181907.1" a="E"><vh>20170405第八週上課筆記</vh>
+<v t="leo.20170506181907.2"><vh>上課內容</vh>
+<v t="leo.20170506181907.3"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170506181907.4" a="E"><vh>練習1-1</vh>
+<v t="leo.20170506181907.5"><vh>練習</vh></v>
+</v>
+<v t="leo.20170506181907.10" a="E"><vh>練習2-1</vh>
+<v t="leo.20170506181907.11"><vh>練習</vh></v>
+</v>
+<v t="leo.20170506181907.16"><vh>練習3-1</vh>
+<v t="leo.20170506181907.17"><vh>練習</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -440,144 +454,6 @@
 </v>
 </v>
 <v t="yen.20170209024032.1"><vh>reference</vh></v>
-<v t="leo.20170328211830.2"><vh>Recovered Nodes</vh>
-<v t="leo.20170328211830.3"><vh>Recovered node "圖片" from @clean index.html</vh>
-<v t="leo.20170328211830.4"><vh>old:圖片</vh></v>
-<v t="leo.20170328211830.5"><vh>new:圖片</vh></v>
-</v>
-</v>
-<v t="leo.20170328212635.1"><vh>Recovered Nodes</vh>
-<v t="leo.20170328212635.2"><vh>Recovered node "圖片" from @clean index.html</vh>
-<v t="leo.20170328212635.3"><vh>old:圖片</vh></v>
-<v t="leo.20170328212635.4"><vh>new:圖片</vh></v>
-</v>
-</v>
-<v t="leo.20170328213240.2"><vh>Recovered Nodes</vh>
-<v t="leo.20170328213240.3"><vh>Recovered node "圖片" from @clean index.html</vh>
-<v t="leo.20170328213240.4"><vh>old:圖片</vh></v>
-<v t="leo.20170328213240.5"><vh>new:圖片</vh></v>
-</v>
-</v>
-<v t="leo.20170410180538.2"><vh>Recovered Nodes</vh>
-<v t="leo.20170410180538.3"><vh>Recovered node "圖片" from @clean index.html</vh>
-<v t="leo.20170410180538.4"><vh>old:圖片</vh></v>
-<v t="leo.20170410180538.5"><vh>new:圖片</vh></v>
-</v>
-</v>
-<v t="leo.20170410190700.2"><vh>Recovered Nodes</vh>
-<v t="leo.20170410190700.3"><vh>Recovered node "圖片" from @clean index.html</vh>
-<v t="leo.20170410190700.4"><vh>old:圖片</vh></v>
-<v t="leo.20170410190700.5"><vh>new:圖片</vh></v>
-</v>
-</v>
-<v t="leo.20170410202518.2"><vh>Recovered Nodes</vh>
-<v t="leo.20170410202518.3"><vh>Recovered node "圖片" from @clean index.html</vh>
-<v t="leo.20170410202518.4"><vh>old:圖片</vh></v>
-<v t="leo.20170410202518.5"><vh>new:圖片</vh></v>
-</v>
-</v>
-<v t="leo.20170411172456.1"><vh>Recovered Nodes</vh>
-<v t="leo.20170411172456.2"><vh>Recovered node "圖片" from @clean index.html</vh>
-<v t="leo.20170411172456.3"><vh>old:圖片</vh></v>
-<v t="leo.20170411172456.4"><vh>new:圖片</vh></v>
-</v>
-</v>
-<v t="leo.20170411183006.2"><vh>Recovered Nodes</vh>
-<v t="leo.20170411183006.3"><vh>Recovered node "圖片" from @clean index.html</vh>
-<v t="leo.20170411183006.4"><vh>old:圖片</vh></v>
-<v t="leo.20170411183006.5"><vh>new:圖片</vh></v>
-</v>
-</v>
-<v t="leo.20170411203046.2" a="E"><vh>Recovered Nodes</vh>
-<v t="leo.20170411203046.3"><vh>Recovered node "圖片" from @clean index.html</vh>
-<v t="leo.20170411203046.4"><vh>old:圖片</vh></v>
-<v t="leo.20170411203046.5"><vh>new:圖片</vh></v>
-</v>
-</v>
-<v t="leo.20170411214023.1" a="E"><vh>Recovered Nodes</vh>
-<v t="leo.20170411214023.2"><vh>Recovered node "圖片" from @clean index.html</vh>
-<v t="leo.20170411214023.3"><vh>old:圖片</vh></v>
-<v t="leo.20170411214023.4"><vh>new:圖片</vh></v>
-</v>
-</v>
-<v t="leo.20170411215009.2" a="E"><vh>Recovered Nodes</vh>
-<v t="leo.20170411215009.3"><vh>Recovered node "圖片" from @clean index.html</vh>
-<v t="leo.20170411215009.4"><vh>old:圖片</vh></v>
-<v t="leo.20170411215009.5"><vh>new:圖片</vh></v>
-</v>
-</v>
-<v t="leo.20170411215217.2" a="E"><vh>Recovered Nodes</vh>
-<v t="leo.20170411215217.3"><vh>Recovered node "圖片" from @clean index.html</vh>
-<v t="leo.20170411215217.4"><vh>old:圖片</vh></v>
-<v t="leo.20170411215217.5"><vh>new:圖片</vh></v>
-</v>
-</v>
-<v t="leo.20170412095012.2" a="E"><vh>Recovered Nodes</vh>
-<v t="leo.20170412095012.3"><vh>Recovered node "圖片" from @clean index.html</vh>
-<v t="leo.20170412095012.4"><vh>old:圖片</vh></v>
-<v t="leo.20170412095012.5"><vh>new:圖片</vh></v>
-</v>
-</v>
-<v t="leo.20170412095759.1" a="E"><vh>Recovered Nodes</vh>
-<v t="leo.20170412095759.2"><vh>Recovered node "圖片" from @clean index.html</vh>
-<v t="leo.20170412095759.3"><vh>old:圖片</vh></v>
-<v t="leo.20170412095759.4"><vh>new:圖片</vh></v>
-</v>
-</v>
-<v t="leo.20170419091730.2" a="E"><vh>Recovered Nodes</vh>
-<v t="leo.20170419091730.3"><vh>Recovered node "圖片" from @clean index.html</vh>
-<v t="leo.20170419091730.4"><vh>old:圖片</vh></v>
-<v t="leo.20170419091730.5"><vh>new:圖片</vh></v>
-</v>
-</v>
-<v t="leo.20170425183229.1" a="E"><vh>Recovered Nodes</vh>
-<v t="leo.20170425183229.2"><vh>Recovered node "圖片" from @clean index.html</vh>
-<v t="leo.20170425183229.3"><vh>old:圖片</vh></v>
-<v t="leo.20170425183229.4"><vh>new:圖片</vh></v>
-</v>
-</v>
-<v t="leo.20170426105527.1" a="E"><vh>Recovered Nodes</vh>
-<v t="leo.20170426105527.2"><vh>Recovered node "圖片" from @clean index.html</vh>
-<v t="leo.20170426105527.3"><vh>old:圖片</vh></v>
-<v t="leo.20170426105527.4"><vh>new:圖片</vh></v>
-</v>
-</v>
-<v t="leo.20170426202517.1" a="E"><vh>Recovered Nodes</vh>
-<v t="leo.20170426202517.2"><vh>Recovered node "圖片" from @clean index.html</vh>
-<v t="leo.20170426202517.3"><vh>old:圖片</vh></v>
-<v t="leo.20170426202517.4"><vh>new:圖片</vh></v>
-</v>
-</v>
-<v t="leo.20170426203520.2" a="E"><vh>Recovered Nodes</vh>
-<v t="leo.20170426203520.3"><vh>Recovered node "圖片" from @clean index.html</vh>
-<v t="leo.20170426203520.4"><vh>old:圖片</vh></v>
-<v t="leo.20170426203520.5"><vh>new:圖片</vh></v>
-</v>
-</v>
-<v t="leo.20170426203711.2" a="E"><vh>Recovered Nodes</vh>
-<v t="leo.20170426203711.3"><vh>Recovered node "圖片" from @clean index.html</vh>
-<v t="leo.20170426203711.4"><vh>old:圖片</vh></v>
-<v t="leo.20170426203711.5"><vh>new:圖片</vh></v>
-</v>
-</v>
-<v t="leo.20170429163128.2" a="E"><vh>Recovered Nodes</vh>
-<v t="leo.20170429163128.3"><vh>Recovered node "圖片" from @clean index.html</vh>
-<v t="leo.20170429163128.4"><vh>old:圖片</vh></v>
-<v t="leo.20170429163128.5"><vh>new:圖片</vh></v>
-</v>
-</v>
-<v t="leo.20170429165226.2" a="E"><vh>Recovered Nodes</vh>
-<v t="leo.20170429165226.3"><vh>Recovered node "圖片" from @clean index.html</vh>
-<v t="leo.20170429165226.4"><vh>old:圖片</vh></v>
-<v t="leo.20170429165226.5"><vh>new:圖片</vh></v>
-</v>
-</v>
-<v t="leo.20170506173722.2" a="E"><vh>Recovered Nodes</vh>
-<v t="leo.20170506173722.3"><vh>Recovered node "圖片" from @clean index.html</vh>
-<v t="leo.20170506173722.4"><vh>old:圖片</vh></v>
-<v t="leo.20170506173722.5"><vh>new:圖片</vh></v>
-</v>
-</v>
 </vnodes>
 <tnodes>
 <t tx="leo.20170303212553.1">@language md
@@ -1709,27 +1585,6 @@ ex= -66.44406598905394 ey= 79.52898738448577
 </t>
 <t tx="leo.20170328211445.2">&lt;img src="data/image W5/fossil_wiki.png" width="600" /&gt;
 </t>
-<t tx="leo.20170328211830.2"></t>
-<t tx="leo.20170328211830.3">(uncached) leo.20170312212027.2
-Diff...
-- ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-+ ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-  
-  &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-  
-</t>
-<t tx="leo.20170328211830.4">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-
-</t>
-<t tx="leo.20170328211830.5">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-
-</t>
 <t tx="leo.20170328211935.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1818,27 +1673,6 @@ Diff...
 
 &lt;img src="data/image W5/V-rep onelink ass.png" width="600" /&gt;
 </t>
-<t tx="leo.20170328212635.1"></t>
-<t tx="leo.20170328212635.2">(uncached) leo.20170312212027.2
-Diff...
-- ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-+ ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-  
-  &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-  
-</t>
-<t tx="leo.20170328212635.3">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-
-</t>
-<t tx="leo.20170328212635.4">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-
-</t>
 <t tx="leo.20170328212710.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1897,27 +1731,6 @@ Diff...
 </t>
 <t tx="leo.20170328213013.2">&lt;iframe src="https://player.vimeo.com/video/210093581" width="640" height="454" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/210093581"&gt;40423245機械設計工程系 - 協同產品設計實習課程-W5上課練習&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-</t>
-<t tx="leo.20170328213240.2"></t>
-<t tx="leo.20170328213240.3">(uncached) leo.20170312212027.2
-Diff...
-- ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-+ ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-  
-  &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-  
-</t>
-<t tx="leo.20170328213240.4">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-
-</t>
-<t tx="leo.20170328213240.5">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-
 </t>
 <t tx="leo.20170328213249.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -2022,48 +1835,6 @@ Diff...
 <t tx="leo.20170328213624.2">###設定好兩者的關係
 
 &lt;img src="data/image W5/V-rep Scene Object.png" width="600" /&gt;
-</t>
-<t tx="leo.20170410180538.2"></t>
-<t tx="leo.20170410180538.3">(uncached) leo.20170312212027.2
-Diff...
-- ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-+ ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-  
-  &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-  
-</t>
-<t tx="leo.20170410180538.4">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-
-</t>
-<t tx="leo.20170410180538.5">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-
-</t>
-<t tx="leo.20170410190700.2"></t>
-<t tx="leo.20170410190700.3">(uncached) leo.20170312212027.2
-Diff...
-- ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-+ ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-  
-  &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-  
-</t>
-<t tx="leo.20170410190700.4">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-
-</t>
-<t tx="leo.20170410190700.5">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-
 </t>
 <t tx="leo.20170410195046.1">&lt;section&gt;
 @others
@@ -2223,27 +1994,6 @@ Diff...
 &lt;iframe src="https://player.vimeo.com/video/208973584" width="640" height="454" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/208973584"&gt;40423245機械設計工程系 - 協同產品設計實習課程-W4Fossil新增組員以及組員權限設定&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 </t>
-<t tx="leo.20170410202518.2"></t>
-<t tx="leo.20170410202518.3">(uncached) leo.20170312212027.2
-Diff...
-- ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-+ ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-  
-  &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-  
-</t>
-<t tx="leo.20170410202518.4">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-
-</t>
-<t tx="leo.20170410202518.5">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-
-</t>
 <t tx="leo.20170410202610.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2304,69 +2054,6 @@ Diff...
 						
 </t>
 <t tx="leo.20170410203206.2">##練習影片
-</t>
-<t tx="leo.20170411172456.1"></t>
-<t tx="leo.20170411172456.2">(uncached) leo.20170312212027.2
-Diff...
-- ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-+ ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-  
-  &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-  
-</t>
-<t tx="leo.20170411172456.3">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-
-</t>
-<t tx="leo.20170411172456.4">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-
-</t>
-<t tx="leo.20170411183006.2"></t>
-<t tx="leo.20170411183006.3">(uncached) leo.20170312212027.2
-Diff...
-- ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-+ ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-  
-  &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-  
-</t>
-<t tx="leo.20170411183006.4">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-
-</t>
-<t tx="leo.20170411183006.5">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-
-</t>
-<t tx="leo.20170411203046.2"></t>
-<t tx="leo.20170411203046.3">(uncached) leo.20170312212027.2
-Diff...
-- ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-+ ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-  
-  &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-  
-</t>
-<t tx="leo.20170411203046.4">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-
-</t>
-<t tx="leo.20170411203046.5">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-
 </t>
 <t tx="leo.20170411203137.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -2528,27 +2215,6 @@ Diff...
 &lt;p&gt;&lt;a href="https://vimeo.com/211471124"&gt;40423245機械設計工程系 - 協同產品設計實習課程-W6上課練習&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
 </t>
-<t tx="leo.20170411214023.1"></t>
-<t tx="leo.20170411214023.2">(uncached) leo.20170312212027.2
-Diff...
-- ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-+ ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-  
-  &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-  
-</t>
-<t tx="leo.20170411214023.3">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-
-</t>
-<t tx="leo.20170411214023.4">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-
-</t>
 <t tx="leo.20170411214326.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2676,48 +2342,6 @@ Diff...
 
 &lt;img src="data/image W7/V-rep 8 link relationship .png" width="480" /&gt;
 </t>
-<t tx="leo.20170411215009.2"></t>
-<t tx="leo.20170411215009.3">(uncached) leo.20170312212027.2
-Diff...
-- ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-+ ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-  
-  &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-  
-</t>
-<t tx="leo.20170411215009.4">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-
-</t>
-<t tx="leo.20170411215009.5">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-
-</t>
-<t tx="leo.20170411215217.2"></t>
-<t tx="leo.20170411215217.3">(uncached) leo.20170312212027.2
-Diff...
-- ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-+ ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-  
-  &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-  
-</t>
-<t tx="leo.20170411215217.4">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-
-</t>
-<t tx="leo.20170411215217.5">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-
-</t>
 <t tx="leo.20170411215249.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2776,235 +2400,67 @@ Diff...
 
 ##這禮拜加入更多的Dummy，以及在桿子上的從屬關係更加的複雜，讓我在練習上有些手無足措，也花了滿久的時間，這禮拜還加入了fossil的倉儲管理，fossil對我來說還相當新鮮，需要盡快地了解其架構。
 </t>
-<t tx="leo.20170412095012.2"></t>
-<t tx="leo.20170412095012.3">(uncached) leo.20170312212027.2
-Diff...
-- ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-+ ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-  
-  &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-  
+<t tx="leo.20170506181907.1">&lt;section&gt;
+@others
+&lt;/section&gt;
 </t>
-<t tx="leo.20170412095012.4">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+<t tx="leo.20170506181907.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
 
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
 
+
+						
 </t>
-<t tx="leo.20170412095012.5">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+<t tx="leo.20170506181907.11">#2.
 
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
+&lt;p&gt;個人自評: &lt;a href="http://mde1a2.kmol.info:8000/k96tgzh1ofbl"&gt;http://mde1a2.kmol.info:8000/k96tgzh1ofbl&lt;/a&gt;&lt;/p&gt;</t>
+<t tx="leo.20170506181907.16">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
 
+
+
+						
 </t>
-<t tx="leo.20170412095759.1"></t>
-<t tx="leo.20170412095759.2">(uncached) leo.20170312212027.2
-Diff...
-- ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-+ ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-  
-  &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-  
+<t tx="leo.20170506181907.17">###3.只要在 google上搜尋 site:edu.tw hyperworks 即可以找到放置在結尾為 edu.tw 裡有 hyperworks 的資料</t>
+<t tx="leo.20170506181907.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
 </t>
-<t tx="leo.20170412095759.3">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+<t tx="leo.20170506181907.3">#第八週上課筆記
 
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
 
-</t>
-<t tx="leo.20170412095759.4">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-
-</t>
-<t tx="leo.20170419091730.2"></t>
-<t tx="leo.20170419091730.3">(uncached) leo.20170312212027.2
-Diff...
-- ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-+ ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-  
-  &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-  
-</t>
-<t tx="leo.20170419091730.4">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
 
 </t>
-<t tx="leo.20170419091730.5">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+<t tx="leo.20170506181907.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
 
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
 
+
+						
 </t>
-<t tx="leo.20170425183229.1"></t>
-<t tx="leo.20170425183229.2">(uncached) leo.20170312212027.2
-Diff...
-- ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-+ ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-  
-  &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-  
-</t>
-<t tx="leo.20170425183229.3">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+<t tx="leo.20170506181907.5">##1.
+&lt;p&gt;小組互評: &lt;a href="https://pygroup-ag100.rhcloud.com"&gt;https://pygroup-ag100.rhcloud.com&lt;/a&gt;&lt;/p&gt;
 
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
 
-</t>
-<t tx="leo.20170425183229.4">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-
-</t>
-<t tx="leo.20170426105527.1"></t>
-<t tx="leo.20170426105527.2">(uncached) leo.20170312212027.2
-Diff...
-- ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-+ ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-  
-  &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-  
-</t>
-<t tx="leo.20170426105527.3">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-
-</t>
-<t tx="leo.20170426105527.4">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-
-</t>
-<t tx="leo.20170426202517.1"></t>
-<t tx="leo.20170426202517.2">(uncached) leo.20170312212027.2
-Diff...
-- ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-+ ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-  
-  &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-  
-</t>
-<t tx="leo.20170426202517.3">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-
-</t>
-<t tx="leo.20170426202517.4">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-
-</t>
-<t tx="leo.20170426203520.2"></t>
-<t tx="leo.20170426203520.3">(uncached) leo.20170312212027.2
-Diff...
-- ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-+ ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-  
-  &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-  
-</t>
-<t tx="leo.20170426203520.4">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-
-</t>
-<t tx="leo.20170426203520.5">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-
-</t>
-<t tx="leo.20170426203711.2"></t>
-<t tx="leo.20170426203711.3">(uncached) leo.20170312212027.2
-Diff...
-- ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-+ ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-  
-  &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-  
-</t>
-<t tx="leo.20170426203711.4">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-
-</t>
-<t tx="leo.20170426203711.5">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-
-</t>
-<t tx="leo.20170429163128.2"></t>
-<t tx="leo.20170429163128.3">(uncached) leo.20170312212027.2
-Diff...
-- ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-+ ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-  
-  &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-  
-</t>
-<t tx="leo.20170429163128.4">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-
-</t>
-<t tx="leo.20170429163128.5">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-
-</t>
-<t tx="leo.20170429165226.2"></t>
-<t tx="leo.20170429165226.3">(uncached) leo.20170312212027.2
-Diff...
-- ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-+ ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-  
-  &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-  
-</t>
-<t tx="leo.20170429165226.4">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-
-</t>
-<t tx="leo.20170429165226.5">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-
-</t>
-<t tx="leo.20170506173722.2"></t>
-<t tx="leo.20170506173722.3">(uncached) leo.20170312212027.2
-Diff...
-- ####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-+ ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-  
-  &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-  
-</t>
-<t tx="leo.20170506173722.4">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-
-</t>
-<t tx="leo.20170506173722.5">####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
 
 </t>
 <t tx="yen.20170108171605.1"></t>
