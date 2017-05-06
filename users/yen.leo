@@ -395,18 +395,26 @@
 <v t="leo.20170411215251.2"><vh>影片</vh></v>
 </v>
 </v>
-<v t="leo.20170506181907.1" a="E"><vh>20170405第八週上課筆記</vh>
+<v t="leo.20170506181907.1"><vh>20170405第八週上課筆記</vh>
 <v t="leo.20170506181907.2"><vh>上課內容</vh>
 <v t="leo.20170506181907.3"><vh>上課大綱</vh></v>
 </v>
-<v t="leo.20170506181907.4" a="E"><vh>練習1-1</vh>
+<v t="leo.20170506181907.4"><vh>練習1-1</vh>
 <v t="leo.20170506181907.5"><vh>練習</vh></v>
 </v>
-<v t="leo.20170506181907.10" a="E"><vh>練習2-1</vh>
+<v t="leo.20170506181907.10"><vh>練習2-1</vh>
 <v t="leo.20170506181907.11"><vh>練習</vh></v>
 </v>
 <v t="leo.20170506181907.16"><vh>練習3-1</vh>
 <v t="leo.20170506181907.17"><vh>練習</vh></v>
+</v>
+</v>
+<v t="leo.20170506182504.1" a="E"><vh>20170405第九週上課筆記</vh>
+<v t="leo.20170506182504.2"><vh>上課內容</vh>
+<v t="leo.20170506182504.3"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170506182526.1" a="E"><vh>上課內容</vh>
+<v t="leo.20170506182526.2"><vh>上課大綱</vh></v>
 </v>
 </v>
 </v>
@@ -2459,6 +2467,42 @@ ex= -66.44406598905394 ey= 79.52898738448577
 </t>
 <t tx="leo.20170506181907.5">##1.
 &lt;p&gt;小組互評: &lt;a href="https://pygroup-ag100.rhcloud.com"&gt;https://pygroup-ag100.rhcloud.com&lt;/a&gt;&lt;/p&gt;
+
+
+
+</t>
+<t tx="leo.20170506182504.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170506182504.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170506182504.3">#第九週上課筆記
+
+
+
+</t>
+<t tx="leo.20170506182526.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170506182526.2">#期中考
 
 
 
