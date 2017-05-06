@@ -412,6 +412,7 @@
 <v t="leo.20170426203531.1"><vh>@edit 20170418.md</vh></v>
 <v t="leo.20170426202737.1"><vh>@edit 20170419.md</vh></v>
 <v t="leo.20170429163207.1"><vh>@edit 20170420.md</vh></v>
+<v t="leo.20170506173751.1"><vh>@edit 20170426.md</vh></v>
 <v t="leo.20170303212553.1"><vh>@@edit 20170108.md</vh></v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
@@ -569,6 +570,12 @@
 <v t="leo.20170429165226.3"><vh>Recovered node "圖片" from @clean index.html</vh>
 <v t="leo.20170429165226.4"><vh>old:圖片</vh></v>
 <v t="leo.20170429165226.5"><vh>new:圖片</vh></v>
+</v>
+</v>
+<v t="leo.20170506173722.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20170506173722.3"><vh>Recovered node "圖片" from @clean index.html</vh>
+<v t="leo.20170506173722.4"><vh>old:圖片</vh></v>
+<v t="leo.20170506173722.5"><vh>new:圖片</vh></v>
 </v>
 </v>
 </vnodes>
@@ -2961,7 +2968,7 @@ Diff...
 <t tx="leo.20170429165226.2"></t>
 <t tx="leo.20170429165226.3">(uncached) leo.20170312212027.2
 Diff...
-- ####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+- ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
 ?                               ^
 + ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
 ?                               ^
@@ -2974,7 +2981,28 @@ Diff...
 &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
 
 </t>
-<t tx="leo.20170429165226.5">####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+<t tx="leo.20170429165226.5">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+
+&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
+
+</t>
+<t tx="leo.20170506173722.2"></t>
+<t tx="leo.20170506173722.3">(uncached) leo.20170312212027.2
+Diff...
+- ####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+?                               ^
++ ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+?                               ^
+  
+  &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
+  
+</t>
+<t tx="leo.20170506173722.4">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+
+&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
+
+</t>
+<t tx="leo.20170506173722.5">####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
 
 &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
 
