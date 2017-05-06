@@ -409,12 +409,38 @@
 <v t="leo.20170506181907.17"><vh>練習</vh></v>
 </v>
 </v>
-<v t="leo.20170506182504.1" a="E"><vh>20170405第九週上課筆記</vh>
+<v t="leo.20170506182504.1"><vh>20170405第九週上課筆記</vh>
 <v t="leo.20170506182504.2"><vh>上課內容</vh>
 <v t="leo.20170506182504.3"><vh>上課大綱</vh></v>
 </v>
-<v t="leo.20170506182526.1" a="E"><vh>上課內容</vh>
+<v t="leo.20170506182526.1"><vh>上課內容</vh>
 <v t="leo.20170506182526.2"><vh>上課大綱</vh></v>
+</v>
+</v>
+<v t="leo.20170506182727.1" a="E"><vh>20170405第十週上課筆記</vh>
+<v t="leo.20170506182727.2"><vh>上課內容</vh>
+<v t="leo.20170506182727.3"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170506182955.1"><vh>練習1-1</vh>
+<v t="leo.20170506182955.2"><vh>練習</vh></v>
+</v>
+<v t="leo.20170506183107.1"><vh>圖片1-1</vh>
+<v t="leo.20170506183107.2"><vh>練習</vh></v>
+</v>
+<v t="leo.20170506183215.1"><vh>練習2-1</vh>
+<v t="leo.20170506183215.2"><vh>練習</vh></v>
+</v>
+<v t="leo.20170506183209.1"><vh>圖片2-1</vh>
+<v t="leo.20170506183209.2"><vh>練習</vh></v>
+</v>
+<v t="leo.20170506183317.1"><vh>練習3-1</vh>
+<v t="leo.20170506183317.2"><vh>練習</vh></v>
+</v>
+<v t="leo.20170506183320.1"><vh>圖片3-1</vh>
+<v t="leo.20170506183320.2"><vh>練習</vh></v>
+</v>
+<v t="leo.20170506183412.1" a="E"><vh>影片</vh>
+<v t="leo.20170506183412.2"><vh>練習</vh></v>
 </v>
 </v>
 </v>
@@ -2503,6 +2529,148 @@ ex= -66.44406598905394 ey= 79.52898738448577
 						
 </t>
 <t tx="leo.20170506182526.2">#期中考
+
+
+
+</t>
+<t tx="leo.20170506182727.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170506182727.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170506182727.3">#第九週上課筆記
+
+##將期中考週繪製的四連桿匯入V-rep 模擬
+
+
+</t>
+<t tx="leo.20170506182955.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170506182955.2">##1.先將Onshape所繪製好的零件匯出成stl檔，接著匯入V-rap裡，並將各零件分解開來。
+
+
+
+
+</t>
+<t tx="leo.20170506183107.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170506183107.2">&lt;img src="data/W10/Image W10/V-rep Divide shape.png" width="460" /&gt;
+
+
+
+</t>
+<t tx="leo.20170506183209.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170506183209.2">&lt;img src="data/W10/Image W10/V-rep add Revolute .png" width="480" /&gt;
+
+
+
+</t>
+<t tx="leo.20170506183215.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170506183215.2">##2.接著加入旋轉軸，與定位軸的位置重合，並將定位軸隱藏。
+
+
+
+
+
+
+</t>
+<t tx="leo.20170506183317.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170506183317.2">##3.最後只要移好各零件與旋轉軸相對位置，即可加入馬達，將各零件實體化，就可以開始模擬了。
+
+
+
+
+
+
+
+</t>
+<t tx="leo.20170506183320.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170506183320.2">&lt;img src="data/W10/Image W10/V-rep Dummy.png" width="480" /&gt;
+
+
+
+</t>
+<t tx="leo.20170506183412.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170506183412.2">&lt;iframe src="https://player.vimeo.com/video/214997443" width="640" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/214997443"&gt;40423245機械設計工程系 - 協同產品設計實習課程W9-將期中考所繪製的Fourbar Walker匯入V-rep並使其作&amp;aring;&amp;lsaquo;&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
 
 
