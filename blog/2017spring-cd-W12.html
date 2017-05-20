@@ -14,13 +14,13 @@
 
         <meta name="author" content="40423245" />
         <meta name="keywords" content="notes,w12" />
-        <meta name="description" content="coming soon" />
+        <meta name="description" content="在Onshape上繪製漸開線齒輪以及利用參數繪製齒輪" />
 
         <meta property="og:site_name" content="2017Spring 協同產品設計實習 (虎尾科大MDE)" />
         <meta property="og:type" content="article"/>
         <meta property="og:title" content="2017/05/10 W12 上課筆記"/>
         <meta property="og:url" content="./2017spring-cd-W12.html"/>
-        <meta property="og:description" content="coming soon"/>
+        <meta property="og:description" content="在Onshape上繪製漸開線齒輪以及利用參數繪製齒輪"/>
         <meta property="article:published_time" content="2017-05-10" />
             <meta property="article:section" content="Course" />
             <meta property="article:tag" content="notes" />
@@ -159,8 +159,282 @@
     
 </footer><!-- /.post-info -->                    </div>
                 </div>
-                <p>coming soon</p>
+                <p>在Onshape上繪製漸開線齒輪以及利用參數繪製齒輪</p>
 
+
+<p>給定模數、齒數及壓力角後，繪製出節圓、齒頂圓、齒根圓及基圓</p>
+<p><img src="./../data/W12/image W12/Onshape round.png" width="480" /></p>
+<p>接著從基圓上拉出漸開線，接著繪製到齒根的垂直線，並對稱草圖，即可擠出齒型</p>
+<p><img src="./../data/W12/image W12/Onshape 漸開線.png" width="480" /></p>
+<p>接著即可加入參數繪製齒輪，可到老師網誌參考程式碼，亦可搜尋spur的FeatureScript </p>
+<p>以下為對應的 FeatureScript 正齒輪輪廓繪圖程式碼:
+<pre class="brush: python">
+FeatureScript 581;
+import(path : "onshape/std/geometry.fs", version : "581.0");</p>
+<p>annotation { "Feature Type Name" : "Spur2" }
+export const spur = defineFeature(function(context is Context, id is Id, definition is map)
+    precondition
+    {
+        // 正齒輪齒數, 由使用者輸入, 型別為整數
+        annotation { "Name" : "Number of Gear Tooth" }
+        isInteger(definition.n, POSITIVE_COUNT_BOUNDS);
+        // 正齒輪模數, 由使用者輸入, 型別為長度, 為內建尺寸單位
+        annotation { "Name" : "Module" }
+        isLength(definition.module, LENGTH_BOUNDS);
+        // 正齒輪壓力角, 由使用者輸入, 型別為角度, 為內建角度單位
+        annotation { "Name" : "Pressure Angle" }
+        isAngle(definition.pa, ANGLE_360_BOUNDS);
+        // 正齒輪圓心座標點, 由使用者選擇
+        annotation { "Name" : "Select a point", "Filter" : EntityType.VERTEX, "MaxNumberOfPicks" : 1 }
+        definition.point is Query;
+    }
+    {
+        // Precondition 中的查詢, 需要 evalue 才能傳回對應的 entity
+        var location = evaluateQuery(context, definition.point)[0];
+        // location 變數為點座標對應的 entity, 必須透過 evVetexPoint 的評量才能傳回對應的點座標
+        var center3D = evVertexPoint(context, {
+                "vertex" : location
+        });</p>
+<div class="highlight"><pre><span></span>    // 作圖平面利用 evOwnerSketch 評量, 與 location entity 同一個平面
+    var sketchPlane = evOwnerSketchPlane(context, {
+            &quot;entity&quot; : location
+    });
+    // 作圖畫
+    const gearSketch = newSketchOnPlane(context, id + &quot;gearSketch&quot;, {
+            &quot;sketchPlane&quot; : sketchPlane
+    });
+    // 利用 worldToPlane, 將 center3D 轉換為 sketchPlane 上的平面點座標
+    const center2D = worldToPlane(sketchPlane, center3D);
+    //print(center2D);
+    // 漸開線近似點數
+    var imax = 5;
+    // 使用者所選的齒輪圓心 x 座標
+    var midx = center2D[0];
+    // 使用者所選的齒輪圓心 y 座標
+    var midy = center2D[1];
+    // 齒數
+    var n = definition.n;
+    // 模數
+    var m = definition.module;
+    // 壓力角, 單位為角度
+    var pa = definition.pa;
+    // 齒輪的節圓半徑
+    var rp = m*n/2;
+    skLineSegment(gearSketch, &quot;line&quot;, {
+    &quot;start&quot; : vector(midx,midy),
+    &quot;end&quot; : vector(midx,midy+rp)
+    });
+    // 齒根
+    var d = 2.5*rp/n;
+    // 齒頂圓半徑
+    var ra = rp + m;
+    // 基圓半徑
+    var rb = rp*cos(pa);
+    //print(rb);
+    // 齒根圓半徑
+    var rd = rp - d;
+    // 分段後齒頂與齒根半徑差增量
+    var dr = 0*meter;
+    // 若 rb &gt; rd 時從基圓開始繪製漸開線, 但是若 rd &gt; rb, 則漸開線從 rd 畫到齒頂圓
+    if (rd &gt; rb)
+    {
+        // 半徑差的分段, 由齒根圓到齒頂圓
+        dr = (ra-rd)/imax;
+    }
+    else
+    {
+        // 半徑差的分段, 由基圓到齒頂圓
+        dr = (ra-rb)/imax;
+    }
+    // PI 為實數值沒有單位, tan(pa)也沒有單位, pa 已經設定單位為 degree, 這裡為了與 radian 運算
+    // 系統會自動轉為 radian
+    var rot = PI/(2*n)*radian;
+    //print(sigma);
+    // 分別用來設定 entity id 用的增量變數
+    var nameId = 1;
+    var nameId2 = 1;
+    var r = 0*meter;
+    // theta 為浮點數字
+    var theta = 0;
+    var inv = 0*radian;
+    var inc = 0*radian;
+    // 當 r=rp 時 ,計算 inv_rp 用來旋轉漸開線用
+    // theta 為沒有單位的實數
+    theta = sqrt((rp*rp)/(rb*rb)-1);
+    // atan(theta) 為 radian
+    var inv_rp = theta*radian-atan(theta);
+    // 漸開線上點的 x 座標
+    var xpt = 0*meter;
+    // 漸開線上點的 y 座標
+    var ypt = 0*meter;
+    // 左側漸開線第1點座標 left first x and y
+    var lfx = 0*meter;
+    var lfy = 0*meter;
+    // 右側漸開線第1點座標 right first x and y
+    var rfx = 0*meter;
+    var rfy = 0*meter;
+    // 左側齒根圓上點座標 left x of dedendum point
+    var lxd = 0*meter;
+    var lyd = 0*meter;
+    // 右側齒根圓上點座標 right x of dedendum point
+    var rxd = 0*meter;
+    var ryd = 0*meter;
+    // 左側齒根圓上點座標 right x of dedendum point (advanced)
+    var lxd_ad = 0*meter;
+    var lyd_ad = 0*meter;
+    var inc_ad = 0*radian;
+    for (var j=0;j&lt;n;j+=1)
+    {
+        // 當 j 增量時, 按照齒數輪廓繞行旋轉增量角度
+        inc = (2.*j*PI/n)*radian;
+        inc_ad = (2.*(j+1)*PI/n)*radian;
+        if (rd&gt;rb)
+        {
+            // 當齒根半徑因為齒數增多後大於基圓半徑時, 漸開線從齒根圓長起
+            theta = sqrt((rd*rd)/(rb*rb)-1.);
+            inv = theta*radian-atan(theta);
+            // 左側漸開線第1點座標
+            // 左側輪廓線配合逆時針旋轉 inc 角度
+            lfx = midx+rd*sin(inv-rot-inv_rp+inc);
+            lfy = midy+rd*cos(inv-rot-inv_rp+inc);
+            lxd = lfx;
+            lyd = lfy;
+            lxd_ad = midx+rd*sin(inv-rot-inv_rp+inc_ad);
+            lyd_ad = midy+rd*cos(inv-rot-inv_rp+inc_ad);
+            // 右側漸開線第1點座標
+            // 右側輪廓線配合順時針旋轉 inc 角度
+            rfx = midx-rd*sin(inv-rot-inv_rp-inc);
+            rfy = midy+rd*cos(inv-rot-inv_rp-inc);
+            rxd = rfx;
+            ryd = rfy;
+            // 齒根圓上的直線 on dedendum points
+            skLineSegment(gearSketch, &quot;line_dd&quot; ~ nameId, {
+            &quot;start&quot; : vector(rxd,ryd),
+            &quot;end&quot; : vector((lxd_ad),(lyd_ad))
+            });
+        }
+        else
+        {
+            // 當基圓半徑大於齒根圓時, 漸開線從基圓長起
+            theta = sqrt((rb*rb)/(rb*rb)-1.);
+            inv = theta*radian-atan(theta);
+            // 左側漸開線第1點座標
+            lfx = midx+rb*sin(inv-rot-inv_rp+inc);
+            lfy = midy+rb*cos(inv-rot-inv_rp+inc);
+            lxd = midx+rd*sin(inv-rot-inv_rp+inc);
+            lyd = midy+rd*cos(inv-rot-inv_rp+inc);
+            lxd_ad = midx+rd*sin(inv-rot-inv_rp+inc_ad);
+            lyd_ad = midy+rd*cos(inv-rot-inv_rp+inc_ad);
+            // 從基圓點到齒根圓點, 畫直線 left from base point to dedendum point
+            skLineSegment(gearSketch, &quot;line_lbd&quot; ~ nameId, {
+            &quot;start&quot; : vector(lfx,lfy),
+            &quot;end&quot; : vector((lxd),(lyd))
+            });
+            // 右側漸開線第1點座標
+            rfx = midx-rb*sin(inv-rot-inv_rp-inc);
+            rfy = midy+rb*cos(inv-rot-inv_rp-inc);
+            rxd = midx-rd*sin(inv-rot-inv_rp-inc);
+            ryd = midy+rd*cos(inv-rot-inv_rp-inc);
+            // 從基圓點到齒根圓點, 畫直線 right from base point to dedendum point
+            skLineSegment(gearSketch, &quot;line_rbd&quot; ~ nameId, {
+            &quot;start&quot; : vector(rfx,rfy),
+            &quot;end&quot; : vector((rxd),(ryd))
+            });
+            // 齒根圓上的直線 on dedendum points
+            skLineSegment(gearSketch, &quot;line_dd&quot; ~ nameId, {
+            &quot;start&quot; : vector(rxd,ryd),
+            &quot;end&quot; : vector((lxd_ad),(lyd_ad))
+            });
+        }
+
+        for (var i=1; i&lt;imax+1; i+= 1)
+        {
+            // 先處理中線左側的漸開線
+            // 當 rd 大於 rb 時, 漸開線並非畫至 rb, 而是 rd
+            if (rd&gt;rb)
+            {
+                r = rd+i*dr;
+            }
+            else
+            {
+                r = rb+i*dr;
+            }
+            theta = sqrt((r*r)/(rb*rb)-1);
+            var inv = theta*radian-atan(theta);
+            // 漸開線上的點座標
+            xpt = midx+r*sin(inv-rot-inv_rp+inc);
+            ypt = midy+r*cos(inv-rot-inv_rp+inc);
+            // lxd, lyd 為漸開線上的繪線起點座標
+            skLineSegment(gearSketch, &quot;lineb&quot; ~ nameId, {
+            &quot;start&quot; : vector(lfx,lfy),
+            &quot;end&quot; : vector((xpt),(ypt))
+            });
+            // 更新漸開線點座標
+            lfx = xpt;
+            lfy = ypt;
+            nameId += 1;
+        }
+        // 紀錄左側漸開線的最後一點, 也就是齒頂圓上的點座標
+        var lastlx = xpt;
+        var lastly = ypt;
+        // another side
+        for (var i=1; i&lt;imax+1; i+= 1)
+        {
+            if (rd&gt;rb)
+            {
+                r = rd+i*dr;
+            }
+            else
+            {
+                r = rb+i*dr;
+            }
+            theta = sqrt((r*r)/(rb*rb)-1);
+            var inv = theta*radian-atan(theta);
+            // 漸開線上的點座標
+            xpt = midx-r*sin(inv-rot-inv_rp-inc);
+            ypt = midy+r*cos(inv-rot-inv_rp-inc);
+            // rxd, ryd 為漸開線上的繪線起點座標
+            skLineSegment(gearSketch, &quot;linec&quot; ~ nameId, {
+            &quot;start&quot; : vector(rfx,rfy),
+            &quot;end&quot; : vector((xpt),(ypt))
+            });
+            // 更新漸開線點座標
+            rfx = xpt;
+            rfy = ypt;
+            nameId += 1;
+        }
+        var lastrx = xpt;
+        var lastry = ypt;
+        // 齒頂連線
+        skLineSegment(gearSketch, &quot;lined&quot; ~ nameId2, {
+        &quot;start&quot; : vector(lastlx,lastly),
+        &quot;end&quot; : vector(lastrx,lastry)
+        });
+        nameId2 += 1;
+    }
+skSolve(gearSketch);
+});
+</pre></div>
+
+
+</pre>
+
+<h2>注意事項</h2>
+<p>1.當齒根半徑因為齒數增多後大於基圓半徑時, 漸開線從齒根圓長起</p>
+<p>2.當基圓半徑大於齒根圓時, 漸開線從基圓長起</p>
+<h2>練習影片</h2>
+<iframe src="https://player.vimeo.com/video/218259602" width="640" height="413" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<p><a href="https://vimeo.com/218259602">40423245機械設計工程系 - 協同產品設計實習課程W12-在Onshape上繪製漸開線齒輪</a> from <a href="https://vimeo.com/user47996237">40423245</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<iframe src="https://player.vimeo.com/video/218260068" width="640" height="413" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<p><a href="https://vimeo.com/218260068">40423245機械設計工程系 - 協同產品設計實習課程W12-利用參數繪製齒輪</a> from <a href="https://vimeo.com/user47996237">40423245</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<h2>參考資料</h2>
+<p><a href="http://cadlab.mde.tw/post/onshape-featurescript-spur-gear-lun-kuo-hui-tu.html">Onshape Featurescript Spur Gear 輪廓繪圖</a></p>
+
+<p><a href="http://www.arc.id.au/GearDrawing.html">Gear Drawing with Bézier Curves</a></p>
             </div>
             <!-- /.entry-content -->
         </article>
