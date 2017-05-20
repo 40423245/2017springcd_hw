@@ -263,6 +263,7 @@ skSolve(gearSketch);
 &lt;h2&gt;注意事項&lt;/h2&gt;
 &lt;p&gt;1.當齒根半徑因為齒數增多後大於基圓半徑時, 漸開線從齒根圓長起&lt;/p&gt;
 &lt;p&gt;2.當基圓半徑大於齒根圓時, 漸開線從基圓長起&lt;/p&gt;
+&lt;h2&gt;零件連結 ：&lt;a href="https://cad.onshape.com/documents/995d603fbed679063ef62b5a/w/e38051a643b25cd5bddc6c02/e/488a3f30ff23c217bcae1a0e"&gt;Onshape齒輪&lt;/a&gt;&lt;/h2&gt;
 &lt;h2&gt;練習影片&lt;/h2&gt;
 &lt;iframe src="https://player.vimeo.com/video/218259602" width="640" height="413" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
