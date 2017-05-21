@@ -4,9 +4,9 @@
 
 
 &lt;p&gt;給定模數、齒數及壓力角後，繪製出節圓、齒頂圓、齒根圓及基圓&lt;/p&gt;
-&lt;p&gt;&lt;img src="./../data/W12/image W12/Onshape round.png" width="480" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/W12/image W12/onshape_round.png" width="480" /&gt;&lt;/p&gt;
 &lt;p&gt;接著從基圓上拉出漸開線，接著繪製到齒根的垂直線，並對稱草圖，即可擠出齒型&lt;/p&gt;
-&lt;p&gt;&lt;img src="./../data/W12/image W12/Onshape 漸開線.png" width="480" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/W12/image W12/onshape_spur.png" width="480" /&gt;&lt;/p&gt;
 &lt;p&gt;接著即可加入參數繪製齒輪，可到老師網誌參考程式碼，亦可搜尋spur的FeatureScript &lt;/p&gt;
 &lt;p&gt;以下為對應的 FeatureScript 正齒輪輪廓繪圖程式碼:
 &lt;pre class="brush: python"&gt;
