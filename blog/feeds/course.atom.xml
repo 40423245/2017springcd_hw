@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-05-24T11:00:00+08:00</updated><entry><title>2017/05/24 W14 上課筆記</title><link href="./2017spring-cd-W14.html" rel="alternate"></link><published>2017-05-24T11:00:00+08:00</published><updated>2017-05-24T11:00:00+08:00</updated><author><name>40423245</name></author><id>tag:,2017-05-24:./2017spring-cd-W14.html</id><summary type="html">&lt;p&gt;利用虛擬主機架設Ubuntu Server 16.04.2&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-05-28T11:00:00+08:00</updated><entry><title>2017/05/28 期末行走機構筆記-2</title><link href="./Strandbeest-2.html" rel="alternate"></link><published>2017-05-28T11:00:00+08:00</published><updated>2017-05-28T11:00:00+08:00</updated><author><name>40423245</name></author><id>tag:,2017-05-28:./Strandbeest-2.html</id><summary type="html">&lt;p&gt;在Onshape中繪製蝸桿蝸輪&lt;/p&gt;
+
+
+&lt;p&gt;先繪製出蝸桿的草圖&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/W14-1/onshape worm sketch1.png" width="480" /&gt;&lt;/p&gt;
+&lt;p&gt;接著迴轉擠出並繪製出螺旋線，高為24、Pitch為6&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/W14-1/onshape worm Helix.png" width="480" /&gt;&lt;/p&gt;
+&lt;p&gt;繪製出蝸桿的齒型&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/W14-1/onshape worm sketch2.png" width="480" /&gt;&lt;/p&gt;
+&lt;p&gt;掃略擠出，在桿子的另一邊也是同樣的步驟&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/W14-1/onshape worm .png" width="480" /&gt;&lt;/p&gt;
+&lt;p&gt;接著繪製蝸輪草圖，擠出22.7並倒角2&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/W14-1/onshape worm gear sketch1.png" width="480" /&gt;&lt;/p&gt;
+&lt;p&gt;接著繪製迴轉切割草圖，並迴轉切割&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/W14-1/onshape worm gear sketch2.png" width="480" /&gt;&lt;/p&gt;
+&lt;p&gt;接著繪製出蝸輪的螺旋線，旋轉尺寸為0.25、Pitch為6&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/W14-1/onshape worm gear Helix.png" width="480" /&gt;&lt;/p&gt;
+&lt;p&gt;接著繪製出蝸輪齒型草圖，並掃掠切割，蝸輪另一邊也是相同步驟&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/W14-1/onshape worm gear sketch3.png" width="480" /&gt;&lt;/p&gt;
+&lt;p&gt;接著環形陣列44個&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/W14-1/onshape worm gear 陣列.png" width="480" /&gt;&lt;/p&gt;
+&lt;p&gt;接著繪製出基座&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/W14-1/onshape worm gear bace.png" width="480" /&gt;&lt;/p&gt;
+&lt;p&gt;接著即可到組合件匯入蝸桿蝸輪，利用轉動結合配合蝸桿蝸輪，然後利用齒輪指令限制其關係後，即可製作動畫&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/W14-1/onshape worm gear assembly.png" width="480" /&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/219273694" width="640" height="413" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/219273694"&gt;40423245機械設計工程系 - 協同產品設計實習課程W14-在Onshape中繪製蝸桿蝸輪&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="notes"></category></entry><entry><title>2017/05/24 W14 上課筆記</title><link href="./2017spring-cd-W14.html" rel="alternate"></link><published>2017-05-24T11:00:00+08:00</published><updated>2017-05-24T11:00:00+08:00</updated><author><name>40423245</name></author><id>tag:,2017-05-24:./2017spring-cd-W14.html</id><summary type="html">&lt;p&gt;利用虛擬主機架設Ubuntu Server 16.04.2&lt;/p&gt;
 
 
 &lt;p&gt;由於沒有實體電腦，因此選擇虛擬主機來練習&lt;/p&gt;
