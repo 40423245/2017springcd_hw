@@ -1,5 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-05-17T11:00:00+08:00</updated><entry><title>2017/05/17 W13 上課筆記</title><link href="./2017spring-cd-W13.html" rel="alternate"></link><published>2017-05-17T11:00:00+08:00</published><updated>2017-05-17T11:00:00+08:00</updated><author><name>40423245</name></author><id>tag:,2017-05-17:./2017spring-cd-W13.html</id><summary type="html">&lt;p&gt;在Onshape中繪製行走機構所需零件，並組立各個零件&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-05-24T11:00:00+08:00</updated><entry><title>2017/05/24 W14 上課筆記</title><link href="./2017spring-cd-W14.html" rel="alternate"></link><published>2017-05-24T11:00:00+08:00</published><updated>2017-05-24T11:00:00+08:00</updated><author><name>40423245</name></author><id>tag:,2017-05-24:./2017spring-cd-W14.html</id><summary type="html">&lt;p&gt;利用虛擬主機架設Ubuntu Server 16.04.2&lt;/p&gt;
+
+
+&lt;p&gt;由於沒有實體電腦，因此選擇虛擬主機來練習&lt;/p&gt;
+&lt;p&gt;啟動掛載好Ubuntu Server後，即可啟動虛擬電腦，一開始會選擇語言，選擇『English』&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/W14/Linux Language.png" width="480" /&gt;&lt;/p&gt;
+&lt;p&gt;開始安裝，選擇『Install Ubuntu Server』&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/W14/Install Ununtu Server.png" width="480" /&gt;&lt;/p&gt;
+&lt;p&gt;選擇安裝過程的語言，選擇『English』，接著選『United States』&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/W14/Linux United States.png" width="480" /&gt;&lt;/p&gt;
+&lt;p&gt;接著會偵測鍵盤排列方式，選『No』，接著選擇鍵盤的配置，也都是選擇『English』&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/W14/Linux Detect keyborad.png" width="480" /&gt;&lt;/p&gt;
+&lt;p&gt;接著設定系統的主機名稱&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/W14/Linux Hostname.png" width="480" /&gt;&lt;/p&gt;
+&lt;p&gt;接著設定使用者完整名稱&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/W14/Linux username.png" width="480" /&gt;&lt;/p&gt;
+&lt;p&gt;設定使用者帳號&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/W14/Linux username account.png" width="480" /&gt;&lt;/p&gt;
+&lt;p&gt;設定使用者密碼&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/W14/Linux username password.png" width="480" /&gt;&lt;/p&gt;
+&lt;p&gt;設置完後系統會問你密碼要設置得如此簡單嗎，選擇『Yes』&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/W14/Linux weak password.png" width="480" /&gt;&lt;/p&gt;
+&lt;p&gt;確認時區『Asia / Taipei』是否正確&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/W14/Linux time zone.png" width="480" /&gt;&lt;/p&gt;
+&lt;p&gt;選擇『Guided - use entire disk and set up LVM&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/W14/Linux enyire disk.png" width="480" /&gt;&lt;/p&gt;
+&lt;p&gt;選擇磁碟&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/W14/Linux Select disk.png" width="480" /&gt;&lt;/p&gt;
+&lt;p&gt;是否寫入變更到磁碟，選擇『Yes』&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/W14/Linux configure LVM.png" width="480" /&gt;&lt;/p&gt;
+&lt;p&gt;設定分割區的空間容量&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/W14/Linux Partition disk.png" width="480" /&gt;&lt;/p&gt;
+&lt;p&gt;確認磁碟配置無誤，選擇『Yes』&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/W14/Linux 確認磁碟配置.png" width="480" /&gt;&lt;/p&gt;
+&lt;p&gt;設定 HTTP proxy，這裡不填寫&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/W14/Linux HTTP proxy.png" width="480" /&gt;&lt;/p&gt;
+&lt;p&gt;是否自動更新系統，選擇『No automatic updates』&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/W14/Linux no updates.png" width="480" /&gt;&lt;/p&gt;
+&lt;p&gt;是否要安裝其他軟體，選擇『OpenSSH server』;接著安裝 GRUB 開機選單&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/W14/Linux GRUB boot.png" width="480" /&gt;&lt;/p&gt;
+&lt;p&gt;接著選擇不加密，安裝即完畢，電腦會退出光碟，接著即可登入server&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/W14/Linux  finish.png" width="480" /&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/219270004" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/219270004"&gt;40423245機械設計工程系 - 協同產品設計實習課程W14-利用虛擬主機架設Ubuntu Server 16.04.2&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="notes"></category><category term="w14"></category></entry><entry><title>2017/05/17 W13 上課筆記</title><link href="./2017spring-cd-W13.html" rel="alternate"></link><published>2017-05-17T11:00:00+08:00</published><updated>2017-05-17T11:00:00+08:00</updated><author><name>40423245</name></author><id>tag:,2017-05-17:./2017spring-cd-W13.html</id><summary type="html">&lt;p&gt;在Onshape中繪製行走機構所需零件，並組立各個零件&lt;/p&gt;
 
 
 &lt;p&gt;先在Part Studio中設定好下列參數&lt;/p&gt;
