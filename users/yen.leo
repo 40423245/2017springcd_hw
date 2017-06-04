@@ -501,6 +501,12 @@
 </v>
 </v>
 <v t="yen.20170209024032.1"><vh>reference</vh></v>
+<v t="leo.20170604185611.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20170604185611.3"><vh>Recovered node "圖片" from @clean index.html</vh>
+<v t="leo.20170604185611.4"><vh>old:圖片</vh></v>
+<v t="leo.20170604185611.5"><vh>new:圖片</vh></v>
+</v>
+</v>
 </vnodes>
 <tnodes>
 <t tx="leo.20170303212553.1">@language md
@@ -4526,6 +4532,27 @@ Cango = (function(CangoCore)  // Cango must be declared a global before this fil
   return CangoCore;    // return the augmented Cango object, over-writing the existing
 
 }(Cango));     // Take the existing Cango object and add animation methods
+</t>
+<t tx="leo.20170604185611.2"></t>
+<t tx="leo.20170604185611.3">(uncached) leo.20170312212027.2
+Diff...
+- ####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+?                               ^
++ ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+?                               ^
+  
+  &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
+  
+</t>
+<t tx="leo.20170604185611.4">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+
+&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
+
+</t>
+<t tx="leo.20170604185611.5">####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+
+&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
+
 </t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
