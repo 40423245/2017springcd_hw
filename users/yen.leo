@@ -443,7 +443,7 @@
 <v t="leo.20170506183412.2"><vh>練習</vh></v>
 </v>
 </v>
-<v t="leo.20170610095926.1"><vh>20170405第十一週上課筆記</vh>
+<v t="leo.20170610095926.1" a="E"><vh>20170405第十一週上課筆記</vh>
 <v t="leo.20170610095926.2"><vh>上課內容</vh>
 <v t="leo.20170610095926.3"><vh>上課大綱</vh></v>
 </v>
@@ -512,7 +512,7 @@
 <v t="leo.20170610103710.2"><vh>練習</vh></v>
 </v>
 </v>
-<v t="leo.20170610104037.1" a="E"><vh>20170405第十四週上課筆記</vh>
+<v t="leo.20170610104037.1"><vh>20170405第十四週上課筆記</vh>
 <v t="leo.20170610104037.2"><vh>上課內容</vh>
 <v t="leo.20170610104037.3"><vh>上課大綱</vh></v>
 </v>
@@ -578,6 +578,38 @@
 </v>
 <v t="leo.20170610104037.16"><vh>影片</vh>
 <v t="leo.20170610104037.17"><vh>練習</vh></v>
+</v>
+</v>
+<v t="leo.20170610110041.1"><vh>20170405第十五週上課筆記</vh>
+<v t="leo.20170610110041.2"><vh>上課內容</vh>
+<v t="leo.20170610110041.3"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170610110041.4"><vh>上課內容</vh>
+<v t="leo.20170610110041.5"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170610110041.6"><vh>上課內容</vh>
+<v t="leo.20170610110041.7"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170610110041.8"><vh>上課內容</vh>
+<v t="leo.20170610110041.9"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170610110041.10"><vh>上課內容</vh>
+<v t="leo.20170610110041.11"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170610110818.1"><vh>上課內容</vh>
+<v t="leo.20170610110818.2"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170610110820.1"><vh>上課內容</vh>
+<v t="leo.20170610110820.2"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170610111030.1"><vh>上課內容</vh>
+<v t="leo.20170610111030.2"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170610110041.44"><vh>影片</vh>
+<v t="leo.20170610110041.45"><vh>練習</vh></v>
+</v>
+<v t="leo.20170610111128.1"><vh>影片-2</vh>
+<v t="leo.20170610111128.2"><vh>練習</vh></v>
 </v>
 </v>
 </v>
@@ -4698,7 +4730,7 @@ Cango = (function(CangoCore)  // Cango must be declared a global before this fil
 </t>
 <t tx="leo.20170610100054.2">####利用漸開線原理, 以 Brython 繪製單一正齒輪廓
 
-&lt;img src="data/W11/spur gear.png" width="600" /&gt;
+&lt;img src="data/W11/spur_gear.png" width="600" /&gt;
 </t>
 <t tx="leo.20170610100515.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -4713,7 +4745,7 @@ Cango = (function(CangoCore)  // Cango must be declared a global before this fil
 </t>
 <t tx="leo.20170610100515.2">####利用漸開線原理, 以 cango繪製單一正齒輪廓
 
-&lt;img src="data/W11/cango spur gear.png" width="600" /&gt;
+&lt;img src="data/W11/cango_spur gear.png" width="600" /&gt;
 </t>
 <t tx="leo.20170610100539.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -4728,7 +4760,7 @@ Cango = (function(CangoCore)  // Cango must be declared a global before this fil
 </t>
 <t tx="leo.20170610100539.2">####利用漸開線原理, 以 Brython 繪製齒輪組
 
-&lt;img src="data/W11/spur gears.png" width="600" /&gt;
+&lt;img src="data/W11/spur_gears.png" width="600" /&gt;
 </t>
 <t tx="leo.20170610101128.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -5378,6 +5410,159 @@ Cango = (function(CangoCore)  // Cango must be declared a global before this fil
 <t tx="leo.20170610105130.2">####接著選擇不加密，安裝即完畢，電腦會退出光碟，接著即可登入server
 
 &lt;img src="data/W14/Linux  finish.png" width="700" /&gt;
+
+</t>
+<t tx="leo.20170610110041.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170610110041.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610110041.11">&lt;img src="data/W15/self_spur_gear.png" width="700" /&gt;
+
+</t>
+<t tx="leo.20170610110041.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610110041.3">#第十五週上課筆記
+
+###利用brython繪製正齒輪以及半尺型的正齒輪，接著利用submodule繪製齒輪組，並在Onshape中繪製再一遍齒輪組，並將過程紀錄。
+
+
+</t>
+<t tx="leo.20170610110041.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610110041.44">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610110041.45">&lt;iframe src="https://player.vimeo.com/video/220192683" width="640" height="454" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/220192683"&gt;40423245機械設計工程系 - 協同產品設計實習課程W15練習-在 網誌完成齒輪組的囓合協同繪圖&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+
+
+</t>
+<t tx="leo.20170610110041.5">##1. 請以 W15 練習為網誌標題, 800x600 為畫布大小, 在畫布正中央畫一個半徑為 250 畫素, 壓力角 20, 齒數為 36 齒的漸開線正齒輪輪廓.
+
+</t>
+<t tx="leo.20170610110041.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610110041.7">&lt;img src="data/W15/spur_gear.png" width="700" /&gt;
+
+
+</t>
+<t tx="leo.20170610110041.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610110041.9">####2. 完成後, 請在正齒輪中央寫上自己的學號, 並建立第二個 800x600 的畫布, 請畫出只有上半齒形的漸開線正齒輪輪廓 , 且該齒輪廓下方水平線, 連接兩端齒根圓點交的直線以紅色繪製, 且在齒輪下方以藍色字元寫上自己的學號.
+</t>
+<t tx="leo.20170610110818.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610110818.2">####3. 請各學員在各自 github 倉儲中的 data/py 目錄中, 編寫一個可以採圓心座標, 節圓半徑, 齒數, 壓力角與定位角度作為輸入的齒輪程式函式, 交由組長從各組員的 submodule 設定中呼叫導入, 以便在各分組的網頁中完成一個畫出所有組員協同繪圖的齒輪減速組圖, 且各齒輪正中心必須寫上組員學號, 各組按照學號大小排序, 分別由最右邊齒數 16 齒開始囓合, 依序增加 2 齒, 當排至平面四齒囓合後, 第五位組員則以垂直方向向下囓合兩個齒輪後, 轉由右至左水平排列, 直至所有組員均各提供一個協同囓合用的齒輪為止.
+
+</t>
+<t tx="leo.20170610110820.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610110820.2">&lt;img src="data/W15/spur_gears.png" width="700" /&gt;
+
+</t>
+<t tx="leo.20170610111030.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610111030.2">##4. 請依照上述規劃, 在 Onshape 完成相同齒輪組的囓合協同繪圖.
+
+##齒輪組連結：&lt;a href="https://cad.onshape.com/documents/998bf3dc53b731d62db8fb27/w/aec61dc14ccd5605bc5b5707/e/48c83701832f463be35a0c66"&gt;齒輪組&lt;/a&gt;</t>
+<t tx="leo.20170610111128.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610111128.2">&lt;iframe src="https://player.vimeo.com/video/220192358" width="640" height="413" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/220192358"&gt;40423245機械設計工程系 - 協同產品設計實習課程W15練習-在 Onshape 完成相同齒輪組的囓合協同繪圖&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+
 
 </t>
 <t tx="yen.20170108171605.1"></t>
