@@ -443,7 +443,7 @@
 <v t="leo.20170506183412.2"><vh>練習</vh></v>
 </v>
 </v>
-<v t="leo.20170610095926.1" a="E"><vh>20170405第十一週上課筆記</vh>
+<v t="leo.20170610095926.1"><vh>20170405第十一週上課筆記</vh>
 <v t="leo.20170610095926.2"><vh>上課內容</vh>
 <v t="leo.20170610095926.3"><vh>上課大綱</vh></v>
 </v>
@@ -461,6 +461,23 @@
 </v>
 <v t="leo.20170610101945.1"><vh>齒輪組 注意事項</vh>
 <v t="leo.20170610101945.2"><vh>上課大綱</vh></v>
+</v>
+</v>
+<v t="leo.20170610102332.1" a="E"><vh>20170405第十二週上課筆記</vh>
+<v t="leo.20170610102332.2"><vh>上課內容</vh>
+<v t="leo.20170610102332.3"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170610102611.1"><vh>上課內容</vh>
+<v t="leo.20170610102611.2"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170610102727.1"><vh>上課內容</vh>
+<v t="leo.20170610102727.2"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170610102904.1"><vh>影片</vh>
+<v t="leo.20170610102904.2"><vh>練習</vh></v>
+</v>
+<v t="leo.20170610102906.1" a="E"><vh>影片-2</vh>
+<v t="leo.20170610102906.2"><vh>練習</vh></v>
 </v>
 </v>
 </v>
@@ -4703,6 +4720,95 @@ Diff...
 ####2.將第2齒輪逆時鐘轉 90 度之後, 再多轉一齒, 以便與第1齒輪進行囓合
 
 ####3.將第3齒輪逆時鐘轉 90 度之後, 再往回轉第2齒輪定位帶動轉角, 然後再逆時鐘多轉一齒, 以便與第2齒輪進行囓合
+
+</t>
+<t tx="leo.20170610102332.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170610102332.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610102332.3">#第十二週上課筆記
+
+##在Onshape上繪製漸開線齒輪以及利用參數繪製齒輪
+
+
+</t>
+<t tx="leo.20170610102611.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610102611.2">####給定模數、齒數及壓力角後，繪製出節圓、齒頂圓、齒根圓及基圓
+
+&lt;img src="data/W12/image W12/onshape_round.png" width="600" /&gt;
+
+
+</t>
+<t tx="leo.20170610102727.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610102727.2">####接著從基圓上拉出漸開線，接著繪製到齒根的垂直線，並對稱草圖，即可擠出齒型
+
+&lt;img src="data/W12/image W12/onshape_spur.png" width="600" /&gt;
+
+
+</t>
+<t tx="leo.20170610102904.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610102904.2">&lt;iframe src="https://player.vimeo.com/video/218259602" width="640" height="413" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/218259602"&gt;40423245機械設計工程系 - 協同產品設計實習課程W12-在Onshape上繪製漸開線齒輪&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+
+
+</t>
+<t tx="leo.20170610102906.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610102906.2">&lt;iframe src="https://player.vimeo.com/video/218260068" width="640" height="413" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/218260068"&gt;40423245機械設計工程系 - 協同產品設計實習課程W12-利用參數繪製齒輪&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+
 
 </t>
 <t tx="yen.20170108171605.1"></t>
