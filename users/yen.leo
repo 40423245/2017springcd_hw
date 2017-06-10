@@ -612,12 +612,20 @@
 <v t="leo.20170610111128.2"><vh>練習</vh></v>
 </v>
 </v>
+<v t="leo.20170610112950.1" a="E"><vh>20170405第十六週上課筆記</vh>
+<v t="leo.20170610112950.2"><vh>上課內容</vh>
+<v t="leo.20170610112950.3"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170610112950.4" a="E"><vh>上課內容</vh>
+<v t="leo.20170610112950.5"><vh>上課大綱</vh></v>
 </v>
 </v>
 </v>
 </v>
 </v>
-<v t="yen.20170108171733.71" a="E"><vh>@path content</vh>
+</v>
+</v>
+<v t="yen.20170108171733.71"><vh>@path content</vh>
 <v t="yen.20170123225841.1"><vh>@edit 20170222.md</vh></v>
 <v t="leo.20170304202845.1"><vh>@edit 20170301.md</vh></v>
 <v t="leo.20170309204306.1"><vh>@edit 20170308.md</vh></v>
@@ -5566,6 +5574,42 @@ Cango = (function(CangoCore)  // Cango must be declared a global before this fil
 
 
 </t>
+<t tx="leo.20170610112950.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170610112950.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610112950.3">#第十六週上課筆記
+
+##練習如何遠端連結Fossil伺服器
+
+</t>
+<t tx="leo.20170610112950.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610112950.5">##老師第一節課介紹如何利用Xming連結Fossil伺服器
+
+##第二節讓我們去聆聽學長們的專題報告
+
+##第三四節的報告延至下週</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
