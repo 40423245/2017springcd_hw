@@ -447,7 +447,7 @@
 <v t="leo.20170610095926.2"><vh>上課內容</vh>
 <v t="leo.20170610095926.3"><vh>上課大綱</vh></v>
 </v>
-<v t="leo.20170610100054.1"><vh>brython正齒輪</vh>
+<v t="leo.20170610100054.1" a="E"><vh>brython正齒輪</vh>
 <v t="leo.20170610100054.2"><vh>上課大綱</vh></v>
 </v>
 <v t="leo.20170610101128.1"><vh>正齒輪 注意事項</vh>
@@ -580,7 +580,7 @@
 <v t="leo.20170610104037.17"><vh>練習</vh></v>
 </v>
 </v>
-<v t="leo.20170610110041.1"><vh>20170405第十五週上課筆記</vh>
+<v t="leo.20170610110041.1" a="E"><vh>20170405第十五週上課筆記</vh>
 <v t="leo.20170610110041.2"><vh>上課內容</vh>
 <v t="leo.20170610110041.3"><vh>上課大綱</vh></v>
 </v>
@@ -4730,7 +4730,7 @@ Cango = (function(CangoCore)  // Cango must be declared a global before this fil
 </t>
 <t tx="leo.20170610100054.2">####利用漸開線原理, 以 Brython 繪製單一正齒輪廓
 
-&lt;img src="data/W11/spur_gear.png" width="600" /&gt;
+&lt;img src="data/w11/spur_gear.png" width="600" /&gt;
 </t>
 <t tx="leo.20170610100515.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -4745,7 +4745,7 @@ Cango = (function(CangoCore)  // Cango must be declared a global before this fil
 </t>
 <t tx="leo.20170610100515.2">####利用漸開線原理, 以 cango繪製單一正齒輪廓
 
-&lt;img src="data/W11/cango_spur gear.png" width="600" /&gt;
+&lt;img src="data/w11/cango_spur gear.png" width="600" /&gt;
 </t>
 <t tx="leo.20170610100539.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -4760,7 +4760,7 @@ Cango = (function(CangoCore)  // Cango must be declared a global before this fil
 </t>
 <t tx="leo.20170610100539.2">####利用漸開線原理, 以 Brython 繪製齒輪組
 
-&lt;img src="data/W11/spur_gears.png" width="600" /&gt;
+&lt;img src="data/w11/spur_gears.png" width="600" /&gt;
 </t>
 <t tx="leo.20170610101128.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
