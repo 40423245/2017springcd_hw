@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-05-31T09:00:00+08:00</updated><entry><title>協同產品設計實習第十五週練習</title><link href="./2017spring-cd-W15.html" rel="alternate"></link><published>2017-05-31T09:00:00+08:00</published><updated>2017-05-31T09:00:00+08:00</updated><author><name>40423245</name></author><id>tag:,2017-05-31:./2017spring-cd-W15.html</id><summary type="html">&lt;p&gt;利用brython繪製正齒輪以及半尺型的正齒輪，接著利用submodule繪製齒輪組，並在Onshape中繪製再一遍齒輪組，並將過程紀錄。&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-06-07T09:00:00+08:00</updated><entry><title>2017/06/07 W16 上課筆記</title><link href="./2017spring-cd-W16.html" rel="alternate"></link><published>2017-06-07T09:00:00+08:00</published><updated>2017-06-07T09:00:00+08:00</updated><author><name>40423245</name></author><id>tag:,2017-06-07:./2017spring-cd-W16.html</id><summary type="html">&lt;p&gt;練習如何遠端連結Fossil伺服器&lt;/p&gt;
+
+
+&lt;p&gt;老師第一節課介紹如何利用Xming連結Fossil伺服器&lt;/p&gt;
+&lt;p&gt;第二節讓我們去聆聽學長們的專題報告&lt;/p&gt;
+&lt;p&gt;第三四節的報告延至下週&lt;/p&gt;</summary><category term="notes"></category><category term="w16"></category></entry><entry><title>協同產品設計實習第十五週練習</title><link href="./2017spring-cd-W15.html" rel="alternate"></link><published>2017-05-31T09:00:00+08:00</published><updated>2017-05-31T09:00:00+08:00</updated><author><name>40423245</name></author><id>tag:,2017-05-31:./2017spring-cd-W15.html</id><summary type="html">&lt;p&gt;利用brython繪製正齒輪以及半尺型的正齒輪，接著利用submodule繪製齒輪組，並在Onshape中繪製再一遍齒輪組，並將過程紀錄。&lt;/p&gt;
 
 
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
