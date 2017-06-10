@@ -463,7 +463,7 @@
 <v t="leo.20170610101945.2"><vh>上課大綱</vh></v>
 </v>
 </v>
-<v t="leo.20170610102332.1" a="E"><vh>20170405第十二週上課筆記</vh>
+<v t="leo.20170610102332.1"><vh>20170405第十二週上課筆記</vh>
 <v t="leo.20170610102332.2"><vh>上課內容</vh>
 <v t="leo.20170610102332.3"><vh>上課大綱</vh></v>
 </v>
@@ -478,6 +478,38 @@
 </v>
 <v t="leo.20170610102906.1" a="E"><vh>影片-2</vh>
 <v t="leo.20170610102906.2"><vh>練習</vh></v>
+</v>
+</v>
+<v t="leo.20170610103339.1" a="E"><vh>20170405第十三週上課筆記</vh>
+<v t="leo.20170610103339.2"><vh>上課內容</vh>
+<v t="leo.20170610103339.3"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170610103339.4" a="E"><vh>上課內容</vh>
+<v t="leo.20170610103339.5"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170610103339.6"><vh>上課內容</vh>
+<v t="leo.20170610103339.7"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170610103509.1"><vh>上課內容</vh>
+<v t="leo.20170610103509.2"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170610103535.1"><vh>上課內容</vh>
+<v t="leo.20170610103535.2"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170610103600.1"><vh>上課內容</vh>
+<v t="leo.20170610103600.2"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170610103617.1"><vh>上課內容</vh>
+<v t="leo.20170610103617.2"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170610103339.8"><vh>影片</vh>
+<v t="leo.20170610103339.9"><vh>練習</vh></v>
+</v>
+<v t="leo.20170610103339.10"><vh>影片-2</vh>
+<v t="leo.20170610103339.11"><vh>練習</vh></v>
+</v>
+<v t="leo.20170610103710.1"><vh>影片-3</vh>
+<v t="leo.20170610103710.2"><vh>練習</vh></v>
 </v>
 </v>
 </v>
@@ -538,18 +570,6 @@
 </v>
 </v>
 <v t="yen.20170209024032.1"><vh>reference</vh></v>
-<v t="leo.20170604185611.2" a="E"><vh>Recovered Nodes</vh>
-<v t="leo.20170604185611.3"><vh>Recovered node "圖片" from @clean index.html</vh>
-<v t="leo.20170604185611.4"><vh>old:圖片</vh></v>
-<v t="leo.20170604185611.5"><vh>new:圖片</vh></v>
-</v>
-</v>
-<v t="leo.20170610095403.2" a="E"><vh>Recovered Nodes</vh>
-<v t="leo.20170610095403.3"><vh>Recovered node "圖片" from @clean index.html</vh>
-<v t="leo.20170610095403.4"><vh>old:圖片</vh></v>
-<v t="leo.20170610095403.5"><vh>new:圖片</vh></v>
-</v>
-</v>
 </vnodes>
 <tnodes>
 <t tx="leo.20170303212553.1">@language md
@@ -4576,48 +4596,6 @@ Cango = (function(CangoCore)  // Cango must be declared a global before this fil
 
 }(Cango));     // Take the existing Cango object and add animation methods
 </t>
-<t tx="leo.20170604185611.2"></t>
-<t tx="leo.20170604185611.3">(uncached) leo.20170312212027.2
-Diff...
-- ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-+ ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-  
-  &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-  
-</t>
-<t tx="leo.20170604185611.4">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-
-</t>
-<t tx="leo.20170604185611.5">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-
-</t>
-<t tx="leo.20170610095403.2"></t>
-<t tx="leo.20170610095403.3">(uncached) leo.20170312212027.2
-Diff...
-- ####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-+ ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-  
-  &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-  
-</t>
-<t tx="leo.20170610095403.4">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-
-</t>
-<t tx="leo.20170610095403.5">####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-
-</t>
 <t tx="leo.20170610095926.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -4807,6 +4785,173 @@ Diff...
 </t>
 <t tx="leo.20170610102906.2">&lt;iframe src="https://player.vimeo.com/video/218260068" width="640" height="413" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/218260068"&gt;40423245機械設計工程系 - 協同產品設計實習課程W12-利用參數繪製齒輪&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+
+
+</t>
+<t tx="leo.20170610103339.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170610103339.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610103339.11">&lt;iframe src="https://player.vimeo.com/video/218462899" width="640" height="454" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/218462899"&gt;40423245機械設計工程系 - 協同產品設計實習課程W13-在Onshape上組立行走機構&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+
+
+</t>
+<t tx="leo.20170610103339.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610103339.3">#第十三週上課筆記
+
+##在Onshape中繪製行走機構所需零件，並組立各個零件
+
+
+</t>
+<t tx="leo.20170610103339.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610103339.5">####先在Part Studio中設定好下列參數
+
+&lt;img src="data/W13/Onshape_Variable.png" width="300" /&gt;
+
+
+</t>
+<t tx="leo.20170610103339.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610103339.7">####接著繪製各零件草圖並導入參數
+
+ &lt;img src="data/W13/Onshape_Sketch1.png" width="650 " /&gt;
+
+
+</t>
+<t tx="leo.20170610103339.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610103339.9">&lt;iframe src="https://player.vimeo.com/video/218461979" width="640" height="454" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/218461979"&gt;40423245機械設計工程系 - 協同產品設計實習課程W13-利用Onshape繪製行走機構所需零件&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+
+
+</t>
+<t tx="leo.20170610103509.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610103509.2">####設定擠出參數為 3，並將零件擠出
+
+ &lt;img src="data/W13/Onshape_Extrude1.png" width="650 " /&gt;
+
+
+</t>
+<t tx="leo.20170610103535.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610103535.2">#### 接著設定軸的半徑參數為 2 並繪製草圖，接著擠出軸，尺寸分別為 厚度X2、厚度X3、厚度X6及厚度X15
+ 
+  &lt;img src="data/W13/Onshape_shaft_Extrude.png" width="650 " /&gt;
+
+</t>
+<t tx="leo.20170610103600.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610103600.2">####   製作動畫時只能使兩隻腳同時作動，假如要使四隻腳同時作動，可使用群組指令將兩邊的作動軸設為一個群組
+
+</t>
+<t tx="leo.20170610103617.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610103617.2">##零件連結 ：&lt;a href="https://cad.onshape.com/documents/99bea89428b15b1fd764f653/w/9126b8533964a3c22b3305dd/e/adbf4d9ca662915e3c139315"&gt;Strandbeest&lt;/a&gt;
+
+</t>
+<t tx="leo.20170610103710.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610103710.2">&lt;iframe src="https://player.vimeo.com/video/218468376" width="640" height="454" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/218468376"&gt;40423245機械設計工程系 - 協同產品設計實習課程W13-在Onshape上模擬行走機構動畫&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
 
 
