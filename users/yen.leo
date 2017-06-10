@@ -27,7 +27,7 @@
 <v t="yen.20170215103332.1"><vh>@edit base.html</vh></v>
 </v>
 </v>
-<v t="yen.20170120110024.1"><vh>@clean index.html</vh>
+<v t="yen.20170120110024.1" a="E"><vh>@clean index.html</vh>
 <v t="yen.20170120110024.2" a="E"><vh>html</vh>
 <v t="yen.20170120110024.3"><vh>head</vh></v>
 <v t="yen.20170120110024.4" a="E"><vh>body</vh>
@@ -96,7 +96,7 @@
 <v t="leo.20170305173446.1"><vh>一-2</vh>
 <v t="leo.20170305173446.2"><vh>課程內容</vh></v>
 </v>
-<v t="leo.20170305173211.1"><vh>一-3</vh>
+<v t="leo.20170305173211.1" a="E"><vh>一-3</vh>
 <v t="leo.20170305173211.2"><vh>程式碼</vh></v>
 </v>
 <v t="leo.20170304202812.6"><vh>二-1</vh>
@@ -443,6 +443,26 @@
 <v t="leo.20170506183412.2"><vh>練習</vh></v>
 </v>
 </v>
+<v t="leo.20170610095926.1" a="E"><vh>20170405第十一週上課筆記</vh>
+<v t="leo.20170610095926.2"><vh>上課內容</vh>
+<v t="leo.20170610095926.3"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170610100054.1"><vh>brython正齒輪</vh>
+<v t="leo.20170610100054.2"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170610101128.1"><vh>正齒輪 注意事項</vh>
+<v t="leo.20170610101128.2"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170610100515.1"><vh>cango正齒輪</vh>
+<v t="leo.20170610100515.2"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170610100539.1"><vh>brython齒輪組</vh>
+<v t="leo.20170610100539.2"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170610101945.1"><vh>齒輪組 注意事項</vh>
+<v t="leo.20170610101945.2"><vh>上課大綱</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -505,6 +525,12 @@
 <v t="leo.20170604185611.3"><vh>Recovered node "圖片" from @clean index.html</vh>
 <v t="leo.20170604185611.4"><vh>old:圖片</vh></v>
 <v t="leo.20170604185611.5"><vh>new:圖片</vh></v>
+</v>
+</v>
+<v t="leo.20170610095403.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20170610095403.3"><vh>Recovered node "圖片" from @clean index.html</vh>
+<v t="leo.20170610095403.4"><vh>old:圖片</vh></v>
+<v t="leo.20170610095403.5"><vh>new:圖片</vh></v>
 </v>
 </v>
 </vnodes>
@@ -4536,7 +4562,7 @@ Cango = (function(CangoCore)  // Cango must be declared a global before this fil
 <t tx="leo.20170604185611.2"></t>
 <t tx="leo.20170604185611.3">(uncached) leo.20170312212027.2
 Diff...
-- ####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+- ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
 ?                               ^
 + ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
 ?                               ^
@@ -4549,9 +4575,134 @@ Diff...
 &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
 
 </t>
-<t tx="leo.20170604185611.5">####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+<t tx="leo.20170604185611.5">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
 
 &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
+
+</t>
+<t tx="leo.20170610095403.2"></t>
+<t tx="leo.20170610095403.3">(uncached) leo.20170312212027.2
+Diff...
+- ####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+?                               ^
++ ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+?                               ^
+  
+  &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
+  
+</t>
+<t tx="leo.20170610095403.4">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+
+&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
+
+</t>
+<t tx="leo.20170610095403.5">####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+
+&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
+
+</t>
+<t tx="leo.20170610095926.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170610095926.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610095926.3">#第十一週上課筆記
+
+##利用漸開線原理, 以 Brython 繪製單一正齒輪廓及齒輪組
+
+
+</t>
+<t tx="leo.20170610100054.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610100054.2">####利用漸開線原理, 以 Brython 繪製單一正齒輪廓
+
+&lt;img src="data/W11/spur gear.png" width="600" /&gt;
+</t>
+<t tx="leo.20170610100515.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610100515.2">####利用漸開線原理, 以 cango繪製單一正齒輪廓
+
+&lt;img src="data/W11/cango spur gear.png" width="600" /&gt;
+</t>
+<t tx="leo.20170610100539.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610100539.2">####利用漸開線原理, 以 Brython 繪製齒輪組
+
+&lt;img src="data/W11/spur gears.png" width="600" /&gt;
+</t>
+<t tx="leo.20170610101128.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610101128.2">##注意事項
+
+###1.當齒根半徑因為齒數增多後大於基圓半徑時, 漸開線從齒根圓長起
+
+###2.當基圓半徑大於齒根圓時, 漸開線從基圓長起
+
+</t>
+<t tx="leo.20170610101945.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610101945.2">###注意事項
+
+####1.第1齒輪順時鐘轉 90 度
+
+####2.將第2齒輪逆時鐘轉 90 度之後, 再多轉一齒, 以便與第1齒輪進行囓合
+
+####3.將第3齒輪逆時鐘轉 90 度之後, 再往回轉第2齒輪定位帶動轉角, 然後再逆時鐘多轉一齒, 以便與第2齒輪進行囓合
 
 </t>
 <t tx="yen.20170108171605.1"></t>

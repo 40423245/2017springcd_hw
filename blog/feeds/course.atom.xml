@@ -1105,7 +1105,6 @@ Spur(ctx).Gear(x, y, r, n, pa, "blue")
 &lt;h3&gt;單一正齒輪程式碼&lt;/h3&gt;
 
 &lt;pre class="brush: python"&gt;
-&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
 
@@ -1555,7 +1554,7 @@ Spur(ctx).Gear(x_g3, y_g3, rp_g3, n_g3, pa, "red")
 ctx.restore()
 &lt;/script&gt;
 
-&lt;h3&gt;單一正齒輪程式碼&lt;/h3&gt;
+&lt;h3&gt;齒輪程式碼&lt;/h3&gt;
 
 &lt;pre class="brush: python"&gt;
 &lt;canvas id='gear3' width='800' height='400'&gt;&lt;/canvas&gt;
