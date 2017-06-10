@@ -480,7 +480,7 @@
 <v t="leo.20170610102906.2"><vh>練習</vh></v>
 </v>
 </v>
-<v t="leo.20170610103339.1" a="E"><vh>20170405第十三週上課筆記</vh>
+<v t="leo.20170610103339.1"><vh>20170405第十三週上課筆記</vh>
 <v t="leo.20170610103339.2"><vh>上課內容</vh>
 <v t="leo.20170610103339.3"><vh>上課大綱</vh></v>
 </v>
@@ -510,6 +510,74 @@
 </v>
 <v t="leo.20170610103710.1"><vh>影片-3</vh>
 <v t="leo.20170610103710.2"><vh>練習</vh></v>
+</v>
+</v>
+<v t="leo.20170610104037.1" a="E"><vh>20170405第十四週上課筆記</vh>
+<v t="leo.20170610104037.2"><vh>上課內容</vh>
+<v t="leo.20170610104037.3"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170610104037.4"><vh>上課內容</vh>
+<v t="leo.20170610104037.5"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170610104037.6"><vh>上課內容</vh>
+<v t="leo.20170610104037.7"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170610104037.8"><vh>上課內容</vh>
+<v t="leo.20170610104037.9"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170610104037.10"><vh>上課內容</vh>
+<v t="leo.20170610104037.11"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170610104037.12"><vh>上課內容</vh>
+<v t="leo.20170610104037.13"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170610104037.14"><vh>上課內容</vh>
+<v t="leo.20170610104037.15"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170610104334.1"><vh>上課內容</vh>
+<v t="leo.20170610104334.2"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170610104356.1"><vh>上課內容</vh>
+<v t="leo.20170610104356.2"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170610104416.1"><vh>上課內容</vh>
+<v t="leo.20170610104416.2"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170610104434.1"><vh>上課內容</vh>
+<v t="leo.20170610104434.2"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170610104458.1"><vh>上課內容</vh>
+<v t="leo.20170610104458.2"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170610104519.1"><vh>上課內容</vh>
+<v t="leo.20170610104519.2"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170610104542.1"><vh>上課內容</vh>
+<v t="leo.20170610104542.2"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170610104622.1"><vh>上課內容</vh>
+<v t="leo.20170610104622.2"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170610104648.1"><vh>上課內容</vh>
+<v t="leo.20170610104648.2"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170610104720.1"><vh>上課內容</vh>
+<v t="leo.20170610104720.2"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170610105006.1"><vh>上課內容</vh>
+<v t="leo.20170610105006.2"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170610105027.1"><vh>上課內容</vh>
+<v t="leo.20170610105027.2"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170610105050.1"><vh>上課內容</vh>
+<v t="leo.20170610105050.2"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170610105130.1"><vh>上課內容</vh>
+<v t="leo.20170610105130.2"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170610104037.16"><vh>影片</vh>
+<v t="leo.20170610104037.17"><vh>練習</vh></v>
 </v>
 </v>
 </v>
@@ -4954,6 +5022,362 @@ Cango = (function(CangoCore)  // Cango must be declared a global before this fil
 &lt;p&gt;&lt;a href="https://vimeo.com/218468376"&gt;40423245機械設計工程系 - 協同產品設計實習課程W13-在Onshape上模擬行走機構動畫&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
 
+
+</t>
+<t tx="leo.20170610104037.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170610104037.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610104037.11">#### 選擇安裝過程的語言，選擇『English』，接著選『United States』
+
+&lt;img src="data/W14/Linux United States.png" width="700" /&gt;
+
+</t>
+<t tx="leo.20170610104037.12">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610104037.13">####接著會偵測鍵盤排列方式，選『No』，接著選擇鍵盤的配置，也都是選擇『English』
+
+&lt;img src="data/W14/Linux Detect keyborad.png" width="700" /&gt;
+
+</t>
+<t tx="leo.20170610104037.14">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610104037.15">####接著設定系統的主機名稱
+
+&lt;img src="data/W14/Linux Hostname.png" width="700" /&gt;
+
+</t>
+<t tx="leo.20170610104037.16">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610104037.17">&lt;iframe src="https://player.vimeo.com/video/219270004" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/219270004"&gt;40423245機械設計工程系 - 協同產品設計實習課程W14-利用虛擬主機架設Ubuntu Server 16.04.2&lt;/a&gt; from &lt;a href="https://vimeo.com/user47996237"&gt;40423245&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+
+
+</t>
+<t tx="leo.20170610104037.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610104037.3">#第十四週上課筆記
+
+##利用虛擬主機架設Ubuntu Server 16.04.2
+
+
+</t>
+<t tx="leo.20170610104037.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610104037.5">##由於沒有實體電腦，因此選擇虛擬主機來練習
+
+
+</t>
+<t tx="leo.20170610104037.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610104037.7">####啟動掛載好Ubuntu Server後，即可啟動虛擬電腦，一開始會選擇語言，選擇『English』
+
+&lt;img src="data/W14/Linux Language.png" width="700" /&gt;
+
+
+</t>
+<t tx="leo.20170610104037.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610104037.9">####開始安裝，選擇『Install Ubuntu Server』
+
+&lt;img src="data/W14/Install Ununtu Server.png" width="700" /&gt;
+
+
+</t>
+<t tx="leo.20170610104334.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610104334.2">####接著設定使用者完整名稱
+
+&lt;img src="data/W14/Linux username.png" width="700" /&gt;
+
+</t>
+<t tx="leo.20170610104356.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610104356.2">####設定使用者帳號
+
+&lt;img src="data/W14/Linux username account.png" width="700" /&gt;
+</t>
+<t tx="leo.20170610104416.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610104416.2">####設定使用者密碼
+
+&lt;img src="data/W14/Linux username password.png" width="700" /&gt;
+</t>
+<t tx="leo.20170610104434.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610104434.2">####設置完後系統會問你密碼要設置得如此簡單嗎，選擇『Yes』
+
+&lt;img src="data/W14/Linux weak password.png" width="700" /&gt;
+</t>
+<t tx="leo.20170610104458.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610104458.2">####確認時區『Asia / Taipei』是否正確
+
+&lt;img src="data/W14/Linux time zone.png" width="700" /&gt;
+</t>
+<t tx="leo.20170610104519.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610104519.2">####選擇『Guided - use entire disk and set up LVM
+
+&lt;img src="data/W14/Linux enyire disk.png" width="700" /&gt;
+
+</t>
+<t tx="leo.20170610104542.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610104542.2">####選擇磁碟
+
+&lt;img src="data/W14/Linux Select disk.png" width="700" /&gt;
+
+</t>
+<t tx="leo.20170610104622.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610104622.2">####是否寫入變更到磁碟，選擇『Yes』
+
+&lt;img src="data/W14/Linux configure LVM.png" width="700" /&gt;
+
+</t>
+<t tx="leo.20170610104648.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610104648.2">####設定分割區的空間容量
+
+&lt;img src="data/W14/Linux Partition disk.png" width="700" /&gt;
+
+</t>
+<t tx="leo.20170610104720.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610104720.2">####確認磁碟配置無誤，選擇『Yes』
+
+&lt;img src="data/W14/Linux 確認磁碟配置.png" width="700" /&gt;
+
+</t>
+<t tx="leo.20170610105006.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610105006.2">####設定 HTTP proxy，這裡不填寫
+
+&lt;img src="data/W14/Linux HTTP proxy.png" width="700" /&gt;
+
+
+</t>
+<t tx="leo.20170610105027.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610105027.2">####是否自動更新系統，選擇『No automatic updates』
+
+&lt;img src="data/W14/Linux no updates.png" width="700" /&gt;
+
+</t>
+<t tx="leo.20170610105050.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610105050.2">####是否要安裝其他軟體，選擇『OpenSSH server』;接著安裝 GRUB 開機選單
+
+&lt;img src="data/W14/Linux GRUB boot.png" width="700" /&gt;
+
+</t>
+<t tx="leo.20170610105130.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170610105130.2">####接著選擇不加密，安裝即完畢，電腦會退出光碟，接著即可登入server
+
+&lt;img src="data/W14/Linux  finish.png" width="700" /&gt;
 
 </t>
 <t tx="yen.20170108171605.1"></t>
