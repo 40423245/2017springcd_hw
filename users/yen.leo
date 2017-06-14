@@ -27,7 +27,7 @@
 <v t="yen.20170215103332.1"><vh>@edit base.html</vh></v>
 </v>
 </v>
-<v t="yen.20170120110024.1" a="E"><vh>@clean index.html</vh>
+<v t="yen.20170120110024.1"><vh>@clean index.html</vh>
 <v t="yen.20170120110024.2" a="E"><vh>html</vh>
 <v t="yen.20170120110024.3"><vh>head</vh></v>
 <v t="yen.20170120110024.4" a="E"><vh>body</vh>
@@ -612,7 +612,7 @@
 <v t="leo.20170610111128.2"><vh>練習</vh></v>
 </v>
 </v>
-<v t="leo.20170610112950.1" a="E"><vh>20170405第十六週上課筆記</vh>
+<v t="leo.20170610112950.1"><vh>20170405第十六週上課筆記</vh>
 <v t="leo.20170610112950.2"><vh>上課內容</vh>
 <v t="leo.20170610112950.3"><vh>上課大綱</vh></v>
 </v>
@@ -625,7 +625,7 @@
 </v>
 </v>
 </v>
-<v t="yen.20170108171733.71"><vh>@path content</vh>
+<v t="yen.20170108171733.71" a="E"><vh>@path content</vh>
 <v t="yen.20170123225841.1"><vh>@edit 20170222.md</vh></v>
 <v t="leo.20170304202845.1"><vh>@edit 20170301.md</vh></v>
 <v t="leo.20170309204306.1"><vh>@edit 20170308.md</vh></v>
@@ -645,6 +645,7 @@
 <v t="leo.20170528211718.1"><vh>@edit 20170528.md</vh></v>
 <v t="leo.20170531083924.1"><vh>@edit 20170531.md</vh></v>
 <v t="leo.20170610112242.1"><vh>@edit 20170607.md</vh></v>
+<v t="leo.20170614083738.1"><vh>@edit 20170614.md</vh></v>
 <v t="leo.20170303212553.1"><vh>@@edit 20170108.md</vh></v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
@@ -679,6 +680,12 @@
 </v>
 </v>
 <v t="yen.20170209024032.1"><vh>reference</vh></v>
+<v t="leo.20170614084210.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20170614084210.3"><vh>Recovered node "圖片" from @clean index.html</vh>
+<v t="leo.20170614084210.4"><vh>old:圖片</vh></v>
+<v t="leo.20170614084210.5"><vh>new:圖片</vh></v>
+</v>
+</v>
 </vnodes>
 <tnodes>
 <t tx="leo.20170303212553.1">@language md
@@ -5556,7 +5563,8 @@ Cango = (function(CangoCore)  // Cango must be declared a global before this fil
 </t>
 <t tx="leo.20170610111030.2">##4. 請依照上述規劃, 在 Onshape 完成相同齒輪組的囓合協同繪圖.
 
-##齒輪組連結：&lt;a href="https://cad.onshape.com/documents/998bf3dc53b731d62db8fb27/w/aec61dc14ccd5605bc5b5707/e/48c83701832f463be35a0c66"&gt;齒輪組&lt;/a&gt;</t>
+##齒輪組連結：&lt;a href="https://cad.onshape.com/documents/998bf3dc53b731d62db8fb27/w/aec61dc14ccd5605bc5b5707/e/48c83701832f463be35a0c66"&gt;齒輪組&lt;/a&gt;
+</t>
 <t tx="leo.20170610111128.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -5609,7 +5617,29 @@ Cango = (function(CangoCore)  // Cango must be declared a global before this fil
 
 ##第二節讓我們去聆聽學長們的專題報告
 
-##第三四節的報告延至下週</t>
+##第三四節的報告延至下週
+</t>
+<t tx="leo.20170614084210.2"></t>
+<t tx="leo.20170614084210.3">(uncached) leo.20170312212027.2
+Diff...
+- ####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+?                               ^
++ ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+?                               ^
+  
+  &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
+  
+</t>
+<t tx="leo.20170614084210.4">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+
+&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
+
+</t>
+<t tx="leo.20170614084210.5">####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+
+&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
+
+</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
