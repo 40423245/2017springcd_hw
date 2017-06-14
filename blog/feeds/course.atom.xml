@@ -6,8 +6,64 @@
 &lt;/ol&gt;
 &lt;iframe src="./../data/W17/onelink.html" width="800" height="600"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;3.&lt;/p&gt;
-&lt;iframe src="./../data/W17/ass.html" width="800" height="600"&gt;&lt;/iframe&gt;</summary><category term="notes"></category><category term="w17"></category></entry><entry><title>2017/06/07 W16 上課筆記</title><link href="./2017spring-cd-W16.html" rel="alternate"></link><published>2017-06-07T09:00:00+08:00</published><updated>2017-06-07T09:00:00+08:00</updated><author><name>40423245</name></author><id>tag:,2017-06-07:./2017spring-cd-W16.html</id><summary type="html">&lt;p&gt;練習如何遠端連結Fossil伺服器&lt;/p&gt;
+&lt;iframe src="./../data/W17/ass.html" width="800" height="600"&gt;&lt;/iframe&gt;
+
+&lt;!-- 導入 Brython 標準程式庫 --&gt;
+
+&lt;script src="../data/Brython-3.3.1/brython.js"&gt;&lt;/script&gt;
+
+&lt;script src="../data/Brython-3.3.1/brython_stdlib.js"&gt;&lt;/script&gt;
+
+&lt;!-- 啟動 Brython --&gt;
+
+&lt;script&gt;
+window.onload=function(){
+// 設定 data/py 為共用程式路徑
+brython({debug:1, pythonpath:['./../data/py']});
+}
+&lt;/script&gt;
+
+&lt;!-- 以下實際利用  Brython 繪圖正齒輪--&gt;
+
+&lt;canvas id="onegear" width="800" height="600"&gt;&lt;/canvas&gt;
+
+&lt;div id="onegear_div" width="800" height="20"&gt;&lt;/div&gt;
+
+&lt;script type="text/python3"&gt;
+from browser import document as doc
+import math
+# deg 為角度轉為徑度的轉換因子
+deg = math.pi/180.
+# 定義 Spur 類別
+class Spur(object):
+    def __init__(self, ctx):
+        self.ctx = ctx
+
+    def create_line(self, x1, y1, x2, y2, width=3, fill="red"):
+        self.ctx.beginPath()
+        self.ctx.lineWidth = width
+        self.ctx.moveTo(x1, y1)
+        self.ctx.lineTo(x2, y2)
+        self.ctx.strokeStyle = fill
+        self.ctx.stroke()
+    #
+    # 定義一個繪正齒輪的繪圖函式
+    # midx 為齒輪圓心 x 座標
+    # midy 為齒輪圓心 y 座標
+    # rp 為節圓半徑, n 為齒數
+    # pa 為壓力角 (deg)
+    # rot 為旋轉角 (deg)
+    # 已經針對 n 大於等於 52 齒時的繪圖錯誤修正, 因為 base circle 與齒根圓大小必須進行判斷
+    def Gear(self, midx, midy, rp, n=20, pa=20, color="black"):
+
+
+ctx.beginPath()
+ctx.fillStytle = "#000000"
+ctx.font = "40px ScriptS"
+ctx.fillText("40423245",x-50,y)
+ctx.stroke()
+
+&lt;/script&gt;</summary><category term="notes"></category><category term="w17"></category></entry><entry><title>2017/06/07 W16 上課筆記</title><link href="./2017spring-cd-W16.html" rel="alternate"></link><published>2017-06-07T09:00:00+08:00</published><updated>2017-06-07T09:00:00+08:00</updated><author><name>40423245</name></author><id>tag:,2017-06-07:./2017spring-cd-W16.html</id><summary type="html">&lt;p&gt;練習如何遠端連結Fossil伺服器&lt;/p&gt;
 
 
 &lt;p&gt;老師第一節課介紹如何利用Xming連結Fossil伺服器&lt;/p&gt;
