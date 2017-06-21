@@ -27,7 +27,7 @@
 <v t="yen.20170215103332.1"><vh>@edit base.html</vh></v>
 </v>
 </v>
-<v t="yen.20170120110024.1"><vh>@clean index.html</vh>
+<v t="yen.20170120110024.1" a="E"><vh>@clean index.html</vh>
 <v t="yen.20170120110024.2" a="E"><vh>html</vh>
 <v t="yen.20170120110024.3"><vh>head</vh></v>
 <v t="yen.20170120110024.4" a="E"><vh>body</vh>
@@ -484,7 +484,7 @@
 <v t="leo.20170610103339.2"><vh>上課內容</vh>
 <v t="leo.20170610103339.3"><vh>上課大綱</vh></v>
 </v>
-<v t="leo.20170610103339.4" a="E"><vh>上課內容</vh>
+<v t="leo.20170610103339.4"><vh>上課內容</vh>
 <v t="leo.20170610103339.5"><vh>上課大綱</vh></v>
 </v>
 <v t="leo.20170610103339.6"><vh>上課內容</vh>
@@ -620,6 +620,14 @@
 <v t="leo.20170610112950.5"><vh>上課大綱</vh></v>
 </v>
 </v>
+<v t="leo.20170621082850.1"><vh>20170405第十八週上課筆記</vh>
+<v t="leo.20170621082850.2"><vh>上課內容</vh>
+<v t="leo.20170621082850.3"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170621083037.1"><vh>上課內容</vh>
+<v t="leo.20170621083037.2"><vh>上課大綱</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -680,12 +688,6 @@
 </v>
 </v>
 <v t="yen.20170209024032.1"><vh>reference</vh></v>
-<v t="leo.20170614084210.2" a="E"><vh>Recovered Nodes</vh>
-<v t="leo.20170614084210.3"><vh>Recovered node "圖片" from @clean index.html</vh>
-<v t="leo.20170614084210.4"><vh>old:圖片</vh></v>
-<v t="leo.20170614084210.5"><vh>new:圖片</vh></v>
-</v>
-</v>
 </vnodes>
 <tnodes>
 <t tx="leo.20170303212553.1">@language md
@@ -5619,25 +5621,40 @@ Cango = (function(CangoCore)  // Cango must be declared a global before this fil
 
 ##第三四節的報告延至下週
 </t>
-<t tx="leo.20170614084210.2"></t>
-<t tx="leo.20170614084210.3">(uncached) leo.20170312212027.2
-Diff...
-- ####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-+ ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
-?                               ^
-  
-  &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
-  
+<t tx="leo.20170621082850.1">&lt;section&gt;
+@others
+&lt;/section&gt;
 </t>
-<t tx="leo.20170614084210.4">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+<t tx="leo.20170621082850.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
 
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
+
+
+						
+</t>
+<t tx="leo.20170621082850.3">#第十八週上課筆記
+
+
 
 </t>
-<t tx="leo.20170614084210.5">####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+<t tx="leo.20170621083037.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
 
-&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
+
+
+						
+</t>
+<t tx="leo.20170621083037.2">&lt;a href="https://40423222.github.io/2017springcd_bg7/blog/%E6%9C%9F%E6%9C%AB%E8%A8%88%E7%95%AB-%E8%A1%8C%E8%B5%B0%E6%A9%9F%E6%A7%8B.html"&gt;行走機構網誌&lt;/a&gt;
+
+
 
 </t>
 <t tx="yen.20170108171605.1"></t>
