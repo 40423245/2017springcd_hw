@@ -620,6 +620,14 @@
 <v t="leo.20170610112950.5"><vh>上課大綱</vh></v>
 </v>
 </v>
+<v t="leo.20170621083909.1"><vh>20170405第十七週上課筆記</vh>
+<v t="leo.20170621083909.2"><vh>上課內容</vh>
+<v t="leo.20170621083909.3"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170621084055.1"><vh>上課內容</vh>
+<v t="leo.20170621084055.2"><vh>上課大綱</vh></v>
+</v>
+</v>
 <v t="leo.20170621082850.1"><vh>20170405第十八週上課筆記</vh>
 <v t="leo.20170621082850.2"><vh>上課內容</vh>
 <v t="leo.20170621082850.3"><vh>上課大綱</vh></v>
@@ -5656,6 +5664,39 @@ Cango = (function(CangoCore)  // Cango must be declared a global before this fil
 
 
 
+</t>
+<t tx="leo.20170621083909.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170621083909.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621083909.3">#第十七週上課筆記
+
+##期末協同查驗與自評
+
+</t>
+<t tx="leo.20170621084055.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084055.2">&lt;iframe src="data/W17/ass.html" width="800" height="600"&gt;&lt;/iframe&gt;
 </t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
