@@ -28,7 +28,7 @@
 </v>
 </v>
 <v t="yen.20170120110024.1" a="E"><vh>@clean index.html</vh>
-<v t="yen.20170120110024.2" a="E"><vh>html</vh>
+<v t="yen.20170120110024.2"><vh>html</vh>
 <v t="yen.20170120110024.3"><vh>head</vh></v>
 <v t="yen.20170120110024.4" a="E"><vh>body</vh>
 <v t="yen.20170120110024.5" a="E"><vh>reveal div</vh>
@@ -644,7 +644,7 @@
 </v>
 </v>
 </v>
-<v t="yen.20170108171733.71"><vh>@path content</vh>
+<v t="yen.20170108171733.71" a="E"><vh>@path content</vh>
 <v t="yen.20170123225841.1"><vh>@edit 20170222.md</vh></v>
 <v t="leo.20170304202845.1"><vh>@edit 20170301.md</vh></v>
 <v t="leo.20170309204306.1"><vh>@edit 20170308.md</vh></v>
@@ -665,6 +665,7 @@
 <v t="leo.20170531083924.1"><vh>@edit 20170531.md</vh></v>
 <v t="leo.20170610112242.1"><vh>@edit 20170607.md</vh></v>
 <v t="leo.20170614083738.1"><vh>@edit 20170614.md</vh></v>
+<v t="leo.20170623201835.1"><vh>@edit 20170621.md</vh></v>
 <v t="leo.20170303212553.1"><vh>@@edit 20170108.md</vh></v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
@@ -703,6 +704,12 @@
 <v t="leo.20170621095346.3"><vh>Recovered node "圖片" from @clean index.html</vh>
 <v t="leo.20170621095346.4"><vh>old:圖片</vh></v>
 <v t="leo.20170621095346.5"><vh>new:圖片</vh></v>
+</v>
+</v>
+<v t="leo.20170623201744.1" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20170623201744.2"><vh>Recovered node "圖片" from @clean index.html</vh>
+<v t="leo.20170623201744.3"><vh>old:圖片</vh></v>
+<v t="leo.20170623201744.4"><vh>new:圖片</vh></v>
 </v>
 </v>
 </vnodes>
@@ -5725,7 +5732,7 @@ Cango = (function(CangoCore)  // Cango must be declared a global before this fil
 <t tx="leo.20170621095346.2"></t>
 <t tx="leo.20170621095346.3">(uncached) leo.20170312212027.2
 Diff...
-- ####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+- ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
 ?                               ^
 + ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
 ?                               ^
@@ -5738,7 +5745,28 @@ Diff...
 &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
 
 </t>
-<t tx="leo.20170621095346.5">####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+<t tx="leo.20170621095346.5">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+
+&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
+
+</t>
+<t tx="leo.20170623201744.1"></t>
+<t tx="leo.20170623201744.2">(uncached) leo.20170312212027.2
+Diff...
+- ####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+?                               ^
++ ####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+?                               ^
+  
+  &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
+  
+</t>
+<t tx="leo.20170623201744.3">####接著可利用Stop point 將路徑匯出成csv檔 ，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
+
+&lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
+
+</t>
+<t tx="leo.20170623201744.4">####接著可利用Stop point 將路徑匯出成csv檔，接著可利用Excel裡的圖表繪製功能驗證軌跡是否相同。
 
 &lt;img src="data/image W3/Excel trace point.png" width="560" /&gt;
 
